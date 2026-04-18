@@ -1,0 +1,357 @@
+{
+  "_meta": {
+    "description": "YouTube RPM and CPM benchmark data aggregated from verified creator-facing sources",
+    "last_updated": "2025-Q4 / 2026-Q1",
+    "methodology_note": "Data aggregated from OutlierKit (AI+human curated niche data, updated monthly), Lenos/LenosTube (creator report aggregations), upGrowth industry reports, and MilX market analysis. RPM = creator earnings per 1,000 views after YouTube's 45% revenue share and accounting for non-monetized impressions. CPM = advertiser cost per 1,000 ad impressions before platform cut. No source has direct YouTube Analytics API access — all figures are aggregated from creator-submitted dashboards, public disclosures, and research panels. Treat all values as benchmarks, not guarantees.",
+    "sources": [
+      {
+        "name": "OutlierKit",
+        "url": "https://outlierkit.com/blog/most-profitable-youtube-niches",
+        "type": "AI + human curated niche data",
+        "update_frequency": "Every 30 days",
+        "data_basis": "Curated from creator-reported dashboard data; does NOT have direct YouTube Analytics API access"
+      },
+      {
+        "name": "Lenos (LenosTube)",
+        "url": "https://www.lenostube.com/en/youtube-cpm-rpm-rates/",
+        "type": "Aggregated creator report data",
+        "data_basis": "Aggregated from creator-reported earnings and cross-referenced public disclosures"
+      },
+      {
+        "name": "upGrowth",
+        "url": "https://upgrowth.in/youtube-cpm-overview-highest-paying-niches/",
+        "type": "Industry research report",
+        "data_basis": "Research panel aggregation"
+      },
+      {
+        "name": "MilX",
+        "url": "https://milx.app/en/trends/the-most-profitable-youtube-niches-in-2025",
+        "type": "Market analysis",
+        "data_basis": "Creator market analysis and public earnings data"
+      },
+      {
+        "name": "Influencer Marketing Hub",
+        "url": "https://influencermarketinghub.com/youtube-shorts-rpm/",
+        "type": "Industry benchmark report",
+        "data_basis": "Survey and creator dashboard aggregation"
+      }
+    ]
+  },
+
+  "rpm_by_niche": {
+    "_region": "United States (Tier 1 advertiser market)",
+    "_format": "Long-form video (8+ minutes)",
+    "_period": "Annual average; see seasonal_multipliers for quarterly adjustments",
+    "_confidence_note": "high = 3+ independent sources agree; medium = 2 sources; low = single source or wide variance",
+
+    "niches": [
+      {
+        "niche": "Personal Finance & Investing",
+        "rpm_usd_low": 10.00,
+        "rpm_usd_avg": 18.00,
+        "rpm_usd_high": 40.00,
+        "rpm_usd_top_performers": 45.00,
+        "confidence": "high",
+        "notes": "Highest-paying broad category. Top performers in credit card review and investment content reach $30-$45 RPM in Q4. OutlierKit reports finance niche avg $10-$25, top performers $29+. Lenos cites $15-$50 CPM for this category.",
+        "sources": ["OutlierKit", "Lenos", "upGrowth", "MilX"]
+      },
+      {
+        "niche": "Credit Cards & Financial Products",
+        "rpm_usd_low": 15.00,
+        "rpm_usd_avg": 25.00,
+        "rpm_usd_high": 45.00,
+        "rpm_usd_q4_peak": 45.00,
+        "confidence": "high",
+        "notes": "Sub-niche of finance. Card issuers compete heavily for Q4 holiday-spend acquisition. Multiple creator reports confirm $30-$45 RPM in Q4. Lenos affiliate marketing sub-set averages $17 CPM.",
+        "sources": ["OutlierKit", "Lenos", "upGrowth"]
+      },
+      {
+        "niche": "Real Estate",
+        "rpm_usd_low": 8.00,
+        "rpm_usd_avg": 15.00,
+        "rpm_usd_high": 35.00,
+        "confidence": "high",
+        "notes": "Legal & Real Estate grouped together by multiple sources at $20-$35 RPM. Real estate investing content specifically averages $8-$10 RPM at the lower end of the bracket per some panels.",
+        "sources": ["OutlierKit", "upGrowth", "MilX"]
+      },
+      {
+        "niche": "Legal / Law",
+        "rpm_usd_low": 12.00,
+        "rpm_usd_avg": 22.00,
+        "rpm_usd_high": 35.00,
+        "confidence": "medium",
+        "notes": "Consistently grouped with real estate in high-CPM legal advertising category. High advertiser intent from law firms and legal services.",
+        "sources": ["OutlierKit", "upGrowth"]
+      },
+      {
+        "niche": "Business & Entrepreneurship",
+        "rpm_usd_low": 8.00,
+        "rpm_usd_avg": 14.00,
+        "rpm_usd_high": 25.00,
+        "confidence": "medium",
+        "notes": "B2B-adjacent advertising demand drives above-average rates. SaaS and business-service advertisers pay premium CPMs for this demographic.",
+        "sources": ["OutlierKit", "MilX"]
+      },
+      {
+        "niche": "Technology Reviews",
+        "rpm_usd_low": 4.00,
+        "rpm_usd_avg": 8.00,
+        "rpm_usd_high": 18.00,
+        "confidence": "medium",
+        "notes": "Wide variance within tech. Photography content ~$7.31 CPM (upGrowth). General tech ~$2.39 CPM. Premium enterprise software reviews can exceed $15 CPM. Lenos cites tech reviews at $12-$18 CPM range.",
+        "sources": ["upGrowth", "Lenos"]
+      },
+      {
+        "niche": "Health & Fitness (General)",
+        "rpm_usd_low": 4.00,
+        "rpm_usd_avg": 7.00,
+        "rpm_usd_high": 15.00,
+        "confidence": "medium",
+        "notes": "High variance depending on sub-niche. Supplement and fitness-product advertisers push rates up for workout content.",
+        "sources": ["OutlierKit", "upGrowth"]
+      },
+      {
+        "niche": "Senior Health & Longevity",
+        "rpm_usd_low": 5.00,
+        "rpm_usd_avg": 6.17,
+        "rpm_usd_high": 12.00,
+        "confidence": "medium",
+        "notes": "OutlierKit reports $6.17 RPM with 19x growth trend flagged. Aging-population demographic commands premium healthcare advertiser rates.",
+        "sources": ["OutlierKit"]
+      },
+      {
+        "niche": "Education (Academic / How-To)",
+        "rpm_usd_low": 4.00,
+        "rpm_usd_avg": 7.00,
+        "rpm_usd_high": 15.00,
+        "confidence": "medium",
+        "notes": "EdTech advertisers pay well for verified learning audiences. Language-learning content specifically: OutlierKit reports English-learning podcasts at $11.88 RPM.",
+        "sources": ["OutlierKit", "MilX"]
+      },
+      {
+        "niche": "English Learning Podcasts",
+        "rpm_usd_avg": 11.88,
+        "confidence": "low",
+        "notes": "OutlierKit-specific data point from curated niche benchmarks. Single source; treat as directional.",
+        "sources": ["OutlierKit"]
+      },
+      {
+        "niche": "Automotive",
+        "rpm_usd_low": 4.00,
+        "rpm_usd_avg": 7.00,
+        "rpm_usd_high": 15.00,
+        "confidence": "medium",
+        "notes": "Car dealership and insurance advertisers drive above-average CPM. upGrowth cites average car channel CPM at $4.32 but premium auto content (luxury, EV) runs higher.",
+        "sources": ["upGrowth", "MilX"]
+      },
+      {
+        "niche": "Travel",
+        "rpm_usd_low": 3.00,
+        "rpm_usd_avg": 5.50,
+        "rpm_usd_high": 10.00,
+        "confidence": "medium",
+        "notes": "Hotel, airline, and travel-booking advertisers. Seasonal peaks in Q2/Q3 (travel planning season) vs. Q1/Q4 for general advertisers.",
+        "sources": ["MilX", "upGrowth"]
+      },
+      {
+        "niche": "Food & Cooking",
+        "rpm_usd_low": 2.00,
+        "rpm_usd_avg": 4.00,
+        "rpm_usd_high": 8.00,
+        "confidence": "medium",
+        "notes": "Lower advertiser CPM per view due to broad, less-targeted demographic. Cooking appliance and food-delivery sponsors can supplement AdSense.",
+        "sources": ["MilX", "upGrowth"]
+      },
+      {
+        "niche": "Beauty & Fashion",
+        "rpm_usd_low": 3.00,
+        "rpm_usd_avg": 5.00,
+        "rpm_usd_high": 10.00,
+        "confidence": "medium",
+        "notes": "Beauty brand CPMs vary widely. Luxury beauty skews higher. Typically middle-tier RPM despite strong brand-deal ecosystem outside AdSense.",
+        "sources": ["MilX", "upGrowth"]
+      },
+      {
+        "niche": "Gaming",
+        "rpm_usd_low": 2.00,
+        "rpm_usd_avg": 3.50,
+        "rpm_usd_high": 5.00,
+        "rpm_usd_adult_game_reviews": 10.00,
+        "confidence": "high",
+        "notes": "Consistently lowest-paying mainstream niche. Younger demographic with lower advertiser willingness to pay. Median US gaming channel RPM confirmed at $3.50 across multiple sources. Exception: adult-gamer review content can reach $6-$10 RPM.",
+        "sources": ["OutlierKit", "Lenos", "upGrowth", "MilX"]
+      },
+      {
+        "niche": "Entertainment & Vlogs",
+        "rpm_usd_low": 1.00,
+        "rpm_usd_avg": 2.50,
+        "rpm_usd_high": 5.00,
+        "confidence": "high",
+        "notes": "Broad, non-targeted audience means lowest advertiser intent. General entertainment and reaction content sit at the bottom of the RPM ladder.",
+        "sources": ["OutlierKit", "Lenos", "MilX"]
+      },
+      {
+        "niche": "Comedy",
+        "rpm_usd_low": 1.00,
+        "rpm_usd_avg": 2.00,
+        "rpm_usd_high": 4.00,
+        "confidence": "medium",
+        "notes": "Similar to entertainment vlogs. Young, broad demographic with low advertiser purchase-intent overlay.",
+        "sources": ["MilX", "upGrowth"]
+      },
+      {
+        "niche": "Betrayal & Revenge Narratives (Storytelling)",
+        "rpm_usd_avg": 12.82,
+        "confidence": "low",
+        "notes": "OutlierKit-specific curated benchmark. Storytelling format drives high watch time and engagement signals that push RPM above the entertainment baseline. Single source; treat as directional.",
+        "sources": ["OutlierKit"]
+      },
+      {
+        "niche": "Healing Soundscapes / Ambient Audio",
+        "rpm_usd_avg": 10.92,
+        "confidence": "low",
+        "notes": "OutlierKit-specific curated benchmark. Wellness advertiser overlap drives above-average RPM for the format. Single source; treat as directional.",
+        "sources": ["OutlierKit"]
+      }
+    ]
+  },
+
+  "rpm_shorts": {
+    "_format": "YouTube Shorts (vertical, sub-60s)",
+    "_region": "United States",
+    "_period": "2025",
+    "platform_avg_rpm_usd": 0.05,
+    "niches": [
+      {
+        "niche": "Finance Shorts",
+        "rpm_usd_low": 0.05,
+        "rpm_usd_high": 0.30,
+        "notes": "10x higher than comedy Shorts but still 50-100x below long-form finance RPM"
+      },
+      {
+        "niche": "Comedy / Entertainment Shorts",
+        "rpm_usd_low": 0.03,
+        "rpm_usd_high": 0.07,
+        "notes": "Lowest Shorts RPM tier"
+      }
+    ],
+    "notes": "Shorts RPM is fundamentally different from long-form: the Shorts Feed ad pool is shared across all videos, and YouTube allocates the resulting revenue by watch-time share. Expect 50-100x lower RPM than equivalent long-form content. Source: Influencer Marketing Hub YouTube Shorts RPM report.",
+    "sources": ["Influencer Marketing Hub"]
+  },
+
+  "cpm_by_country": {
+    "_metric": "CPM (advertiser cost per 1,000 ad impressions, all-niche average unless noted)",
+    "_period": "2025-2026",
+    "_note": "RPM ≈ CPM × 0.45–0.55 after YouTube's 45% platform share and non-monetized view discount",
+
+    "countries": [
+      {
+        "country": "Australia",
+        "avg_cpm_usd": 36.21,
+        "tier": 1,
+        "confidence": "medium",
+        "notes": "upGrowth 2026 data. Leads Tier 1 markets. Small creator base relative to audience size keeps competition high.",
+        "sources": ["upGrowth"]
+      },
+      {
+        "country": "United States",
+        "avg_cpm_usd_premium_niches": 32.75,
+        "platform_wide_cpm_dec_2024": 5.70,
+        "platform_wide_cpm_peak_week_dec_2024": 6.93,
+        "platform_wide_cpm_jan_2025": 1.98,
+        "tier": 1,
+        "confidence": "high",
+        "notes": "IMPORTANT: The $32.75 figure from upGrowth reflects premium finance/business niches — not a platform-wide average. Lenos platform-wide data shows December 2024 averaged $5.70 CPM (peak week $6.93 during Cyber Week), and January 2025 dipped to $1.98. These two figures are not contradictory — they reflect niche vs. platform-wide views. Finance CPM: $15-$50.",
+        "sources": ["upGrowth", "Lenos"]
+      },
+      {
+        "country": "United Kingdom",
+        "avg_cpm_usd": 6.53,
+        "cpm_usd_range_low": 4.53,
+        "cpm_usd_range_high": 12.27,
+        "tier": 1,
+        "confidence": "medium",
+        "notes": "Median figure; premium finance content runs higher end of range.",
+        "sources": ["Lenos", "upGrowth"]
+      },
+      {
+        "country": "Canada",
+        "tier": 1,
+        "confidence": "low",
+        "notes": "Consistently grouped with high-CPM Tier 1 markets. Specific CPM figures vary by source; expect similar range to UK upper-mid.",
+        "sources": ["Lenos", "upGrowth"]
+      },
+      {
+        "country": "Germany",
+        "avg_cpm_usd": 5.53,
+        "tier": 1,
+        "confidence": "medium",
+        "notes": "Lenos data. DACH market (Germany, Austria, Switzerland) drives premium European CPM.",
+        "sources": ["Lenos"]
+      },
+      {
+        "country": "India",
+        "avg_cpm_usd": 0.74,
+        "cpm_usd_range_low": 0.30,
+        "cpm_usd_range_high": 2.50,
+        "tier": 3,
+        "confidence": "high",
+        "notes": "Multiple sources confirm sub-$1 average. 1M views in India ≈ $600-$2,400 revenue. Approx. 40-45x lower per-impression value than a US viewer in comparable content.",
+        "sources": ["Lenos", "upGrowth", "MilX"]
+      },
+      {
+        "country": "Brazil",
+        "avg_cpm_usd": 1.47,
+        "cpm_usd_range_low": 1.30,
+        "cpm_usd_range_high": 1.64,
+        "tier": 2,
+        "confidence": "medium",
+        "notes": "Growing advertiser market but significantly below Tier 1.",
+        "sources": ["upGrowth", "MilX"]
+      },
+      {
+        "country": "Philippines",
+        "avg_cpm_usd": 1.12,
+        "tier": 3,
+        "confidence": "medium",
+        "notes": "Lower advertiser budget density. Common in Tier 3 Southeast Asian grouping.",
+        "sources": ["upGrowth"]
+      }
+    ]
+  },
+
+  "seasonal_multipliers": {
+    "_base": "Q4 annual average RPM = 1.0x baseline",
+    "_source": "Lenos platform-wide CPM trend data (Dec 2024 peak $6.93, Jan 2025 trough $1.98); OutlierKit seasonal guidance",
+
+    "quarters": [
+      {
+        "quarter": "Q1 (January–March)",
+        "relative_rpm": "0.45–0.60x",
+        "notes": "Advertiser budgets reset after Q4 holiday spend. January 2025 platform CPM hit $1.98 — the year's trough. New-year fitness, tax, and finance verticals partially offset the slump."
+      },
+      {
+        "quarter": "Q2 (April–June)",
+        "relative_rpm": "0.65–0.80x",
+        "notes": "Gradual recovery. Travel and outdoor-lifestyle advertisers ramp for summer planning season. Finance remains elevated through tax season (April)."
+      },
+      {
+        "quarter": "Q3 (July–September)",
+        "relative_rpm": "0.70–0.85x",
+        "notes": "Back-to-school spend in August/September lifts tech and education CPMs. General summer slump in broad entertainment niches."
+      },
+      {
+        "quarter": "Q4 (October–December)",
+        "relative_rpm": "1.0–1.4x",
+        "notes": "Peak advertiser competition for holiday and year-end budgets. Lenos: Dec 2024 averaged $5.70 platform-wide CPM; Cyber Week peak $6.93. Finance and credit card advertisers reach $30-$45 RPM. Q4 premium is most pronounced in high-intent niches (finance, retail, tech)."
+      }
+    ]
+  },
+
+  "rpm_vs_cpm_explainer": {
+    "cpm": "Cost Per Mille — what the advertiser pays per 1,000 ad impressions. Set by auction.",
+    "rpm": "Revenue Per Mille — what the creator actually receives per 1,000 video views. Always lower than CPM.",
+    "gap_explanation": "The CPM→RPM gap has two components: (1) YouTube keeps 45% of ad revenue; (2) not every video view results in a monetized ad impression (ad-blockers, skipped pre-rolls, non-monetized regions). In practice RPM ≈ CPM × 0.45–0.55.",
+    "example": "A $10 CPM typically delivers ~$4.50–$5.50 RPM after platform cut and non-monetized view discount."
+  }
+}
