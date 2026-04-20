@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GeekBot — Your Tech Content Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="nav-logo" href="#">
+        <span class="logo-icon">⚡</span> GeekBot
+      </a>
+      <ul class="nav-links">
+        <li><a href="#features">Features</a></li>
+        <li><a href="#trending">Trending</a></li>
+        <li><a href="#stats">Stats</a></li>
+      </ul>
+      <a href="#" class="btn btn-primary">Get Started</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-badge">Now with AI Summaries ✨</div>
+    <h1 class="hero-title">Your <span class="gradient-text">Tech Content</span> Hub</h1>
+    <p class="hero-subtitle">
+      Discover, organize, and learn from the best tech YouTube content — powered by AI.
+    </p>
+    <div class="hero-cta">
+      <a href="#features" class="btn btn-primary btn-lg">Explore Features</a>
+      <a href="#trending" class="btn btn-ghost btn-lg">See Trending</a>
+    </div>
+    <div class="hero-status" id="status-indicator">
+      <span class="status-dot"></span>
+      <span id="status-text">Checking server…</span>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <section class="stats-band" id="stats">
+    <div class="container stats-grid" id="stats-grid">
+      <div class="stat-item">
+        <div class="stat-value" data-key="videos">—</div>
+        <div class="stat-label">Videos Indexed</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value" data-key="subscribers">—</div>
+        <div class="stat-label">Subscribers</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value" data-key="categories">—</div>
+        <div class="stat-label">Categories</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value" data-key="hoursWatched">—</div>
+        <div class="stat-label">Hours Watched</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section class="section" id="features">
+    <div class="container">
+      <div class="section-header">
+        <h2>Everything you need to <span class="gradient-text">level up</span></h2>
+        <p>A full suite of tools for the modern tech learner.</p>
+      </div>
+      <div class="features-grid" id="features-grid">
+        <!-- populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- TRENDING -->
+  <section class="section section-alt" id="trending">
+    <div class="container">
+      <div class="section-header">
+        <h2>Trending <span class="gradient-text">Right Now</span></h2>
+        <p>What the community is watching this week.</p>
+      </div>
+      <div class="trending-list" id="trending-list">
+        <!-- populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA BANNER -->
+  <section class="cta-banner">
+    <div class="container cta-inner">
+      <h2>Ready to geek out?</h2>
+      <p>Join thousands of developers learning something new every day.</p>
+      <a href="#" class="btn btn-primary btn-lg">Start for Free</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span class="nav-logo"><span class="logo-icon">⚡</span> GeekBot</span>
+      <span class="footer-copy">© 2026 GeekBot. Built with Express &amp; ❤️</span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
