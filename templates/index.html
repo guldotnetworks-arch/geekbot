@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Productivity Tracker</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>Productivity Tracker</h1>
+      <span id="today-label" class="date-badge"></span>
+    </div>
+  </header>
+
+  <main>
+    <!-- ── Stats Row ── -->
+    <section class="stats-row">
+      <div class="stat-card">
+        <span class="stat-value" id="stat-pomodoros">0</span>
+        <span class="stat-label">Pomodoros</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-value" id="stat-focus">0m</span>
+        <span class="stat-label">Focus Time</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-value" id="stat-tasks">0/0</span>
+        <span class="stat-label">Tasks Done</span>
+      </div>
+    </section>
+
+    <!-- ── Main Grid ── -->
+    <div class="grid">
+
+      <!-- Pomodoro Timer -->
+      <section class="card timer-card">
+        <h2>Pomodoro Timer</h2>
+        <div class="timer-mode-tabs">
+          <button class="mode-btn active" data-mode="work" data-minutes="25">Work</button>
+          <button class="mode-btn" data-mode="short" data-minutes="5">Short Break</button>
+          <button class="mode-btn" data-mode="long" data-minutes="15">Long Break</button>
+        </div>
+        <div class="timer-display">
+          <svg class="ring-svg" viewBox="0 0 120 120">
+            <circle class="ring-bg" cx="60" cy="60" r="52" />
+            <circle class="ring-progress" id="ring-progress" cx="60" cy="60" r="52" />
+          </svg>
+          <span id="timer-time">25:00</span>
+        </div>
+        <div class="timer-task-row">
+          <select id="timer-task-select">
+            <option value="">— no task selected —</option>
+          </select>
+        </div>
+        <div class="timer-controls">
+          <button id="btn-start" class="btn-primary">Start</button>
+          <button id="btn-reset" class="btn-ghost">Reset</button>
+        </div>
+      </section>
+
+      <!-- Task List -->
+      <section class="card tasks-card">
+        <h2>Tasks</h2>
+        <form id="task-form" autocomplete="off">
+          <input id="task-input" type="text" placeholder="Add a task…" maxlength="200" />
+          <button type="submit" class="btn-primary">Add</button>
+        </form>
+        <ul id="task-list"></ul>
+      </section>
+
+      <!-- Weekly Chart -->
+      <section class="card chart-card">
+        <h2>Last 7 Days — Focus Minutes</h2>
+        <div class="bar-chart" id="bar-chart"></div>
+      </section>
+
+    </div>
+  </main>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
