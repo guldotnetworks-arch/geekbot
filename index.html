@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Geekbot — Tech for Humans</title>
+  <meta name="description" content="Geekbot — deep dives into tech, code, and all things geek. Subscribe for new videos every week." />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d0f14;
+      --surface:   #161b24;
+      --border:    #1e2735;
+      --accent:    #5865f2;
+      --accent2:   #7c3aed;
+      --text:      #e2e8f0;
+      --muted:     #8b98b1;
+      --red:       #ff0000;
+      --radius:    12px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* ── NAV ─────────────────────────────────────────── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 1rem 2rem;
+      background: rgba(13,15,20,.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-logo {
+      font-size: 1.25rem; font-weight: 700; color: var(--text);
+      text-decoration: none; display: flex; align-items: center; gap: .5rem;
+    }
+
+    .nav-logo svg { width: 28px; height: 28px; }
+
+    .nav-links {
+      display: flex; align-items: center; gap: 2rem; list-style: none;
+    }
+
+    .nav-links a {
+      color: var(--muted); text-decoration: none; font-size: .95rem;
+      transition: color .2s;
+    }
+
+    .nav-links a:hover { color: var(--text); }
+
+    .nav-cta {
+      background: var(--red); color: #fff; border: none; cursor: pointer;
+      padding: .5rem 1.2rem; border-radius: 6px; font-size: .9rem;
+      font-weight: 600; text-decoration: none; transition: opacity .2s;
+    }
+
+    .nav-cta:hover { opacity: .85; }
+
+    .hamburger {
+      display: none; flex-direction: column; gap: 5px; cursor: pointer;
+      background: none; border: none; padding: 4px;
+    }
+
+    .hamburger span {
+      display: block; width: 24px; height: 2px;
+      background: var(--text); border-radius: 2px; transition: all .3s;
+    }
+
+    .mobile-menu {
+      display: none; position: fixed; top: 65px; left: 0; right: 0;
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      flex-direction: column; padding: 1.5rem 2rem; gap: 1.25rem; z-index: 99;
+    }
+
+    .mobile-menu.open { display: flex; }
+    .mobile-menu a { color: var(--text); text-decoration: none; font-size: 1rem; }
+
+    /* ── HERO ────────────────────────────────────────── */
+    #hero {
+      min-height: 100vh;
+      display: flex; align-items: center; justify-content: center;
+      text-align: center; padding: 6rem 1.5rem 4rem;
+      position: relative; overflow: hidden;
+    }
+
+    .hero-glow {
+      position: absolute; top: -200px; left: 50%; transform: translateX(-50%);
+      width: 700px; height: 700px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(88,101,242,.18) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: .5rem;
+      background: rgba(88,101,242,.12); border: 1px solid rgba(88,101,242,.3);
+      color: #a5b4fc; padding: .35rem .85rem; border-radius: 999px;
+      font-size: .82rem; font-weight: 600; margin-bottom: 1.75rem;
+    }
+
+    .hero-badge span { width: 7px; height: 7px; border-radius: 50%; background: #a5b4fc; animation: pulse 2s infinite; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; } 50% { opacity: .3; }
+    }
+
+    h1 {
+      font-size: clamp(2.4rem, 6vw, 4.5rem);
+      font-weight: 800; line-height: 1.1; margin-bottom: 1.25rem;
+    }
+
+    .gradient-text {
+      background: linear-gradient(135deg, #5865f2 0%, #a78bfa 50%, #ec4899 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-sub {
+      font-size: clamp(1rem, 2.5vw, 1.2rem);
+      color: var(--muted); max-width: 520px; margin: 0 auto 2.5rem;
+    }
+
+    .hero-actions {
+      display: flex; align-items: center; justify-content: center;
+      gap: 1rem; flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      display: inline-flex; align-items: center; gap: .5rem;
+      background: var(--red); color: #fff; padding: .8rem 1.75rem;
+      border-radius: 8px; font-weight: 600; text-decoration: none;
+      font-size: 1rem; transition: transform .15s, opacity .15s;
+    }
+
+    .btn-primary:hover { opacity: .88; transform: translateY(-1px); }
+
+    .btn-secondary {
+      display: inline-flex; align-items: center; gap: .5rem;
+      background: transparent; color: var(--text);
+      border: 1px solid var(--border); padding: .8rem 1.75rem;
+      border-radius: 8px; font-weight: 600; text-decoration: none;
+      font-size: 1rem; transition: background .15s, border-color .15s;
+    }
+
+    .btn-secondary:hover { background: var(--surface); border-color: var(--muted); }
+
+    .hero-stats {
+      display: flex; justify-content: center; gap: 3rem; margin-top: 4rem;
+      flex-wrap: wrap;
+    }
+
+    .stat { text-align: center; }
+    .stat-num { font-size: 1.75rem; font-weight: 800; color: var(--text); }
+    .stat-label { font-size: .82rem; color: var(--muted); margin-top: .2rem; }
+
+    /* ── SECTIONS ────────────────────────────────────── */
+    section { padding: 5rem 1.5rem; }
+
+    .container { max-width: 1100px; margin: 0 auto; }
+
+    .section-tag {
+      font-size: .8rem; font-weight: 700; letter-spacing: .1em;
+      text-transform: uppercase; color: #818cf8; margin-bottom: .75rem;
+    }
+
+    .section-title {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      font-weight: 800; margin-bottom: 1rem; line-height: 1.2;
+    }
+
+    .section-sub {
+      color: var(--muted); font-size: 1.05rem; max-width: 580px;
+    }
+
+    /* ── ABOUT ───────────────────────────────────────── */
+    #about { background: var(--surface); }
+
+    .about-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 4rem;
+      align-items: center; margin-top: 3rem;
+    }
+
+    .about-avatar {
+      width: 100%; max-width: 380px; margin: 0 auto;
+      border-radius: var(--radius); overflow: hidden;
+      border: 2px solid var(--border);
+      background: linear-gradient(135deg, #1e2735 0%, #0d0f14 100%);
+      aspect-ratio: 1;
+      display: flex; align-items: center; justify-content: center;
+    }
+
+    .avatar-placeholder {
+      width: 100%; height: 100%;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center; gap: 1rem;
+    }
+
+    .avatar-placeholder svg { width: 80px; height: 80px; opacity: .4; }
+    .avatar-placeholder p { color: var(--muted); font-size: .85rem; }
+
+    .about-text p { color: var(--muted); margin-bottom: 1rem; }
+
+    .topics {
+      display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.5rem;
+    }
+
+    .topic-chip {
+      background: rgba(88,101,242,.1); border: 1px solid rgba(88,101,242,.25);
+      color: #a5b4fc; padding: .3rem .75rem; border-radius: 6px;
+      font-size: .82rem; font-weight: 500;
+    }
+
+    /* ── VIDEOS ──────────────────────────────────────── */
+    #videos { background: var(--bg); }
+
+    .videos-header {
+      display: flex; align-items: flex-end; justify-content: space-between;
+      margin-bottom: 2.5rem; flex-wrap: wrap; gap: 1rem;
+    }
+
+    .videos-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .video-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); overflow: hidden;
+      transition: transform .2s, border-color .2s;
+      text-decoration: none; color: inherit; display: block;
+    }
+
+    .video-card:hover { transform: translateY(-4px); border-color: rgba(88,101,242,.5); }
+
+    .video-thumb {
+      position: relative; aspect-ratio: 16/9;
+      background: linear-gradient(135deg, #1a2035 0%, #0d1424 100%);
+      overflow: hidden;
+    }
+
+    .video-thumb img {
+      width: 100%; height: 100%; object-fit: cover;
+      transition: transform .3s;
+    }
+
+    .video-card:hover .video-thumb img { transform: scale(1.04); }
+
+    .play-btn {
+      position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+      width: 52px; height: 52px; background: rgba(0,0,0,.7);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      backdrop-filter: blur(4px); transition: background .2s;
+    }
+
+    .video-card:hover .play-btn { background: var(--red); }
+
+    .play-btn svg { width: 22px; height: 22px; fill: #fff; margin-left: 3px; }
+
+    .video-duration {
+      position: absolute; bottom: 8px; right: 8px;
+      background: rgba(0,0,0,.8); color: #fff; font-size: .72rem;
+      padding: .15rem .45rem; border-radius: 4px;
+    }
+
+    .video-info { padding: 1rem; }
+    .video-title { font-weight: 600; font-size: .95rem; margin-bottom: .4rem; line-height: 1.4; }
+    .video-meta { font-size: .8rem; color: var(--muted); display: flex; gap: .75rem; }
+
+    .view-all {
+      display: block; text-align: center; margin-top: 2.5rem;
+    }
+
+    /* ── EMAIL SIGNUP ────────────────────────────────── */
+    #signup {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .signup-inner {
+      max-width: 560px; margin: 0 auto; text-align: center;
+    }
+
+    .signup-icon {
+      width: 56px; height: 56px; background: rgba(88,101,242,.12);
+      border: 1px solid rgba(88,101,242,.25); border-radius: 14px;
+      display: inline-flex; align-items: center; justify-content: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .signup-icon svg { width: 26px; height: 26px; stroke: #818cf8; }
+
+    .email-form {
+      display: flex; gap: .75rem; margin-top: 2rem; flex-wrap: wrap;
+    }
+
+    .email-form input {
+      flex: 1; min-width: 200px;
+      background: var(--bg); border: 1px solid var(--border);
+      color: var(--text); padding: .8rem 1rem; border-radius: 8px;
+      font-size: .95rem; outline: none; transition: border-color .2s;
+    }
+
+    .email-form input::placeholder { color: var(--muted); }
+    .email-form input:focus { border-color: var(--accent); }
+
+    .email-form button {
+      background: var(--accent); color: #fff; border: none; cursor: pointer;
+      padding: .8rem 1.5rem; border-radius: 8px; font-weight: 600;
+      font-size: .95rem; white-space: nowrap; transition: opacity .2s;
+    }
+
+    .email-form button:hover { opacity: .85; }
+
+    .signup-note { font-size: .8rem; color: var(--muted); margin-top: 1rem; }
+
+    #signup-success {
+      display: none; color: #4ade80; font-weight: 600; margin-top: 1rem;
+    }
+
+    /* ── FOOTER ──────────────────────────────────────── */
+    footer {
+      background: var(--bg); border-top: 1px solid var(--border);
+      padding: 2.5rem 1.5rem; text-align: center;
+    }
+
+    .footer-links {
+      display: flex; justify-content: center; gap: 1.5rem;
+      flex-wrap: wrap; margin-bottom: 1.25rem; list-style: none;
+    }
+
+    .footer-links a { color: var(--muted); text-decoration: none; font-size: .9rem; transition: color .2s; }
+    .footer-links a:hover { color: var(--text); }
+
+    footer p { color: var(--muted); font-size: .82rem; }
+
+    /* ── RESPONSIVE ──────────────────────────────────── */
+    @media (max-width: 768px) {
+      .nav-links, .nav-cta { display: none; }
+      .hamburger { display: flex; }
+
+      .about-grid { grid-template-columns: 1fr; gap: 2.5rem; }
+      .about-avatar { max-width: 280px; }
+
+      .hero-stats { gap: 2rem; }
+
+      .videos-header { flex-direction: column; align-items: flex-start; }
+
+      .email-form { flex-direction: column; }
+      .email-form input, .email-form button { width: 100%; }
+    }
+
+    @media (max-width: 480px) {
+      nav { padding: 1rem; }
+      section { padding: 3.5rem 1rem; }
+      .hero-stats { gap: 1.5rem; }
+      .stat-num { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── NAV ───────────────────────────────────────────── -->
+<nav>
+  <a class="nav-logo" href="#hero">
+    <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="28" height="28" rx="8" fill="#5865f2"/>
+      <path d="M7 10l4 4-4 4M13 18h8" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    Geekbot
+  </a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#videos">Videos</a></li>
+    <li><a href="#signup">Newsletter</a></li>
+  </ul>
+  <a class="nav-cta" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">Subscribe</a>
+  <button class="hamburger" aria-label="Menu" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<div class="mobile-menu" id="mobileMenu">
+  <a href="#about" onclick="closeMenu()">About</a>
+  <a href="#videos" onclick="closeMenu()">Videos</a>
+  <a href="#signup" onclick="closeMenu()">Newsletter</a>
+  <a href="https://youtube.com/@geekbot" target="_blank" rel="noopener" style="color:#ff0000;font-weight:700">▶ Subscribe on YouTube</a>
+</div>
+
+<!-- ── HERO ──────────────────────────────────────────── -->
+<section id="hero">
+  <div class="hero-glow"></div>
+  <div>
+    <div class="hero-badge"><span></span> New videos every week</div>
+    <h1>Tech Deep Dives<br><span class="gradient-text">Built for Geeks</span></h1>
+    <p class="hero-sub">Code, hardware, AI, and the nerd culture you actually care about — explained without the fluff.</p>
+    <div class="hero-actions">
+      <a class="btn-primary" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.6 3H4.4A1.4 1.4 0 0 0 3 4.4v15.2A1.4 1.4 0 0 0 4.4 21h15.2a1.4 1.4 0 0 0 1.4-1.4V4.4A1.4 1.4 0 0 0 19.6 3ZM10 15.5v-7l6 3.5-6 3.5Z"/></svg>
+        Subscribe Free
+      </a>
+      <a class="btn-secondary" href="#videos">Watch Latest ↓</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><div class="stat-num">50K+</div><div class="stat-label">Subscribers</div></div>
+      <div class="stat"><div class="stat-num">200+</div><div class="stat-label">Videos</div></div>
+      <div class="stat"><div class="stat-num">5M+</div><div class="stat-label">Views</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ── ABOUT ─────────────────────────────────────────── -->
+<section id="about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-avatar">
+        <div class="avatar-placeholder">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/>
+          </svg>
+          <p>Add your photo here</p>
+        </div>
+      </div>
+      <div class="about-text">
+        <p class="section-tag">About the Channel</p>
+        <h2 class="section-title">Hi, I'm the Geekbot</h2>
+        <p>I make videos about the stuff that actually matters in tech — from writing cleaner code and understanding AI models to tearing down hardware and figuring out why the internet is built the way it is.</p>
+        <p>Whether you're a seasoned developer or just starting your journey, there's something here for you. I believe complex ideas deserve clear explanations, not gatekeeping.</p>
+        <p>New videos drop every week. Hit subscribe so you never miss one.</p>
+        <div class="topics">
+          <span class="topic-chip">Programming</span>
+          <span class="topic-chip">AI & ML</span>
+          <span class="topic-chip">Hardware</span>
+          <span class="topic-chip">Linux</span>
+          <span class="topic-chip">Cybersecurity</span>
+          <span class="topic-chip">Dev Tools</span>
+          <span class="topic-chip">Open Source</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── VIDEOS ─────────────────────────────────────────── -->
+<section id="videos">
+  <div class="container">
+    <div class="videos-header">
+      <div>
+        <p class="section-tag">Latest Videos</p>
+        <h2 class="section-title">Recent Uploads</h2>
+      </div>
+      <a class="btn-secondary" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">View all →</a>
+    </div>
+
+    <div class="videos-grid">
+      <!-- Card 1 -->
+      <a class="video-card" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <div class="video-thumb">
+          <img src="https://picsum.photos/seed/vid1/600/338" alt="How LLMs Actually Work" loading="lazy" />
+          <div class="play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="video-duration">18:42</span>
+        </div>
+        <div class="video-info">
+          <p class="video-title">How LLMs Actually Work — From Tokens to Transformers</p>
+          <p class="video-meta"><span>124K views</span><span>2 days ago</span></p>
+        </div>
+      </a>
+
+      <!-- Card 2 -->
+      <a class="video-card" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <div class="video-thumb">
+          <img src="https://picsum.photos/seed/vid2/600/338" alt="Linux Terminal Tricks" loading="lazy" />
+          <div class="play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="video-duration">12:07</span>
+        </div>
+        <div class="video-info">
+          <p class="video-title">30 Linux Terminal Tricks That Will Change Your Workflow</p>
+          <p class="video-meta"><span>89K views</span><span>1 week ago</span></p>
+        </div>
+      </a>
+
+      <!-- Card 3 -->
+      <a class="video-card" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <div class="video-thumb">
+          <img src="https://picsum.photos/seed/vid3/600/338" alt="Build a Raspberry Pi NAS" loading="lazy" />
+          <div class="play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="video-duration">24:15</span>
+        </div>
+        <div class="video-info">
+          <p class="video-title">Build a Raspberry Pi NAS — Full Setup Guide</p>
+          <p class="video-meta"><span>201K views</span><span>3 weeks ago</span></p>
+        </div>
+      </a>
+
+      <!-- Card 4 -->
+      <a class="video-card" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <div class="video-thumb">
+          <img src="https://picsum.photos/seed/vid4/600/338" alt="Python vs Go" loading="lazy" />
+          <div class="play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="video-duration">15:33</span>
+        </div>
+        <div class="video-info">
+          <p class="video-title">Python vs Go: Which Should You Learn in 2025?</p>
+          <p class="video-meta"><span>67K views</span><span>1 month ago</span></p>
+        </div>
+      </a>
+
+      <!-- Card 5 -->
+      <a class="video-card" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <div class="video-thumb">
+          <img src="https://picsum.photos/seed/vid5/600/338" alt="SSH Deep Dive" loading="lazy" />
+          <div class="play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="video-duration">20:58</span>
+        </div>
+        <div class="video-info">
+          <p class="video-title">SSH Deep Dive: Security, Tunnels & Port Forwarding</p>
+          <p class="video-meta"><span>143K views</span><span>1 month ago</span></p>
+        </div>
+      </a>
+
+      <!-- Card 6 -->
+      <a class="video-card" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        <div class="video-thumb">
+          <img src="https://picsum.photos/seed/vid6/600/338" alt="Docker Explained" loading="lazy" />
+          <div class="play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="video-duration">28:01</span>
+        </div>
+        <div class="video-info">
+          <p class="video-title">Docker Explained in 28 Minutes — Containers from Scratch</p>
+          <p class="video-meta"><span>318K views</span><span>2 months ago</span></p>
+        </div>
+      </a>
+    </div>
+
+    <div class="view-all">
+      <a class="btn-primary" href="https://youtube.com/@geekbot" target="_blank" rel="noopener">
+        See All Videos on YouTube →
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ── EMAIL SIGNUP ───────────────────────────────────── -->
+<section id="signup">
+  <div class="container">
+    <div class="signup-inner">
+      <div class="signup-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+          <rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+        </svg>
+      </div>
+      <p class="section-tag">Stay in the Loop</p>
+      <h2 class="section-title">Get Notified First</h2>
+      <p class="section-sub" style="margin:0 auto">
+        Join the newsletter and get new video alerts, bonus write-ups, and the occasional deep-dive that never makes it to YouTube.
+      </p>
+
+      <form class="email-form" id="emailForm" onsubmit="handleSignup(event)">
+        <input type="email" id="emailInput" placeholder="you@example.com" required autocomplete="email" />
+        <button type="submit">Notify Me</button>
+      </form>
+      <p class="signup-note">No spam. Unsubscribe anytime. That's it.</p>
+      <p id="signup-success">🎉 You're on the list! Watch your inbox.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── FOOTER ─────────────────────────────────────────── -->
+<footer>
+  <ul class="footer-links">
+    <li><a href="https://youtube.com/@geekbot" target="_blank" rel="noopener">YouTube</a></li>
+    <li><a href="https://twitter.com/geekbot" target="_blank" rel="noopener">Twitter</a></li>
+    <li><a href="https://github.com/geekbot" target="_blank" rel="noopener">GitHub</a></li>
+    <li><a href="#signup">Newsletter</a></li>
+  </ul>
+  <p>© 2025 Geekbot. All rights reserved.</p>
+</footer>
+
+<script>
+  function toggleMenu() {
+    document.getElementById('mobileMenu').classList.toggle('open');
+  }
+  function closeMenu() {
+    document.getElementById('mobileMenu').classList.remove('open');
+  }
+
+  function handleSignup(e) {
+    e.preventDefault();
+    const email = document.getElementById('emailInput').value;
+    // Replace this with your preferred email service (Mailchimp, ConvertKit, Formspree, etc.)
+    console.log('Signup:', email);
+    document.getElementById('emailForm').style.display = 'none';
+    document.getElementById('signup-success').style.display = 'block';
+  }
+</script>
+</body>
+</html>
