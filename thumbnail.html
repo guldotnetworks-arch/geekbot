@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YouTube Thumbnail – AI Destroys Bad Content</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #111;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      font-family: 'Arial Black', 'Impact', sans-serif;
+      gap: 16px;
+    }
+
+    .label {
+      color: #888;
+      font-size: 13px;
+      font-family: monospace;
+      letter-spacing: 1px;
+    }
+
+    /* ─── THUMBNAIL CANVAS ─────────────────────────────────────── */
+    .thumbnail {
+      width: 1280px;
+      height: 720px;
+      position: relative;
+      overflow: hidden;
+      background: #0a0010;
+      border: 2px solid #333;
+      transform-origin: top center;
+    }
+
+    /* ── BACKGROUND LAYERS ── */
+    .bg-grid {
+      position: absolute; inset: 0;
+      background-image:
+        linear-gradient(rgba(0,200,255,.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,200,255,.07) 1px, transparent 1px);
+      background-size: 60px 60px;
+    }
+
+    .bg-radial {
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 55% 80% at 68% 50%, rgba(220,20,20,.35) 0%, transparent 70%),
+        radial-gradient(ellipse 45% 70% at 22% 50%, rgba(0,100,255,.30) 0%, transparent 65%);
+    }
+
+    .bg-scanlines {
+      position: absolute; inset: 0;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,.18) 3px,
+        rgba(0,0,0,.18) 4px
+      );
+      pointer-events: none;
+    }
+
+    /* ── LEFT — AI ROBOT ── */
+    .ai-side {
+      position: absolute;
+      left: 60px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 340px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+    }
+
+    .robot-svg {
+      width: 300px;
+      filter: drop-shadow(0 0 24px #00aaff) drop-shadow(0 0 60px #0044cc);
+    }
+
+    /* ── CENTRE — EXPLOSION / IMPACT ── */
+    .explosion {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 240px;
+      height: 240px;
+    }
+
+    .explosion svg {
+      width: 100%;
+      height: 100%;
+      animation: pulse 1.2s ease-in-out infinite alternate;
+    }
+
+    @keyframes pulse {
+      from { filter: drop-shadow(0 0 18px #ff4400); transform: scale(.97); }
+      to   { filter: drop-shadow(0 0 40px #ffcc00); transform: scale(1.03); }
+    }
+
+    /* ── RIGHT — BAD CONTENT PILE ── */
+    .bad-side {
+      position: absolute;
+      right: 40px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 320px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .trash-pile {
+      position: relative;
+      width: 280px;
+      height: 280px;
+    }
+
+    /* stacked fake "bad thumbnail" cards */
+    .fake-thumb {
+      position: absolute;
+      width: 200px;
+      height: 112px;
+      border-radius: 6px;
+      border: 3px solid rgba(255,255,255,.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-family: 'Arial Black', sans-serif;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      overflow: hidden;
+    }
+
+    .fake-thumb::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: inherit;
+      opacity: .85;
+    }
+
+    .fake-thumb span {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      line-height: 1.2;
+      padding: 6px;
+      text-shadow: 1px 1px 0 #000, -1px -1px 0 #000;
+    }
+
+    .ft1 {
+      background: linear-gradient(135deg, #ff6b00, #ff0040);
+      color: #fff;
+      top: 0px; left: 40px;
+      transform: rotate(-8deg);
+    }
+    .ft2 {
+      background: linear-gradient(135deg, #22cc44, #007722);
+      color: #fff;
+      top: 40px; left: 20px;
+      transform: rotate(5deg);
+    }
+    .ft3 {
+      background: linear-gradient(135deg, #8800ff, #ff00aa);
+      color: #fff;
+      top: 80px; left: 50px;
+      transform: rotate(-3deg);
+    }
+    .ft4 {
+      background: linear-gradient(135deg, #ffcc00, #ff6600);
+      color: #111;
+      top: 130px; left: 10px;
+      transform: rotate(7deg);
+    }
+
+    .crack-lines {
+      position: absolute; inset: 0;
+      pointer-events: none;
+    }
+
+    /* ── HEADLINE TEXT ── */
+    .headline {
+      position: absolute;
+      bottom: 54px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 1100px;
+      text-align: center;
+      line-height: .9;
+    }
+
+    .headline-top {
+      font-size: 96px;
+      font-family: 'Arial Black', Impact, sans-serif;
+      font-weight: 900;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: -2px;
+      text-shadow:
+        4px 4px 0 #c00,
+        -2px -2px 0 #000,
+        6px 6px 12px rgba(255,0,0,.7),
+        0 0 40px rgba(255,0,0,.5);
+      display: block;
+    }
+
+    .headline-bottom {
+      font-size: 64px;
+      font-family: 'Arial Black', Impact, sans-serif;
+      font-weight: 900;
+      color: #ff3300;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      text-shadow:
+        2px 2px 0 #000,
+        0 0 30px rgba(255,80,0,.9);
+      display: block;
+    }
+
+    /* ── AI badge ── */
+    .ai-badge {
+      position: absolute;
+      top: 32px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: linear-gradient(135deg, #00ccff, #0055ff);
+      color: #fff;
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      padding: 8px 28px;
+      border-radius: 4px;
+      border: 2px solid rgba(255,255,255,.4);
+      box-shadow: 0 0 30px rgba(0,180,255,.6), inset 0 1px 0 rgba(255,255,255,.3);
+    }
+
+    /* ── DELETED label over bad content ── */
+    .deleted-stamp {
+      position: absolute;
+      right: 58px;
+      top: 80px;
+      font-size: 52px;
+      font-weight: 900;
+      color: rgba(255,30,30,.9);
+      border: 6px solid rgba(255,30,30,.9);
+      padding: 6px 14px;
+      border-radius: 4px;
+      transform: rotate(-15deg);
+      letter-spacing: 4px;
+      text-shadow: 0 0 12px rgba(255,0,0,.6);
+      box-shadow: 0 0 18px rgba(255,0,0,.4);
+    }
+
+    /* Responsive scale-down for viewports < 1280px */
+    @media (max-width: 1340px) {
+      .thumbnail {
+        transform: scale(.7);
+        margin-top: -108px;
+        margin-bottom: -108px;
+      }
+    }
+    @media (max-width: 960px) {
+      .thumbnail {
+        transform: scale(.5);
+        margin-top: -180px;
+        margin-bottom: -180px;
+      }
+    }
+    @media (max-width: 680px) {
+      .thumbnail {
+        transform: scale(.34);
+        margin-top: -238px;
+        margin-bottom: -238px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <p class="label">YouTube Thumbnail · 1280 × 720 px</p>
+
+  <div class="thumbnail">
+
+    <!-- Background -->
+    <div class="bg-grid"></div>
+    <div class="bg-radial"></div>
+    <div class="bg-scanlines"></div>
+
+    <!-- AI Badge top-centre -->
+    <div class="ai-badge">⚡ AI-POWERED ⚡</div>
+
+    <!-- LEFT: AI Robot -->
+    <div class="ai-side">
+      <svg class="robot-svg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+        <!-- body glow -->
+        <defs>
+          <filter id="glow">
+            <feGaussianBlur stdDeviation="6" result="blur"/>
+            <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+          </filter>
+          <linearGradient id="bodyGrad" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#00ccff"/>
+            <stop offset="100%" stop-color="#0044bb"/>
+          </linearGradient>
+          <linearGradient id="visorGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#00ffff" stop-opacity=".9"/>
+            <stop offset="100%" stop-color="#0066ff" stop-opacity=".6"/>
+          </linearGradient>
+        </defs>
+
+        <!-- legs -->
+        <rect x="85" y="320" width="40" height="70" rx="8" fill="url(#bodyGrad)" filter="url(#glow)"/>
+        <rect x="175" y="320" width="40" height="70" rx="8" fill="url(#bodyGrad)" filter="url(#glow)"/>
+        <!-- feet -->
+        <rect x="78" y="372" width="56" height="22" rx="10" fill="#0099dd"/>
+        <rect x="168" y="372" width="56" height="22" rx="10" fill="#0099dd"/>
+
+        <!-- torso -->
+        <rect x="60" y="190" width="180" height="140" rx="18" fill="url(#bodyGrad)" filter="url(#glow)"/>
+        <!-- chest panel -->
+        <rect x="90" y="210" width="120" height="80" rx="8" fill="#001a44" stroke="#00ccff" stroke-width="2"/>
+        <!-- chest lights -->
+        <circle cx="120" cy="240" r="10" fill="#00ffcc" filter="url(#glow)"/>
+        <circle cx="150" cy="240" r="10" fill="#ffcc00" filter="url(#glow)"/>
+        <circle cx="180" cy="240" r="10" fill="#ff4444" filter="url(#glow)"/>
+        <!-- chest bar -->
+        <rect x="100" y="268" width="100" height="10" rx="4" fill="#00aaff" opacity=".7"/>
+
+        <!-- LEFT ARM (raised / punching forward) -->
+        <rect x="10" y="185" width="55" height="35" rx="12" fill="url(#bodyGrad)" filter="url(#glow)" transform="rotate(-30 10 185)"/>
+        <!-- left hand / fist -->
+        <rect x="-10" y="155" width="48" height="44" rx="12" fill="#00aaff" filter="url(#glow)"/>
+        <!-- energy blast from fist -->
+        <polygon points="-28,177 -80,155 -60,177 -80,200" fill="#ffcc00" opacity=".9" filter="url(#glow)"/>
+        <polygon points="-38,177 -110,165 -75,177 -110,192" fill="#ff8800" opacity=".6" filter="url(#glow)"/>
+
+        <!-- RIGHT ARM -->
+        <rect x="235" y="195" width="55" height="35" rx="12" fill="url(#bodyGrad)" filter="url(#glow)"/>
+        <!-- right hand -->
+        <rect x="262" y="210" width="40" height="40" rx="10" fill="#0099dd" filter="url(#glow)"/>
+
+        <!-- neck -->
+        <rect x="128" y="165" width="44" height="32" rx="8" fill="#005599"/>
+
+        <!-- head -->
+        <rect x="72" y="72" width="156" height="108" rx="22" fill="url(#bodyGrad)" filter="url(#glow)"/>
+        <!-- visor / eye band -->
+        <rect x="84" y="100" width="132" height="44" rx="10" fill="url(#visorGrad)"/>
+        <!-- eyes -->
+        <ellipse cx="128" cy="122" rx="22" ry="16" fill="#ffffff" opacity=".9"/>
+        <ellipse cx="172" cy="122" rx="22" ry="16" fill="#ffffff" opacity=".9"/>
+        <ellipse cx="128" cy="122" rx="12" ry="10" fill="#0033ff"/>
+        <ellipse cx="172" cy="122" rx="12" ry="10" fill="#0033ff"/>
+        <ellipse cx="130" cy="120" rx="5" ry="5" fill="#00ffff" filter="url(#glow)"/>
+        <ellipse cx="174" cy="120" rx="5" ry="5" fill="#00ffff" filter="url(#glow)"/>
+
+        <!-- antenna -->
+        <rect x="146" y="30" width="8" height="48" rx="4" fill="#0099dd"/>
+        <circle cx="150" cy="24" r="12" fill="#00ffcc" filter="url(#glow)"/>
+
+        <!-- ears -->
+        <rect x="58" y="100" width="20" height="30" rx="6" fill="#005588"/>
+        <rect x="222" y="100" width="20" height="30" rx="6" fill="#005588"/>
+      </svg>
+    </div>
+
+    <!-- CENTRE: Explosion burst -->
+    <div class="explosion">
+      <svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="burstGrad" cx="50%" cy="50%" r="50%">
+            <stop offset="0%"  stop-color="#ffffff"/>
+            <stop offset="25%" stop-color="#ffee00"/>
+            <stop offset="55%" stop-color="#ff6600"/>
+            <stop offset="100%" stop-color="transparent"/>
+          </radialGradient>
+        </defs>
+        <!-- star burst spikes -->
+        <g transform="translate(120,120)">
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ffee00" opacity=".95"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ffee00" opacity=".95" transform="rotate(45)"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ff8800" opacity=".85" transform="rotate(90)"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ff8800" opacity=".85" transform="rotate(135)"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ffee00" opacity=".95" transform="rotate(180)"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ffee00" opacity=".95" transform="rotate(225)"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ff4400" opacity=".80" transform="rotate(270)"/>
+          <polygon points="0,-100 12,-30 0,-8 -12,-30" fill="#ff4400" opacity=".80" transform="rotate(315)"/>
+          <!-- inner glow circle -->
+          <circle r="55" fill="url(#burstGrad)"/>
+          <!-- DELETED icon -->
+          <text x="0" y="12" text-anchor="middle" font-size="38" font-weight="900"
+                font-family="Arial Black, Impact, sans-serif" fill="#cc0000"
+                stroke="#fff" stroke-width="2">🗑</text>
+        </g>
+      </svg>
+    </div>
+
+    <!-- DELETED stamp -->
+    <div class="deleted-stamp">DELETED</div>
+
+    <!-- RIGHT: Bad content pile -->
+    <div class="bad-side">
+      <div class="trash-pile">
+
+        <div class="fake-thumb ft1">
+          <span>10 THINGS THAT<br>WILL SHOCK YOU!!</span>
+        </div>
+        <div class="fake-thumb ft2">
+          <span>I QUIT YOUTUBE<br>FOREVER (not clickbait)</span>
+        </div>
+        <div class="fake-thumb ft3">
+          <span>SHE SAID WHAT?!<br>😱😱😱</span>
+        </div>
+        <div class="fake-thumb ft4">
+          <span>GONE WRONG<br>GONE SEXUAL<br>IN THE HOOD</span>
+        </div>
+
+        <!-- crack/glitch lines over bad content -->
+        <svg class="crack-lines" viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg">
+          <polyline points="80,0 90,60 70,80 110,140 95,200" stroke="#ff0000" stroke-width="3" fill="none" opacity=".8"/>
+          <polyline points="160,10 155,70 175,90 150,160 165,210" stroke="#ff4400" stroke-width="2.5" fill="none" opacity=".6"/>
+          <polyline points="200,0 195,50 215,70 200,130" stroke="#ff6600" stroke-width="2" fill="none" opacity=".5"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- HEADLINE -->
+    <div class="headline">
+      <span class="headline-top">AI DESTROYS</span>
+      <span class="headline-bottom">BAD YOUTUBE CONTENT</span>
+    </div>
+
+  </div><!-- /.thumbnail -->
+
+  <p class="label">Open in browser · Right-click → Save as PNG for export</p>
+
+</body>
+</html>
