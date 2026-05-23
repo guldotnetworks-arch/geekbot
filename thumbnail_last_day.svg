@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5E4A8"/>
+      <stop offset="70%" stop-color="#E2C278"/>
+      <stop offset="100%" stop-color="#D4AE60"/>
+    </linearGradient>
+    <linearGradient id="earthColor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9C6A38"/>
+      <stop offset="100%" stop-color="#5A3210"/>
+    </linearGradient>
+    <linearGradient id="trumpetShine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE566"/>
+      <stop offset="45%" stop-color="#DAA520"/>
+      <stop offset="100%" stop-color="#AA7800"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="dropShadow">
+      <feDropShadow dx="4" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <!-- ═══ BACKGROUND ═══ -->
+  <rect width="1280" height="720" fill="url(#bgSky)"/>
+
+  <!-- Parchment texture lines -->
+  <g opacity="0.12" stroke="#8B6A30" stroke-width="1">
+    <line x1="0" y1="90"  x2="1280" y2="93"/>
+    <line x1="0" y1="180" x2="1280" y2="184"/>
+    <line x1="0" y1="270" x2="1280" y2="273"/>
+    <line x1="0" y1="360" x2="1280" y2="364"/>
+    <line x1="0" y1="425" x2="1280" y2="428"/>
+  </g>
+
+  <!-- ═══ SKY CRACKS (heavens splitting) ═══ -->
+  <g fill="none" stroke="#5A4530" stroke-linecap="round" opacity="0.48">
+    <polyline points="618,0 604,68 632,122 612,188 638,244 617,315 624,385" stroke-width="3.5"/>
+    <polyline points="604,68 572,118 554,170 568,224"  stroke-width="2"/>
+    <polyline points="612,188 585,224 572,264"          stroke-width="1.5"/>
+    <polyline points="632,122 664,162 652,214"          stroke-width="1.5"/>
+    <polyline points="882,0 898,58 876,104 902,162 880,214" stroke-width="2.5"/>
+    <polyline points="898,58 924,94 912,140"            stroke-width="1.5"/>
+  </g>
+
+  <!-- ═══ MOUNTAINS (being scattered/destroyed) ═══ -->
+  <g opacity="0.82">
+    <polygon points="0,480 62,298 134,380 0,480"        fill="#C4915A"/>
+    <polygon points="52,480 172,228 292,352 334,480"    fill="#D4A268"/>
+    <polygon points="202,480 322,268 404,382 444,480"   fill="#C08A50"/>
+    <!-- Floating scattered chunks -->
+    <polygon points="82,202 102,172 120,200"  fill="#C4915A" opacity="0.65"/>
+    <polygon points="138,182 155,156 170,181" fill="#D4A268" opacity="0.55"/>
+    <polygon points="50,252 64,230 78,252"    fill="#C4915A" opacity="0.50"/>
+    <polygon points="172,238 186,216 198,237" fill="#C08A50" opacity="0.45"/>
+    <polygon points="222,194 240,166 257,192" fill="#C4915A" opacity="0.40"/>
+  </g>
+
+  <!-- ═══ EARTH / GROUND ═══ -->
+  <path d="M 0,480 Q 80,470 160,480 Q 282,494 384,473 Q 482,457 562,473
+           Q 663,491 782,472 Q 882,456 1002,470 Q 1102,482 1204,467
+           Q 1242,460 1280,470 L 1280,720 L 0,720 Z"
+        fill="url(#earthColor)"/>
+  <rect x="0" y="542" width="1280" height="178" fill="#3A1E08" opacity="0.45"/>
+
+  <!-- Earth texture cracks -->
+  <g stroke="#6B3F18" stroke-width="1.2" opacity="0.35">
+    <line x1="0" y1="560" x2="1280" y2="560"/>
+    <line x1="0" y1="600" x2="1280" y2="600"/>
+    <line x1="0" y1="640" x2="1280" y2="640"/>
+    <line x1="0" y1="680" x2="1280" y2="680"/>
+  </g>
+
+  <!-- ═══ GRAVESTONES ═══ -->
+  <!-- Stone 1 – left -->
+  <g transform="translate(162,432)">
+    <path d="M 0,52 L 0,20 Q 0,0 21,0 Q 42,0 42,20 L 42,52 Z" fill="#C8B090" stroke="#9A8060" stroke-width="2.5"/>
+    <path d="M 14,19 A 9,9 0 1 1 28,29 A 6.5,6.5 0 1 0 14,19 Z" fill="#9A8060"/>
+    <rect x="-5" y="52" width="52" height="10" rx="3" fill="#C8B090" stroke="#9A8060" stroke-width="2"/>
+  </g>
+  <!-- Stone 2 – center-left -->
+  <g transform="translate(498,436)">
+    <path d="M 0,48 L 0,18 Q 0,0 18,0 Q 36,0 36,18 L 36,48 Z" fill="#C8B090" stroke="#9A8060" stroke-width="2.5"/>
+    <path d="M 11,17 A 7.5,7.5 0 1 1 25,26 A 5.5,5.5 0 1 0 11,17 Z" fill="#9A8060"/>
+    <rect x="-4" y="48" width="44" height="9" rx="3" fill="#C8B090" stroke="#9A8060" stroke-width="2"/>
+  </g>
+  <!-- Stone 3 – center-right -->
+  <g transform="translate(784,436)">
+    <path d="M 0,48 L 0,18 Q 0,0 18,0 Q 36,0 36,18 L 36,48 Z" fill="#C8B090" stroke="#9A8060" stroke-width="2.5"/>
+    <path d="M 11,17 A 7.5,7.5 0 1 1 25,26 A 5.5,5.5 0 1 0 11,17 Z" fill="#9A8060"/>
+    <rect x="-4" y="48" width="44" height="9" rx="3" fill="#C8B090" stroke="#9A8060" stroke-width="2"/>
+  </g>
+
+  <!-- ═══ PEOPLE RISING FROM GRAVES ═══ -->
+  <!-- Person 1 – left, head just emerging -->
+  <g stroke="#EEEEEE" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <line x1="184" y1="560" x2="184" y2="494"/>
+    <line x1="184" y1="518" x2="154" y2="498"/>
+    <line x1="184" y1="518" x2="214" y2="498"/>
+    <line x1="184" y1="560" x2="170" y2="612" opacity="0.28"/>
+    <line x1="184" y1="560" x2="198" y2="612" opacity="0.28"/>
+  </g>
+  <circle cx="184" cy="474" r="22" fill="white" stroke="#2A2A2A" stroke-width="2.5"/>
+  <circle cx="174" cy="469" r="4" fill="#1A1A1A"/>
+  <circle cx="194" cy="469" r="4" fill="#1A1A1A"/>
+  <ellipse cx="184" cy="481" rx="7" ry="8" fill="#1A1A1A"/>
+
+  <!-- Person 2 – center-left, standing/confused -->
+  <g stroke="#EEEEEE" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <line x1="516" y1="548" x2="516" y2="470"/>
+    <line x1="516" y1="496" x2="484" y2="512"/>
+    <line x1="516" y1="496" x2="548" y2="512"/>
+    <line x1="516" y1="548" x2="500" y2="598" opacity="0.35"/>
+    <line x1="516" y1="548" x2="532" y2="598" opacity="0.35"/>
+  </g>
+  <circle cx="516" cy="452" r="22" fill="white" stroke="#2A2A2A" stroke-width="2.5"/>
+  <circle cx="506" cy="447" r="4" fill="#1A1A1A"/>
+  <circle cx="526" cy="447" r="4" fill="#1A1A1A"/>
+  <path d="M 507,460 Q 516,455 525,460" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+
+  <!-- Person 3 – center-right, shocked -->
+  <g stroke="#EEEEEE" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <line x1="802" y1="548" x2="802" y2="470"/>
+    <line x1="802" y1="498" x2="770" y2="482"/>
+    <line x1="802" y1="498" x2="834" y2="482"/>
+    <line x1="802" y1="548" x2="786" y2="598" opacity="0.35"/>
+    <line x1="802" y1="548" x2="818" y2="598" opacity="0.35"/>
+  </g>
+  <circle cx="802" cy="452" r="22" fill="white" stroke="#2A2A2A" stroke-width="2.5"/>
+  <circle cx="792" cy="447" r="4" fill="#1A1A1A"/>
+  <circle cx="812" cy="447" r="4" fill="#1A1A1A"/>
+  <ellipse cx="802" cy="459" rx="7" ry="8" fill="#1A1A1A"/>
+
+  <!-- ═══ ANGEL ISRAFIL ═══ -->
+  <!-- Wings (behind body — drawn first) -->
+  <path d="M 292,222 Q 218,174 168,242 Q 188,208 218,218 Q 252,210 288,236"
+        fill="#F8F8F8" stroke="#D0D0D0" stroke-width="2.5"/>
+  <path d="M 287,240 Q 216,218 168,272 Q 192,254 224,248 Q 260,242 286,258"
+        fill="#F0F0F0" stroke="#D0D0D0" stroke-width="2"/>
+  <line x1="198" y1="228" x2="286" y2="234" stroke="#CCCCCC" stroke-width="1.5" opacity="0.65"/>
+  <line x1="194" y1="248" x2="284" y2="246" stroke="#CCCCCC" stroke-width="1"   opacity="0.55"/>
+
+  <path d="M 362,222 Q 436,174 486,242 Q 466,208 436,218 Q 402,210 366,236"
+        fill="#F8F8F8" stroke="#D0D0D0" stroke-width="2.5"/>
+  <path d="M 367,240 Q 438,218 486,272 Q 462,254 430,248 Q 394,242 368,258"
+        fill="#F0F0F0" stroke="#D0D0D0" stroke-width="2"/>
+  <line x1="456" y1="228" x2="368" y2="234" stroke="#CCCCCC" stroke-width="1.5" opacity="0.65"/>
+  <line x1="460" y1="248" x2="370" y2="246" stroke="#CCCCCC" stroke-width="1"   opacity="0.55"/>
+
+  <!-- Robe / body -->
+  <path d="M 308,196 L 297,382 L 358,392 L 368,382 L 355,196 Z"
+        fill="white" stroke="#DEDEDE" stroke-width="2"/>
+  <line x1="320" y1="210" x2="310" y2="382" stroke="#D8D8D8" stroke-width="1.5" opacity="0.5"/>
+  <line x1="344" y1="208" x2="352" y2="382" stroke="#D8D8D8" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Head -->
+  <circle cx="332" cy="162" r="34" fill="white" stroke="#2A2A2A" stroke-width="2.5"/>
+
+  <!-- Halo -->
+  <circle cx="332" cy="118" r="26" fill="none" stroke="#E8B800" stroke-width="7"
+          opacity="0.9" filter="url(#softGlow)"/>
+  <circle cx="332" cy="118" r="18" fill="none" stroke="#FFE044" stroke-width="2.5" opacity="0.6"/>
+
+  <!-- Face — blowing expression -->
+  <ellipse cx="320" cy="158" rx="4.5" ry="4" fill="#1A1A1A"/>
+  <ellipse cx="344" cy="158" rx="4.5" ry="4" fill="#1A1A1A"/>
+  <circle cx="321" cy="156" r="1.8" fill="white"/>
+  <circle cx="345" cy="156" r="1.8" fill="white"/>
+  <!-- Puffed cheeks -->
+  <ellipse cx="312" cy="170" rx="14" ry="10" fill="#EDD5C0" opacity="0.65"/>
+  <ellipse cx="352" cy="170" rx="14" ry="10" fill="#EDD5C0" opacity="0.65"/>
+  <!-- Blowing mouth -->
+  <ellipse cx="332" cy="175" rx="7" ry="9" fill="#AA5522"/>
+
+  <!-- Arms -->
+  <line x1="308" y1="218" x2="258" y2="252" stroke="#2A2A2A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="355" y1="218" x2="408" y2="230" stroke="#2A2A2A" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- ═══ GOLDEN TRUMPET ═══ -->
+  <!-- Mouthpiece -->
+  <circle cx="306" cy="218" r="17" fill="#8A6200" stroke="#704800" stroke-width="2"/>
+  <circle cx="306" cy="218" r="11" fill="#DAA520"/>
+
+  <!-- Main tube -->
+  <rect x="294" y="210" width="256" height="30" rx="15" fill="url(#trumpetShine)" stroke="#AA8000" stroke-width="2.5"/>
+  <!-- Shine highlight -->
+  <rect x="300" y="212" width="240" height="9" rx="4.5" fill="#FFE878" opacity="0.55"/>
+
+  <!-- Valves -->
+  <g fill="#DAA520" stroke="#AA8000" stroke-width="2">
+    <circle cx="356" cy="210" r="12"/>
+    <circle cx="392" cy="210" r="12"/>
+    <circle cx="428" cy="210" r="12"/>
+    <circle cx="356" cy="200" r="8" fill="#FFD700"/>
+    <circle cx="392" cy="200" r="8" fill="#FFD700"/>
+    <circle cx="428" cy="200" r="8" fill="#FFD700"/>
+  </g>
+
+  <!-- Bell upper curve -->
+  <path d="M 550,210 Q 582,210 608,178 Q 624,156 614,146
+           Q 602,172 578,186 L 550,210 Z"
+        fill="url(#trumpetShine)" stroke="#AA8000" stroke-width="2"/>
+  <!-- Bell lower curve -->
+  <path d="M 550,240 Q 582,240 608,272 Q 624,294 614,304
+           Q 602,278 578,264 L 550,240 Z"
+        fill="url(#trumpetShine)" stroke="#AA8000" stroke-width="2"/>
+  <!-- Bell rim -->
+  <ellipse cx="616" cy="225" rx="15" ry="66" fill="#DAA520" stroke="#AA8000" stroke-width="2.5"/>
+  <!-- Bell interior -->
+  <ellipse cx="614" cy="225" rx="8"  ry="54" fill="#5A3000" opacity="0.72"/>
+  <!-- Bell shine -->
+  <ellipse cx="608" cy="210" rx="4"  ry="22" fill="#FFE878" opacity="0.48"/>
+
+  <!-- ═══ SOUND WAVES ═══ -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M 642,225 Q 682,196 722,225 Q 682,254 642,225"
+          stroke="#F0B800" stroke-width="7" opacity="0.92" filter="url(#softGlow)"/>
+    <path d="M 696,225 Q 750,186 804,225 Q 750,264 696,225"
+          stroke="#F0B800" stroke-width="5.5" opacity="0.72"/>
+    <path d="M 756,225 Q 826,176 896,225 Q 826,274 756,225"
+          stroke="#E8A800" stroke-width="4.5" opacity="0.52"/>
+    <path d="M 826,225 Q 916,162 1006,225 Q 916,288 826,225"
+          stroke="#E09800" stroke-width="3.5" opacity="0.35"/>
+  </g>
+
+  <!-- Angel legs -->
+  <g stroke="#2A2A2A" stroke-width="4.5" stroke-linecap="round">
+    <line x1="318" y1="390" x2="300" y2="464"/>
+    <line x1="344" y1="392" x2="362" y2="466"/>
+    <line x1="288" y1="464" x2="312" y2="464"/>
+    <line x1="352" y1="466" x2="376" y2="464"/>
+  </g>
+
+  <!-- ═══ TITLE TEXT ═══ -->
+  <!-- "THE" -->
+  <text x="820" y="118"
+        font-family="Impact, 'Arial Black', sans-serif"
+        font-size="84" font-weight="900" fill="#1A1A1A"
+        text-anchor="middle" filter="url(#dropShadow)">THE</text>
+
+  <!-- "LAST" -->
+  <text x="1006" y="272"
+        font-family="Impact, 'Arial Black', sans-serif"
+        font-size="162" font-weight="900" fill="#1A1A1A"
+        text-anchor="middle" filter="url(#dropShadow)">LAST</text>
+
+  <!-- "DAY" — black stroke layer -->
+  <text x="1006" y="452"
+        font-family="Impact, 'Arial Black', sans-serif"
+        font-size="192" font-weight="900"
+        fill="none" stroke="#0A0A0A" stroke-width="18"
+        text-anchor="middle">DAY</text>
+  <!-- "DAY" — orange fill layer -->
+  <text x="1006" y="452"
+        font-family="Impact, 'Arial Black', sans-serif"
+        font-size="192" font-weight="900" fill="#E87500"
+        text-anchor="middle" filter="url(#dropShadow)">DAY</text>
+
+  <!-- ═══ SHOCKED STICK FIGURE (on surface, top right) ═══ -->
+  <!-- Islamic kufi cap -->
+  <path d="M 1138,308 Q 1160,268 1182,308 Q 1178,290 1142,290 Z"
+        fill="#2A1A08" stroke="#1A0A00" stroke-width="1.5"/>
+  <rect x="1134" y="306" width="52" height="9" rx="4.5" fill="#3A2410" stroke="#1A0A00" stroke-width="1.5"/>
+
+  <!-- Head -->
+  <circle cx="1160" cy="334" r="30" fill="white" stroke="#1A1A1A" stroke-width="2.5"/>
+
+  <!-- Shocked face -->
+  <circle cx="1148" cy="327" r="6.5" fill="#1A1A1A"/>
+  <circle cx="1172" cy="327" r="6.5" fill="#1A1A1A"/>
+  <circle cx="1149" cy="325" r="2.5" fill="white"/>
+  <circle cx="1173" cy="325" r="2.5" fill="white"/>
+  <ellipse cx="1160" cy="342" rx="9" ry="11" fill="#1A1A1A"/>
+
+  <!-- Body -->
+  <line x1="1160" y1="364" x2="1160" y2="424" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Arms raised in shock -->
+  <line x1="1160" y1="382" x2="1116" y2="350" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="1160" y1="382" x2="1204" y2="350" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Legs -->
+  <line x1="1160" y1="424" x2="1137" y2="466" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="1160" y1="424" x2="1183" y2="466" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="1124" y1="466" x2="1140" y2="466" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="1180" y1="466" x2="1196" y2="466" stroke="#1A1A1A" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Shock lines -->
+  <g stroke="#777" stroke-width="2.2" opacity="0.45" stroke-linecap="round">
+    <line x1="1102" y1="312" x2="1086" y2="302"/>
+    <line x1="1099" y1="331" x2="1082" y2="331"/>
+    <line x1="1102" y1="350" x2="1084" y2="362"/>
+    <line x1="1218" y1="312" x2="1236" y2="302"/>
+    <line x1="1222" y1="331" x2="1240" y2="331"/>
+    <line x1="1218" y1="350" x2="1236" y2="362"/>
+  </g>
+
+  <!-- ═══ FALLING STARS (top area) ═══ -->
+  <g fill="#E8C000" opacity="0.76">
+    <circle cx="700" cy="46" r="7" filter="url(#softGlow)"/>
+    <line x1="700" y1="53" x2="693" y2="82"  stroke="#E8C000" stroke-width="2.5" opacity="0.68"/>
+    <circle cx="762" cy="26" r="5" filter="url(#softGlow)"/>
+    <line x1="762" y1="31" x2="756" y2="52"  stroke="#E8C000" stroke-width="2"   opacity="0.58"/>
+    <circle cx="1222" cy="40" r="6" filter="url(#softGlow)"/>
+    <line x1="1222" y1="46" x2="1215" y2="70" stroke="#E8C000" stroke-width="2"  opacity="0.58"/>
+    <circle cx="1248" cy="72" r="4" filter="url(#softGlow)"/>
+    <line x1="1248" y1="76" x2="1243" y2="92" stroke="#E8C000" stroke-width="1.5" opacity="0.48"/>
+  </g>
+
+  <!-- ═══ SUBTLE VIGNETTE edges ═══ -->
+  <rect x="0" y="0" width="1280" height="720" rx="0"
+        fill="none" stroke="#A07830" stroke-width="16" opacity="0.35"/>
+
+</svg>
