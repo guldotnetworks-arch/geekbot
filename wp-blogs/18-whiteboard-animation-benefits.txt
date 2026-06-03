@@ -7,12 +7,12 @@
 
 <div class="wredd-blog">
 
-<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Whiteboard Animation — Benefits, Use Cases and When to Use It in 2026</h1>
+<h2 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Whiteboard Animation — Benefits, Use Cases and When to Use It in 2026</h2>
 
 <div class="wb-hero">
   <div class="wb-hero-grid"></div>
   <div class="wb-eyebrow">▸ Whiteboard Animation Guide — 2026</div>
-  <h1>Whiteboard Animation<span>Benefits, Use Cases &amp; When to Use It</span></h1>
+  <h1>Whiteboard Animation<span>Benefits, Use Cases &amp; When to Use It</span></h2>
   <div class="wb-hero-sub">Whiteboard animation delivers 28% higher completion rates and 40% better comprehension for complex topics. Here's when and why to choose it.</div>
   <div class="wb-hero-meta">
     <span>📅 Updated June 2026</span>

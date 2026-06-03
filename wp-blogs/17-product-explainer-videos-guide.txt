@@ -7,12 +7,12 @@
 
 <div class="wredd-blog">
 
-<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Product Explainer Videos That Actually Drive Sales — The 2026 Guide</h1>
+<h2 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Product Explainer Videos That Actually Drive Sales — The 2026 Guide</h2>
 
 <div class="wb-hero">
   <div class="wb-hero-grid"></div>
   <div class="wb-eyebrow">▸ Product Video Strategy — 2026</div>
-  <h1>Product Explainer Videos<span>That Actually Drive Sales</span></h1>
+  <h1>Product Explainer Videos<span>That Actually Drive Sales</span></h2>
   <div class="wb-hero-sub">Product pages with video see 80% higher conversion. Here's the exact framework for creating product explainer videos that turn viewers into buyers.</div>
   <div class="wb-hero-meta">
     <span>📅 Updated June 2026</span>

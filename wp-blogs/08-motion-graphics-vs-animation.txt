@@ -7,12 +7,12 @@
 
 <div class="wredd-blog">
 
-<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Motion Graphics vs Animation — Key Differences and When to Use Each</h1>
+<h2 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Motion Graphics vs Animation — Key Differences and When to Use Each</h2>
 
 <div class="wb-hero">
   <div class="wb-hero-grid"></div>
   <div class="wb-eyebrow">▸ Animation Strategy Guide — 2026</div>
-  <h1>Motion Graphics vs Animation<span>Know the Difference, Make the Right Call</span></h1>
+  <h1>Motion Graphics vs Animation<span>Know the Difference, Make the Right Call</span></h2>
   <p class="wb-hero-sub">Motion graphics and character animation are both powerful — but they serve very different purposes. Here's how to choose the right one for your brand.</p>
   <div class="wb-hero-meta">
     <span>✦ WREDD Animation Studio</span>

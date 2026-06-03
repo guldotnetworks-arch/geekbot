@@ -6,13 +6,13 @@
 </style>
 
 <div class="wredd-blog">
-<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Why Storytelling Is the Most Powerful Element in Animation</h1>
+<h2 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Why Storytelling Is the Most Powerful Element in Animation</h2>
 
   <!-- HERO -->
   <div class="wb-hero">
     <div class="wb-hero-grid"></div>
     <div class="wb-eyebrow">Animation Strategy · 2026</div>
-    <h1>Why Storytelling Is the<span>Most Powerful Element in Animation</span></h1>
+    <h1>Why Storytelling Is the<span>Most Powerful Element in Animation</span></h2>
     <div class="wb-hero-sub">Every frame of animation is a wasted frame unless it serves a story. The studios and brands who understand this don't just make videos — they create movements, communities, and unforgettable brand identities.</div>
     <div class="wb-hero-meta">
       <span>📖 12 min read</span>
