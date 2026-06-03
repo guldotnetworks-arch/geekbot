@@ -1,311 +1,333 @@
-<!-- wp:paragraph -->
-<p>Explainer videos aren't just trending. They're becoming the most powerful communication tool businesses own in 2026.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Companies across every industry are discovering that a single 60 to 90 second animated video does more for conversions, clarity, and credibility than any other piece of content on their website.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>But what exactly is an explainer video, and why does every business need one right now?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1024&q=80" alt="Animated explainer video production at a professional studio"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Simple Definition</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>An explainer video is a short, focused video — typically 60 to 120 seconds — designed to communicate what a business does, how it works, and why customers need it.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>It answers the three questions every website visitor silently asks:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>What is this?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>How does it work?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Why should I care?</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>It answers all three in under two minutes. That's the power of an explainer video.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Animation team working on explainer video storyboard"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Why Businesses Are Investing in Explainer Videos</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The statistics are hard to ignore. Pages with explainer videos convert up to <strong>80% better</strong> than pages without one.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Here is what an explainer video does for your business:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>converts visitors into leads faster</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>reduces bounce rates significantly</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>builds trust before a single conversation happens</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>improves SEO by increasing time on page</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>works across website, ads, email, and social media</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>simplifies complex products instantly</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>One video. Infinite use cases.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Business analytics showing improved conversion rates from explainer video"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Types of Explainer Videos</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Not all explainer videos look the same. The format depends on your brand, audience, and message.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The most widely used styles in 2026 include:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>2D character animation</strong> — story-driven, warm, highly shareable</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>motion graphics</strong> — clean, data-driven, ideal for B2B brands</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>whiteboard animation</strong> — step-by-step clarity for complex topics</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>educational animation</strong> — Zack D. Films-style storytelling for YouTube</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>3D animation</strong> — photorealistic product showcases</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>hybrid live action</strong> — real footage combined with animated overlays</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Each style serves a different purpose. Choosing the right one is as important as the content itself.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1551817958-d9d86fb29431?w=1024&q=80" alt="Video production team reviewing animated storyboard frames"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Science Behind Why They Work</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Explainer videos are not just visually appealing. They are psychologically engineered to stick.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When your audience sees matching visuals and hears narration at the same time, the brain encodes information through two channels simultaneously. This is called dual-coding.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The result?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>65% of visual information is retained after 3 days</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>only 10% of text-only information survives the same period</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>viewers remember your brand, product, and call to action far longer</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>That memory advantage is what drives conversions days and weeks after the first view.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1024&q=80" alt="Professional voiceover recording session for animated explainer video"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>How Long Should an Explainer Video Be?</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Length is one of the most common questions. And the answer is simpler than most people expect.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The ideal explainer video length is <strong>60 to 90 seconds</strong>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Short enough to hold full attention. Long enough to deliver the complete message. For SaaS products or complex concepts, up to 2 minutes is acceptable.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Every second beyond 90 costs you audience. Every second under 60 risks leaving the story incomplete.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Where to Use Your Explainer Video</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>This is where explainer videos pay for themselves many times over.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>A single well-produced animation works across:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>homepage hero section</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>YouTube channel</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>LinkedIn company page</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>investor pitch decks</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>email marketing campaigns</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>paid social ads</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>trade show displays</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>sales team presentations</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>The cost per impression drops with every new channel you deploy it on.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>The Most Valuable Marketing Asset You Can Own</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>In 2026, the businesses winning online are the ones that communicate clearly, quickly, and visually.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>An explainer video is not an optional upgrade. It is the baseline expectation for any brand that wants to be taken seriously.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we create custom animated explainer videos that:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>tell your brand story with clarity and impact</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>convert visitors into customers</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>build trust from the first second</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>work across every platform you need</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>are designed to rank and be remembered</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><em>If your business deserves to be understood, we will make sure it is.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
+<div class="wredd-blog">
+
+  <div class="wb-hero">
+    <div class="wb-hero-grid"></div>
+    <div class="wb-eyebrow">Complete Guide · 2026 Edition</div>
+    <h1>What Is an Explainer Video?<span>The Complete Guide for Businesses</span></h1>
+    <div class="wb-hero-sub">Everything you need to know about explainer videos — what they are, why they work, the 5 main types, and how to use them to grow your business faster.</div>
+    <div class="wb-hero-meta">
+      <span>📅 Updated June 2026</span>
+      <span>⏱ 9 min read</span>
+      <span>✍️ WREDD Animation Studio</span>
+    </div>
+  </div>
+
+  <p class="wb-p">You have roughly <strong>8 seconds</strong> to convince a website visitor to stay. That is less time than it takes to read this sentence twice. In that window, most blocks of text fail. A well-crafted explainer video does not.</p>
+
+  <p class="wb-p">An explainer video is a short, focused animated or live-action video — typically <strong>60 to 120 seconds long</strong> — that communicates what a product, service, or idea does and why it matters. It distills complexity into clarity, turning skeptical strangers into informed, ready-to-buy prospects.</p>
+
+  <p class="wb-p">Whether you are a SaaS startup trying to explain a technical platform, an e-commerce brand launching a new product, or a non-profit communicating a mission, explainer videos are consistently the <strong>highest-ROI video format</strong> available to modern marketers. This guide covers everything: the definition, the science behind why they work, the five main types, ideal lengths, where to deploy them, and what separates a mediocre video from one that converts.</p>
+
+  <div class="wb-stats">
+    <div class="wb-stat">
+      <div class="wb-stat-num">85%</div>
+      <div class="wb-stat-label">of visitors more likely to buy after watching an explainer video</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">1.8×</div>
+      <div class="wb-stat-label">longer average time on page when a video is present</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">3×</div>
+      <div class="wb-stat-label">faster conversion rate compared to text-only landing pages</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">72%</div>
+      <div class="wb-stat-label">of consumers prefer video over text to learn about a product</div>
+    </div>
+  </div>
+
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Animation production desk with video timeline and motion design software" loading="lazy" />
+    <div class="wb-img-caption">Animation production — turning scripts into high-converting visual stories</div>
+  </div>
+
+  <h2 class="wb-h2">What Exactly <span>Is</span> an Explainer Video?</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">An explainer video is a purpose-built piece of content designed to <strong>explain a concept, product, or service as clearly and memorably as possible</strong> in a short amount of time. The word "explainer" is the key — the entire goal is clarity. Unlike brand films that evoke emotion or testimonial videos that build trust through social proof, an explainer video's primary job is comprehension.</p>
+
+  <p class="wb-p">Explainer videos typically share four structural elements:</p>
+
+  <ul class="wb-list">
+    <li><strong>The Problem:</strong> Acknowledging the viewer's pain point or challenge — making them feel understood in the first few seconds.</li>
+    <li><strong>The Solution:</strong> Introducing the product or service as the logical, compelling answer to that problem.</li>
+    <li><strong>How It Works:</strong> A brief, visual walk-through of the mechanism — features shown as benefits, complexity made simple.</li>
+    <li><strong>The Call to Action:</strong> A clear, single next step — visit, sign up, call, download — delivered with confidence at the end.</li>
+  </ul>
+
+  <p class="wb-p">This structure, refined over decades of direct-response marketing and adapted for the attention economy, is why explainer videos outperform almost every other format in the awareness-to-consideration stage of the customer journey.</p>
+
+  <div class="wb-quote">"If I had more time, I would have written a shorter letter." — Blaise Pascal. The same principle applies to video. A great explainer is not shorter because it has less to say — it is shorter because it respects the viewer's time enough to say more with less.</div>
+
+  <h2 class="wb-h2">Why Explainer Videos <span>Work</span> — The Neuroscience</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">The effectiveness of explainer videos is not marketing folklore — it is grounded in how the human brain processes information. Understanding the neuroscience helps you see why this format consistently outperforms alternatives.</p>
+
+  <div class="wb-steps">
+    <div class="wb-step">
+      <div class="wb-step-num">01</div>
+      <div class="wb-step-content">
+        <h3>Dual-Channel Processing</h3>
+        <p>The brain processes visual and auditory information through separate channels simultaneously. When an explainer video combines narration with animation, both channels are engaged at once — leading to significantly deeper encoding and retention compared to reading text alone, which only engages one channel.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">02</div>
+      <div class="wb-step-content">
+        <h3>The Picture Superiority Effect</h3>
+        <p>Humans recall images at a dramatically higher rate than words. Research shows that 72 hours after exposure, people remember roughly 10% of text they read — but up to 65% of information paired with relevant imagery. Animation amplifies this effect because every frame is designed to reinforce the message.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">03</div>
+      <div class="wb-step-content">
+        <h3>Cognitive Load Reduction</h3>
+        <p>Complex information presented as text forces the brain to work hard to construct mental models. Animation does that work for the viewer — externalizing the mental model visually so cognitive resources are freed up for comprehension and decision-making rather than construction.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">04</div>
+      <div class="wb-step-content">
+        <h3>Mirror Neurons and Character Animation</h3>
+        <p>When we watch characters in animated videos navigate problems and find solutions, our mirror neuron system activates — we empathize with the character and project ourselves into the scenario. This makes the value proposition feel personal and relevant, accelerating the path to conversion.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">05</div>
+      <div class="wb-step-content">
+        <h3>Narrative Compression</h3>
+        <p>Stories are processed more holistically than lists of facts. A 90-second explainer video can deliver the emotional and logical equivalent of a 500-word article — but in a fraction of the time and with far higher retention. Narrative structure triggers the brain's story-processing mode, which is inherently more engaging than analytical reading.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1024&q=80" alt="Digital animation and explainer video character design process" loading="lazy" />
+    <div class="wb-img-caption">Character design and storyboarding — where the explainer video's emotional core is built</div>
+  </div>
+
+  <h2 class="wb-h2">The 5 Main Types of <span>Explainer Videos</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Not all explainer videos look the same — and they should not. The best format for your brand depends on your audience, budget, message complexity, and desired tone. Here are the five most effective types:</p>
+
+  <div class="wb-cards">
+    <div class="wb-card">
+      <span class="wb-card-icon">🎨</span>
+      <span class="wb-card-badge">Most Popular</span>
+      <h3>2D Character Animation</h3>
+      <p>Flat or stylized animated characters walk through your story. Versatile, approachable, and highly customizable to brand identity. Best for B2B SaaS, healthcare, education, and consumer apps. Most widely produced style at 62% of all explainer videos.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🧊</span>
+      <span class="wb-card-badge">Premium</span>
+      <h3>3D Animation</h3>
+      <p>Photorealistic or stylized three-dimensional environments and characters. Commands attention instantly and conveys technical sophistication. Ideal for product visualization, architecture, engineering, medical devices, and premium brand positioning. Growing 34% year-over-year.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">⚡</span>
+      <span class="wb-card-badge">Best for Social</span>
+      <h3>Motion Graphics</h3>
+      <p>Kinetic typography, animated data visualizations, and abstract graphic elements. No characters — pure information design in motion. Dominates social media advertising and works exceptionally well for financial services, tech platforms, and data-heavy concepts where clarity beats character.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">✏️</span>
+      <span class="wb-card-badge">High Retention</span>
+      <h3>Whiteboard Animation</h3>
+      <p>Simulated hand-drawn illustrations build the story in real time against a white background. The progressive reveal keeps viewers watching — whiteboard style shows 28% higher completion rates for complex topics. Strong fit for training content, educational platforms, and process explanations.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🖥️</span>
+      <span class="wb-card-badge">SaaS Essential</span>
+      <h3>Screencast / UI Animation</h3>
+      <p>Recorded software interfaces or animated UI mockups that show exactly how a product works. Removes "show me how it works" friction in the buyer journey. Non-negotiable for SaaS demos, app onboarding sequences, and any product where the UX is the differentiator.</p>
+    </div>
+  </div>
+
+  <h2 class="wb-h2">How Long Should an <span>Explainer Video</span> Be?</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Length is one of the most debated aspects of explainer video production, and the answer depends on where the video will live and what it needs to accomplish. Here are the research-backed benchmarks:</p>
+
+  <ul class="wb-list">
+    <li><strong>30–60 seconds:</strong> Ideal for social media ads, pre-roll, and top-of-funnel awareness. Every second counts — this format demands ruthless scripting and strong visuals that work even without sound.</li>
+    <li><strong>60–90 seconds:</strong> The sweet spot for homepage hero videos, landing pages, and product launches. Long enough to cover problem-solution-CTA with nuance, short enough to retain 70%+ of viewers to the end.</li>
+    <li><strong>90–120 seconds:</strong> Works for mid-funnel content where the viewer is already interested and needs more information before deciding. Email sequences, product detail pages, and retargeting campaigns.</li>
+    <li><strong>2–4 minutes:</strong> Reserved for complex B2B solutions, technical products, or onboarding sequences where thoroughness outweighs brevity. Viewer retention drops sharply after 2 minutes without strong pacing.</li>
+    <li><strong>The golden rule:</strong> Your video should be exactly as long as it needs to be to tell the story clearly — and not one second longer. Every unnecessary scene is a viewer lost.</li>
+  </ul>
+
+  <h2 class="wb-h2">Where to Use <span>Explainer Videos</span> for Maximum Impact</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">An explainer video is not a one-placement asset. The brands that extract the most ROI from their video investment deploy it strategically across the entire customer journey.</p>
+
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">🌐</div>
+        <div class="wb-split-label">Digital Touchpoints</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>Awareness and Consideration Stage</h3>
+      <ul class="wb-list">
+        <li><strong>Homepage hero:</strong> Replace your static hero banner with a 60–90s explainer. Average conversion lift: 20–80%.</li>
+        <li><strong>Paid social ads:</strong> 15–30s cuts work as scroll-stopping awareness content across Instagram, LinkedIn, TikTok, and YouTube pre-roll.</li>
+        <li><strong>Google Display:</strong> Motion-graphics style videos in banner ad formats outperform static banners by 3–5×.</li>
+        <li><strong>Landing pages:</strong> Video above the fold on a dedicated landing page reduces bounce rate and increases time on page dramatically.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">📧</div>
+        <div class="wb-split-label">Conversion Channels</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>Decision and Retention Stage</h3>
+      <ul class="wb-list">
+        <li><strong>Email sequences:</strong> Including the word "video" in subject lines increases open rates by 19%. Embedding an explainer in a nurture sequence keeps leads warm and informed.</li>
+        <li><strong>Sales decks:</strong> Adding a video to a proposal deck reduces sales cycle length and increases close rates — prospects arrive on calls already understanding the product.</li>
+        <li><strong>Onboarding flows:</strong> Welcome videos and feature explanation videos reduce churn by improving product adoption in the critical first 7 days.</li>
+        <li><strong>Customer support:</strong> Replacing FAQ text with short explainer clips cuts support ticket volume and increases customer satisfaction scores.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1536240478700-b869ad10e128?w=1024&q=80" alt="Professional video production and animated content creation workflow" loading="lazy" />
+    <div class="wb-img-caption">From concept to delivery — the WREDD production workflow that ensures every video converts</div>
+  </div>
+
+  <h2 class="wb-h2">What Makes a <span>Great</span> Explainer Video?</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Thousands of explainer videos are produced every week. Most are forgettable. The ones that drive real business results share a set of defining characteristics — and it starts with the script, not the visuals.</p>
+
+  <div class="wb-steps">
+    <div class="wb-step">
+      <div class="wb-step-num">01</div>
+      <div class="wb-step-content">
+        <h3>Script First, Always</h3>
+        <p>Every great explainer video is built on a great script. The script defines the message, the pacing, the emotional arc, and the call to action. No amount of beautiful animation can save a poorly structured script. Budget at least 30% of your creative energy here before a single frame is drawn.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">02</div>
+      <div class="wb-step-content">
+        <h3>One Message, One Video</h3>
+        <p>The most common mistake brands make is trying to explain everything in one video. Great explainers are ruthlessly focused — one product, one audience segment, one core value proposition. If you have three things to explain, make three videos.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">03</div>
+      <div class="wb-step-content">
+        <h3>Professional Voiceover</h3>
+        <p>The voiceover is the emotional spine of your explainer video. A mismatched, robotic, or amateurish voice-over undermines even stunning visuals. Invest in professional talent whose tone, pacing, and energy match your brand personality and target audience.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">04</div>
+      <div class="wb-step-content">
+        <h3>On-Brand Visual Language</h3>
+        <p>Every color, character design, typography choice, and motion style should feel unmistakably like your brand. A great explainer video extends your visual identity rather than departing from it. Consistency between your video and your website creates brand recognition and trust.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">05</div>
+      <div class="wb-step-content">
+        <h3>A Clear, Single Call to Action</h3>
+        <p>Your explainer video should end with one instruction: what should the viewer do next? Start a free trial. Book a call. Download the guide. Visit the website. One clear CTA, repeated in both the voiceover and on-screen text, outperforms vague or multiple CTAs every time.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="wb-testimonial">
+    <div class="wb-stars">★★★★★</div>
+    <div class="wb-testimonial-text">"We launched a new SaaS product and our homepage text was just not communicating the value fast enough. WREDD produced a 75-second explainer video for us and within 30 days our trial sign-up rate increased by 62%. The script, animation, and voiceover were all exceptional — they genuinely understood what we were selling and translated it into something our customers immediately connected with."</div>
+    <div class="wb-author">
+      <div class="wb-avatar">AR</div>
+      <div>
+        <h4>Ahmed Raza</h4>
+        <span>Head of Growth · TechPulse Platform</span>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+  <div class="wb-rule"></div>
+  <div class="wb-faq">
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How is an explainer video different from a promotional video? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">A promotional video focuses on generating excitement and brand awareness — it is often emotional, cinematic, and less concerned with explanation. An explainer video prioritizes clarity and comprehension above all else. Its primary job is to make sure the viewer understands what your product does and why they should care. In practice, the best explainer videos blend both — they inform and inspire simultaneously.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Do explainer videos work for B2B businesses? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Absolutely — in fact, explainer videos may be even more valuable for B2B than B2C. B2B products are often complex, abstract, or require significant explanation to demonstrate value. An explainer video gives your sales team a powerful asset to send before calls, shortens the sales cycle, and ensures every prospect arrives with a baseline understanding of your offering. B2B companies using explainer videos report 20–40% shorter sales cycles on average.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">What is the ideal length for an explainer video on a homepage? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">For a homepage hero placement, 60–90 seconds is the research-backed sweet spot. This is long enough to walk through the problem, solution, key benefits, and a call to action — but short enough that a meaningful percentage of visitors will watch to the end. Videos under 60 seconds can feel rushed. Videos over 2 minutes on a homepage lose most viewers before the CTA.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Should the video have a voiceover or just on-screen text? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">For most explainer videos, a professional voiceover dramatically outperforms text-only formats in comprehension and retention — because it engages both the auditory and visual channels simultaneously. However, for social media where 85% of videos are watched without sound, always include accurate subtitles or animated captions. The gold standard is a video that works beautifully both with and without audio.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How long does it take to produce an explainer video? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">A professionally produced explainer video typically takes 3–6 weeks from brief to final delivery. The timeline breaks down as: script and concept (1 week), storyboard and style frames (1 week), animation and voiceover recording (1–2 weeks), sound design and revisions (1 week). Rush timelines are possible but generally compromise quality or require premium pricing. At WREDD, our standard turnaround is 4 weeks with two revision rounds included.</div>
+    </div>
+  </div>
+
+  <div class="wb-cta">
+    <h2>Ready to Create Your Explainer Video?</h2>
+    <p>WREDD Animation Studio has produced explainer videos for startups, enterprise brands, and everything in between. Let's build something that converts.</p>
+    <div class="wb-cta-btns">
+      <a href="https://www.wredd.com" class="wb-btn-primary">Get a Free Quote</a>
+      <a href="mailto:hello@wredd.com" class="wb-btn-secondary">Email Us Today</a>
+    </div>
+  </div>
+
+  <div class="wb-tags-wrap">
+    <div class="wb-tags-label">Topics</div>
+    <div class="wb-tags">
+      <span class="wb-tag">Explainer Videos</span>
+      <span class="wb-tag">Animation</span>
+      <span class="wb-tag">Video Marketing</span>
+      <span class="wb-tag">2D Animation</span>
+      <span class="wb-tag">Motion Graphics</span>
+      <span class="wb-tag">Content Strategy</span>
+      <span class="wb-tag">Conversion Optimization</span>
+      <span class="wb-tag">WREDD</span>
+    </div>
+  </div>
+
+  <div class="wb-contact">
+    <div class="wb-contact-logo">WR<span>E</span>DD</div>
+    <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+    <div class="wb-contact-divider"></div>
+    <div class="wb-contact-info">
+      📞 <strong>Call us:</strong> +92 316 5471697<br>
+      📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+      🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+    </div>
+    <div class="wb-social">
+      <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+      <a href="https://www.facebook.com/the.wredd">Facebook</a>
+      <a href="https://www.instagram.com/the.wredd">Instagram</a>
+      <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+      <a href="https://www.youtube.com/@theWredd">YouTube</a>
+    </div>
+  </div>
+
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->

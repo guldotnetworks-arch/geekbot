@@ -1,283 +1,328 @@
-<!-- wp:paragraph -->
-<p>Explainer video pricing is one of the most searched questions in video marketing — and one of the most misunderstood.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The range is enormous. You can spend $300 or $30,000 on a 90-second video. The quality difference is just as enormous.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Here is the honest breakdown of what explainer videos actually cost in 2026 — and what you get at every price point.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1024&q=80" alt="Business team reviewing explainer video production budget and pricing options"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The 5 Pricing Tiers Explained</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Every explainer video on the market falls into one of five production tiers:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>DIY tools (Vyond, Animaker)</strong> — $0–$300/month, template-based, limited customization</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Fiverr freelancers</strong> — $300–$1,500, highly variable quality, limited revisions</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Mid-tier studios</strong> — $1,500–$4,000, reliable quality, 3–4 week turnaround</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Professional studios</strong> — $4,000–$10,000, custom animation, full production pipeline</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Premium agencies</strong> — $10,000–$25,000+, cinematic quality, enterprise standards</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Most growing businesses fall comfortably in the $4,000–$8,000 professional studio range.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1024&q=80" alt="Animation studio team reviewing production deliverables and cost breakdown"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>What Actually Drives the Price Up</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Cost is not random. Every dollar in a professional explainer video budget goes somewhere specific.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The biggest cost drivers are:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>video length</strong> — every extra 30 seconds adds $1,000–$3,000</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>animation complexity</strong> — more characters and scenes mean more animator hours</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>custom character design</strong> — original illustrations vs. stock assets</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>professional voiceover</strong> — studio-recorded talent vs. text-to-speech</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>custom music composition</strong> — original score vs. licensed stock track</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>number of revision rounds</strong> — unlimited vs. 2–3 included</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Understanding these drivers helps you negotiate intelligently and allocate budget where it matters most.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1024&q=80" alt="Professional animation team producing custom 2D character explainer video"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Hidden Costs Most Studios Don't Tell You About</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The quoted price is rarely the final price. Watch out for these common add-ons:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>rush fees</strong> — 25–50% surcharge for delivery under 3 weeks</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>source file fees</strong> — many studios charge $500–$2,000 extra to hand over project files</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>extra revision charges</strong> — anything beyond the included rounds billed per session</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>music license upgrades</strong> — standard licenses may not cover commercial broadcast use</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>multi-format exports</strong> — square, vertical, and widescreen versions sometimes billed separately</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Always ask for a full itemized quote before signing anything.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Cost by Animation Style</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The style you choose has a direct impact on the total production cost:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>2D character animation</strong> — $4,000–$12,000</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>motion graphics</strong> — $2,500–$8,000</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>whiteboard animation</strong> — $1,500–$5,000</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>educational storytelling animation</strong> — $3,500–$9,000</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>3D product animation</strong> — $8,000–$30,000+</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Choosing the right style for your goal prevents overspending on production that doesn't serve your audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Business growth metrics showing ROI from explainer video investment"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>How to Calculate Your Real ROI</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The question is never just "how much does it cost?" The real question is "how much will it return?"</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Consider this: if you have 1,000 website visitors per month and your explainer video improves your conversion rate from 2% to 3.6% — that is 16 additional customers every single month.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If your average customer value is $2,000, that's <strong>$32,000 in additional monthly revenue</strong> from a single one-time investment.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>That is the real cost calculation for an explainer video.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Smart Budget Tips for 2026</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Before you commit your budget, keep these principles in mind:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>prioritize scriptwriting — a great script beats great visuals every time</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>start with 60–75 seconds to keep costs manageable</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>always negotiate source file ownership upfront</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>get at least 3 quotes before deciding</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>factor in a distribution budget — a great video with no promotion delivers nothing</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>Transparent Pricing. No Surprises.</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, every quote is fully itemized before a single frame is drawn.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You know exactly what you're paying for, why it costs what it costs, and what you'll receive at every stage of production.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we produce:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>custom 2D animated explainer videos</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>motion graphics explainers for B2B brands</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>educational animations for YouTube and social media</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>startup and SaaS explainer videos</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>fully custom production at honest, transparent pricing</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><em>If you want a professional explainer video without hidden fees, let's talk.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
+<div class="wredd-blog">
+
+  <div class="wb-hero">
+    <div class="wb-hero-grid"></div>
+    <div class="wb-eyebrow">Pricing Guide · 2026 Edition</div>
+    <h1>How Much Does an Explainer Video Cost?<span>The Complete 2026 Pricing Breakdown</span></h1>
+    <div class="wb-hero-sub">From budget DIY tools to world-class studio production — here is exactly what explainer videos cost in 2026, what drives the price, and how to evaluate true ROI before you invest.</div>
+    <div class="wb-hero-meta">
+      <span>📅 Updated June 2026</span>
+      <span>⏱ 10 min read</span>
+      <span>✍️ WREDD Animation Studio</span>
+    </div>
+  </div>
+
+  <p class="wb-p">Explainer video pricing is one of the most searched questions in video marketing — and one of the most misunderstood. Search results will tell you anything from "$99 on Fiverr" to "$50,000 at a top agency." Both numbers are technically true, and neither tells you anything useful unless you understand what drives the difference.</p>
+
+  <p class="wb-p">This guide cuts through the noise. We will break down every price tier with honest assessments of what you get, what factors influence the final cost, what is typically included versus what costs extra, and — most importantly — how to think about explainer video cost as an investment rather than an expense.</p>
+
+  <p class="wb-p">By the end, you will know exactly what budget to set, what to ask any studio before signing, and how to calculate whether a video will pay for itself.</p>
+
+  <div class="wb-stats">
+    <div class="wb-stat">
+      <div class="wb-stat-num">$3–8K</div>
+      <div class="wb-stat-label">average cost for a professional 2D explainer video in 2026</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">$8K+</div>
+      <div class="wb-stat-label">starting price for a quality 3D animated explainer video</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">3–5×</div>
+      <div class="wb-stat-label">average ROI on a well-placed professional explainer video</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">66%</div>
+      <div class="wb-stat-label">of marketers plan to increase their video budget in 2026</div>
+    </div>
+  </div>
+
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1024&q=80" alt="Business budget planning and animation video production cost breakdown" loading="lazy" />
+    <div class="wb-img-caption">Understanding what you are buying — the real components behind explainer video pricing</div>
+  </div>
+
+  <h2 class="wb-h2">The 4 Price Tiers <span>Explained</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Explainer video production exists on a broad spectrum. Here is an honest breakdown of each tier — what it costs, who it is for, and what you should realistically expect to receive.</p>
+
+  <div class="wb-cards">
+    <div class="wb-card">
+      <span class="wb-card-icon">💸</span>
+      <span class="wb-card-badge">Budget Tier</span>
+      <h3>$500 – $1,500</h3>
+      <p>DIY tools, offshore freelancers, or template-based studios. Suitable for internal training videos or proof-of-concept testing. Expect generic assets, limited revisions, no custom illustration, and minimal strategic input. Not recommended for customer-facing content on competitive markets.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">⚖️</span>
+      <span class="wb-card-badge">Mid-Range</span>
+      <h3>$2,000 – $6,000</h3>
+      <p>Small studios or experienced freelance teams. Custom illustration and basic character design. Decent voiceover and original music. Script support is often available. Quality varies significantly — vet the portfolio carefully. Good option for startups with tight budgets who still need brand-aligned output.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🏆</span>
+      <span class="wb-card-badge">Professional</span>
+      <h3>$6,000 – $15,000</h3>
+      <p>Established animation studios with dedicated strategists, illustrators, animators, and sound designers. Full custom production — no templates. Professional voiceover casting, original soundtrack, structured revision process, and strategic script development. The investment range where commercial ROI becomes predictable and measurable.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">💎</span>
+      <span class="wb-card-badge">Premium</span>
+      <h3>$15,000+</h3>
+      <p>Top-tier agencies and studios producing broadcast-quality work for enterprise brands. Full campaign strategy, A/B tested scripts, celebrity or premium voice talent, cinematic sound design, and production of multiple versioned cuts (15s, 30s, 60s, full). The right investment for Series B+ brands or high-volume marketing campaigns.</p>
+    </div>
+  </div>
+
+  <h2 class="wb-h2">What <span>Drives</span> the Price?</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Understanding the variables behind explainer video pricing helps you negotiate intelligently and make smarter decisions about where to invest versus where to save.</p>
+
+  <div class="wb-steps">
+    <div class="wb-step">
+      <div class="wb-step-num">01</div>
+      <div class="wb-step-content">
+        <h3>Video Length</h3>
+        <p>The most direct cost driver. A 60-second animation requires roughly 1,200–1,500 frames of illustration and animation at 24fps. Every additional 15 seconds adds meaningful labor. Most studios quote per 30 or 60 seconds of finished video. A 90-second video is not 50% more expensive than a 60-second one — the setup costs are fixed, so it is typically 20–30% more.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">02</div>
+      <div class="wb-step-content">
+        <h3>Animation Style and Complexity</h3>
+        <p>Simple motion graphics cost less than complex character animation. A video with 3 scenes and minimal characters is dramatically cheaper than one with 10 scenes, lip-synced characters, and detailed environments. 3D animation costs 2–4× more than comparable 2D work because of modeling, rigging, rendering, and lighting complexity.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">03</div>
+      <div class="wb-step-content">
+        <h3>Script and Strategy</h3>
+        <p>Some studios include scripting in their package; others charge separately ($300–$1,500 for a 90-second script from a qualified copywriter). A conversion-focused script is not a commodity — it is the most important creative investment in the entire production. Never accept a studio that does not have a structured scripting process.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">04</div>
+      <div class="wb-step-content">
+        <h3>Voiceover and Sound</h3>
+        <p>Professional voiceover talent ranges from $200–$2,000+ depending on usage rights, market, language, and talent profile. Custom original music adds $300–$1,500. Licensed royalty-free music is typically included at lower price points. Sound design (ambient audio, SFX) adds polish and depth — its absence is immediately noticeable in finished videos.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">05</div>
+      <div class="wb-step-content">
+        <h3>Number of Revisions</h3>
+        <p>Most professional studios include 2 revision rounds per production stage (script, storyboard, animation, final). Additional revision rounds are billed separately, typically $150–$500 per round. Clients who take time to brief thoroughly and approve quickly rarely need extra revisions. Those who "figure it out as we go" consistently exceed their initial budget.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">06</div>
+      <div class="wb-step-content">
+        <h3>Studio Location and Overhead</h3>
+        <p>A studio based in New York or London carries significantly higher overhead than one operating in Karachi, Lahore, or Eastern Europe — and this is reflected in pricing. WREDD Animation Studio offers world-class production quality at rates that reflect our Pakistan base, delivering premium output at 40–60% of Western studio pricing without compromising on craft.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="ROI analytics showing explainer video investment returns" loading="lazy" />
+    <div class="wb-img-caption">Measuring ROI — how to evaluate the real return on your explainer video investment</div>
+  </div>
+
+  <h2 class="wb-h2">What Is <span>Included</span> vs. What Costs Extra?</h2>
+  <div class="wb-rule"></div>
+
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">✅</div>
+        <div class="wb-split-label">Typically Included</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>Standard Package Inclusions</h3>
+      <ul class="wb-list">
+        <li>Script writing or scripting collaboration and feedback</li>
+        <li>Storyboard / animatic development with client approval stage</li>
+        <li>Custom character and environment illustration</li>
+        <li>Animation and motion design (all approved scenes)</li>
+        <li>Professional voiceover in primary language</li>
+        <li>Royalty-free background music and basic sound design</li>
+        <li>2 revision rounds per production stage</li>
+        <li>Final delivery in MP4 (1080p) with full-quality export</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">➕</div>
+        <div class="wb-split-label">Common Add-Ons</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>What Gets Billed Separately</h3>
+      <ul class="wb-list">
+        <li>Additional language versions or subtitle files (+$300–1,000)</li>
+        <li>Social media cuts (15s, 30s, square format) (+$500–2,000)</li>
+        <li>Source files / project file handoff (+$500–1,500)</li>
+        <li>Custom original music composition (+$400–1,500)</li>
+        <li>Expedited delivery / rush production (+20–50% of total)</li>
+        <li>Additional revision rounds beyond included allowance</li>
+        <li>Broadcast licensing for TV or cinema placement</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2 class="wb-h2">Why <span>Cheap</span> Explainer Videos Cost More in the Long Run</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">The temptation to minimize video production costs is understandable — especially for early-stage companies. But there is a pattern that plays out repeatedly: brands choose the lowest-cost option, receive a video that misrepresents their product or fails to convert, and ultimately spend more money either fixing it or starting over.</p>
+
+  <ul class="wb-list">
+    <li><strong>Brand damage:</strong> A low-quality video on your homepage signals low-quality everything. Visitors form instant judgments — a cheap animation can increase bounce rate and reduce trust, the opposite of the intended effect.</li>
+    <li><strong>Revision spiral:</strong> Budget studios often underprice to win the project, then charge per revision. Three rounds of changes at $300 each on a $900 video is $1,800 — more than a mid-range option would have cost.</li>
+    <li><strong>No source files:</strong> Cheap videos often come without editable source files. When your product updates, you cannot amend the video — you start from scratch. Professional studios provide layered project files as standard.</li>
+    <li><strong>Missed conversion opportunity:</strong> Every week your homepage runs an underperforming video is a week of lost conversions. If your product converts at 2% with a great video and 0.8% with a poor one, on 10,000 monthly visitors, that is 12 lost conversions every month — at whatever your average customer value is.</li>
+    <li><strong>The real cost calculation:</strong> Ask not "how much does this video cost?" but "what is the cost of a video that does not convert?" The answer reframes the investment entirely.</li>
+  </ul>
+
+  <div class="wb-quote">"The bitterness of poor quality remains long after the sweetness of low price is forgotten." The same is profoundly true in animation. A great video pays for itself many times over. A cheap one costs you more than it saved.</div>
+
+  <h2 class="wb-h2">How to Calculate <span>ROI</span> on an Explainer Video</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Before investing in an explainer video, run this simple ROI framework to understand whether the investment makes sense for your business.</p>
+
+  <div class="wb-steps">
+    <div class="wb-step">
+      <div class="wb-step-num">01</div>
+      <div class="wb-step-content">
+        <h3>Know Your Current Conversion Rate</h3>
+        <p>What percentage of homepage or landing page visitors currently convert to a lead or sale? If you do not know this number, install conversion tracking before ordering a video — you need a baseline to measure against.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">02</div>
+      <div class="wb-step-content">
+        <h3>Estimate the Lift</h3>
+        <p>Industry benchmarks show explainer videos increase landing page conversion rates by an average of 20–80%, depending on the quality of the video and the existing page. Use a conservative 20% lift for your calculation to avoid over-estimating.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">03</div>
+      <div class="wb-step-content">
+        <h3>Calculate Additional Monthly Revenue</h3>
+        <p>Monthly visitors × conversion lift (as decimal) × average customer value = additional monthly revenue attributable to the video. At 10,000 visitors, a 0.4% conversion lift (from 2% to 2.4%), and $200 average customer value: 10,000 × 0.004 × $200 = $8,000/month.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">04</div>
+      <div class="wb-step-content">
+        <h3>Divide Video Cost by Monthly Revenue Lift</h3>
+        <p>A $6,000 video generating $8,000/month in additional revenue pays for itself in under one month. Even with conservative assumptions, most professional explainer videos in the right placement achieve full ROI within 2–6 months — then continue generating returns for 2–3 years.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="wb-testimonial">
+    <div class="wb-stars">★★★★★</div>
+    <div class="wb-testimonial-text">"We had tried a cheap video before — $800 from an online platform — and it sat on our site for six months doing nothing. We then invested in a proper WREDD production at $7,500 and the difference was immediately visible in our analytics. Demo request rate went from 1.2% to 3.8% within the first month. The video paid for itself in week three. We have since commissioned two more videos from WREDD for different product lines."</div>
+    <div class="wb-author">
+      <div class="wb-avatar">SK</div>
+      <div>
+        <h4>Sarah Khan</h4>
+        <span>CMO · Nexora Digital Solutions</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1024&q=80" alt="Business deal and animation studio contract signing" loading="lazy" />
+    <div class="wb-img-caption">Partnering with the right studio — what to look for before signing a production agreement</div>
+  </div>
+
+  <h2 class="wb-h2">Questions to Ask <span>Any Studio</span> Before You Hire Them</h2>
+  <div class="wb-rule"></div>
+  <ul class="wb-list">
+    <li><strong>Can I see 5 recent examples that are similar to my project in style and industry?</strong> Generic portfolios are a red flag. The best studios have relevant case studies with measurable outcomes.</li>
+    <li><strong>Who writes the script and what is your scripting process?</strong> If the answer is "we send you a template to fill in," walk away. Strategic scripting is not a form — it is a craft.</li>
+    <li><strong>What happens if I need changes after final delivery?</strong> Understanding post-delivery revision policy protects you from expensive surprises when your product updates six months later.</li>
+    <li><strong>Do I own the source files and all rights to the final video?</strong> Some studios retain IP or charge separately for source file handoff. Clarify upfront. You should own everything outright upon full payment.</li>
+    <li><strong>What does your revision process look like and how many rounds are included?</strong> A structured, stage-gated revision process with clear approval checkpoints is a mark of a professional studio.</li>
+    <li><strong>What is the realistic timeline from brief to delivery?</strong> Anyone promising broadcast-quality video in under 2 weeks is cutting corners somewhere in the process.</li>
+  </ul>
+
+  <h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+  <div class="wb-rule"></div>
+  <div class="wb-faq">
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Is it worth paying more for a professional explainer video? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">In almost every case, yes — provided the video is placed correctly and the audience traffic exists to measure impact. The conversion lift from a professional video versus a budget one is not marginal; it is often the difference between a page that converts and one that does not. If your product or service has meaningful customer lifetime value, the ROI on a professional video is typically achieved within the first 1–3 months of deployment.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Can I get a good explainer video for under $2,000? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">You can get a functional video under $2,000 — but "good" in the commercial sense is unlikely at that price point. Budget-tier videos use stock assets, template animations, and often AI or non-native voiceovers. They may convey basic information but rarely create the brand impression or emotional engagement needed to drive conversion. For non-critical internal or one-off uses, a budget video may suffice. For customer-facing placements, invest accordingly.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How long does a professional explainer video remain usable? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">A well-produced, strategically scripted explainer video typically has a useful lifespan of 2–4 years before product changes or design refresh make it feel dated. Videos that are tied too closely to specific features or pricing may need updating sooner. Build your script around the evergreen core value proposition rather than current features and you will extend the video's useful life significantly.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Does WREDD offer payment plans? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Yes. WREDD Animation Studio typically structures payments as 50% upfront and 50% upon final delivery. For larger projects, we can discuss milestone-based payment schedules. Reach out to hello@wredd.com to discuss the structure that works for your budget and timeline.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">What is WREDD's pricing range? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">WREDD operates in the professional tier — delivering world-class quality at rates that reflect our global studio structure. Our projects typically range from $3,000 for a focused 60-second 2D explainer to $15,000+ for complex 3D or campaign-level productions. We provide transparent, itemized quotes based on your specific brief — no hidden fees, no upsell surprises. Contact us for a free consultation and quote.</div>
+    </div>
+  </div>
+
+  <div class="wb-cta">
+    <h2>Get a Transparent Quote from WREDD</h2>
+    <p>No vague estimates. No template packages. Tell us what you need and we will give you an exact price, timeline, and what is included — within 24 hours.</p>
+    <div class="wb-cta-btns">
+      <a href="https://www.wredd.com" class="wb-btn-primary">Request a Quote</a>
+      <a href="mailto:hello@wredd.com" class="wb-btn-secondary">Email hello@wredd.com</a>
+    </div>
+  </div>
+
+  <div class="wb-tags-wrap">
+    <div class="wb-tags-label">Topics</div>
+    <div class="wb-tags">
+      <span class="wb-tag">Explainer Video Cost</span>
+      <span class="wb-tag">Animation Pricing</span>
+      <span class="wb-tag">Video Production Budget</span>
+      <span class="wb-tag">ROI Calculator</span>
+      <span class="wb-tag">Video Marketing</span>
+      <span class="wb-tag">Animation Studio</span>
+      <span class="wb-tag">WREDD</span>
+    </div>
+  </div>
+
+  <div class="wb-contact">
+    <div class="wb-contact-logo">WR<span>E</span>DD</div>
+    <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+    <div class="wb-contact-divider"></div>
+    <div class="wb-contact-info">
+      📞 <strong>Call us:</strong> +92 316 5471697<br>
+      📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+      🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+    </div>
+    <div class="wb-social">
+      <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+      <a href="https://www.facebook.com/the.wredd">Facebook</a>
+      <a href="https://www.instagram.com/the.wredd">Instagram</a>
+      <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+      <a href="https://www.youtube.com/@theWredd">YouTube</a>
+    </div>
+  </div>
+
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->
