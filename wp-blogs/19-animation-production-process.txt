@@ -1,0 +1,239 @@
+<!-- wp:paragraph -->
+<p>Most clients arrive at an animation studio with a great idea and a vague understanding of what happens next.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The production process is where great ideas either become exceptional videos or disappointing deliverables. The difference is almost always the process — not the talent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is exactly how professional animation is produced from concept to final delivery in 2026.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Professional animation production process showing all stages from script to final video delivery"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 1: Discovery and Strategy</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Every professional animation project begins with a discovery session before any creative work starts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This stage establishes:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>the specific audience the video needs to connect with</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>the single action the video should drive viewers toward</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>the tone, personality, and visual language that fits the brand</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>the distribution channels and format requirements</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>the competitive landscape and what differentiates this brand</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Skipping discovery is the most common cause of animated videos that look beautiful but do not convert. Strategy takes 2–3 days and shapes every decision that follows.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 2: Script Writing</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The script is the most important deliverable in the entire production. Everything — visuals, timing, performance — flows from it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A professional animation script is written for the ear, not the page. Short sentences. Active voice. Conversational rhythm. The viewer should never notice the script — they should only feel the story.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The script is revised and approved before any visual work begins. Changes made after animation starts cost 5–10x more than changes made at the script stage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1024&q=80" alt="Scriptwriting stage of animation production showing script document and revision process"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 3: Voiceover Recording</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Voiceover is recorded from the approved final script before storyboarding begins.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Professional voice talent is non-negotiable for customer-facing videos. A human voice communicates warmth, credibility, and emotional nuance that no AI voice replication currently achieves. The locked voiceover file becomes the timing track for every subsequent production stage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 4: Storyboarding</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The storyboard is the visual blueprint of the video — a sequence of rough panels showing what will appear on screen for each section of the script.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It defines every key visual decision before a single asset is designed:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>camera framing and movement</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>character placement and action</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>on-screen text and data visualization timing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>scene transitions and pacing</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Storyboard approval is a critical checkpoint. Once passed, visual design begins.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 5: Visual Design and Style Frames</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The visual identity of the video is fully designed before animation begins.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This stage produces character designs, color palette, background style, typography system, and 3–5 fully polished still frames showing key moments at final quality. The client approves the visual direction completely before a single scene is animated.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This approval stage exists to protect both parties. Visual changes at this stage take hours. Visual changes at the animation stage take days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1613235788139-4be3b09c3b8d?w=1024&q=80" alt="Style frame design stage showing character design and visual direction for animation production"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 6: Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The animation stage is the longest phase — typically 10–15 business days for a 90-second video.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Animators work scene-by-scene, syncing every movement to the locked voiceover. Professional animation at this stage involves thousands of individual keyframe decisions. The difference between amateur and professional animation is visible in the fluidity, timing, and expressiveness of these movements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 7: Sound Design and Music</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A completed animation without sound design feels unfinished. Sound design adds the final layer of professional polish:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>background music matched to the video's emotional arc</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>sound effects that reinforce key visual moments</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>audio mastering for consistent playback across all devices and platforms</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Stage 8: Review, Revisions, and Delivery</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The completed video is reviewed in full, feedback is consolidated, and revisions are implemented. Final delivery includes:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>MP4 master file in 1080p or 4K</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>web-optimized version for fast loading</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>square and vertical format versions for social media</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>source project files (when included in the package)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Total production timeline for a 90-second animated explainer: <strong>4–6 weeks</strong> from brief to delivery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong><em>Process Is What Protects Quality</em></strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Every great animated video you have ever watched is the product of a disciplined process followed by professionals who refused to skip steps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At WREDD, this pipeline is not a suggestion. It is how every project runs — because it is the only reliable way to consistently deliver animation that meets the quality standard our clients' brands deserve.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>If you want to experience this process firsthand, let's start with a brief.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
+
+<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
+<!-- /wp:social-links -->

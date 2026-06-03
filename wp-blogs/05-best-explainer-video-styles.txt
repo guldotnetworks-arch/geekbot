@@ -1,0 +1,317 @@
+<!-- wp:paragraph -->
+<p>Your animation style is your first impression. It communicates your brand's personality before a single word of voiceover is heard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Choose the wrong style and you signal the wrong message to your audience. Choose right and your brand becomes instantly recognizable and trusted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are the 7 best explainer video styles in 2026 — and exactly when to use each one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1613235788139-4be3b09c3b8d?w=1024&q=80" alt="Different explainer video animation styles displayed across multiple screens"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 1: 2D Character Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The most popular explainer video style in the world — and for very good reason.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Custom illustrated characters move through branded environments, telling your story with personality, warmth, and visual richness. This style creates emotional connection that no other format can match at the same production cost.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>SaaS products and mobile apps</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>consumer brands targeting millennials and Gen Z</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>educational content and e-learning platforms</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>startups that want to communicate personality</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cost range: $4,000–$12,000 for a 60–90 second custom production.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1024&q=80" alt="2D character animation frames showing custom illustrated explainer video style"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 2: Motion Graphics</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sleek, data-driven animation using shapes, icons, charts, and typography.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>No characters. Just clean, purposeful motion that communicates professionalism and precision. The dominant visual language of B2B marketing and enterprise technology.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>B2B and enterprise technology brands</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>finance, legal, and professional services</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>data-heavy explanations and statistics</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>software UI and dashboard demonstrations</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cost range: $2,500–$8,000 for a 60–90 second production.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 3: Whiteboard Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A drawing hand illustrates concepts in real time on a white background.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The visual simplicity keeps the viewer focused entirely on the idea being communicated. Zero distraction. Maximum information clarity. Highly effective when step-by-step explanation is the priority.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>educational content and online courses</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>healthcare and medical explanations</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>NGOs and nonprofits explaining complex missions</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>process walkthroughs where clarity beats aesthetics</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cost range: $1,500–$5,000 for a 60–90 second production.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Animation studio producing whiteboard style educational explainer video"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 4: Educational Storytelling Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is the Zack D. Films style — driven by narrative, visual metaphors, dynamic typography, and a storytelling structure that makes even complex information genuinely engaging.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The dominant style on YouTube's most-viewed educational channels and one of the most shareable formats on all of social media.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>YouTube channels and content marketing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>brands teaching their audience to build authority</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>complex topics that need storytelling to become accessible</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>viral social media campaigns</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cost range: $3,500–$9,000 for a 90–120 second production. This is WREDD's signature specialty.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 5: 3D Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Three-dimensional animation that brings products and environments to life with cinematic depth, photorealistic materials, and controlled lighting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The highest-cost style — but it delivers unmatched visual impact for physical products and architectural visualization.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>physical product launches and detailed showcases</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>medical device demonstrations</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>architecture and real estate visualization</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>manufacturing and industrial process explanations</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cost range: $8,000–$30,000+ depending on complexity and length.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 6: Cut-Out Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Flat, layered graphic elements that move like physical paper cutouts. Visually distinctive and deliberately playful. Stands apart from smoother 2D styles in crowded social feeds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for creative agencies, youth-focused brands, and educational content for students.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Style 7: Hybrid Live Action + Animation</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Real footage combined with animated overlays, motion graphics, and visual effects. The premium approach that delivers both human authenticity and animation's explanatory power simultaneously.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Best for:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>enterprise and premium SaaS brands</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>investor pitches and brand films</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>broadcast and TV advertising</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1024&q=80" alt="Motion graphics and 2D animation style comparison for business explainer videos"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>How to Choose the Right Style</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Use this simple framework:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>SaaS or app with young audience → 2D character animation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>B2B enterprise or finance brand → motion graphics</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Educational YouTube channel → storytelling animation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Physical product showcase → 3D animation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Premium brand with full budget → hybrid live action</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Not sure which fits your brand? That is exactly the conversation WREDD's strategy team is here to have with you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At WREDD, we produce all 7 styles. We will recommend the one that serves your audience and goals — not the one that is easiest for us to produce.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Let's find your visual identity and make it unforgettable.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
+
+<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
+<!-- /wp:social-links -->

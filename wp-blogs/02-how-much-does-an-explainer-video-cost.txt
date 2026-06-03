@@ -1,0 +1,283 @@
+<!-- wp:paragraph -->
+<p>Explainer video pricing is one of the most searched questions in video marketing — and one of the most misunderstood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The range is enormous. You can spend $300 or $30,000 on a 90-second video. The quality difference is just as enormous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is the honest breakdown of what explainer videos actually cost in 2026 — and what you get at every price point.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1024&q=80" alt="Business team reviewing explainer video production budget and pricing options"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>The 5 Pricing Tiers Explained</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Every explainer video on the market falls into one of five production tiers:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>DIY tools (Vyond, Animaker)</strong> — $0–$300/month, template-based, limited customization</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Fiverr freelancers</strong> — $300–$1,500, highly variable quality, limited revisions</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mid-tier studios</strong> — $1,500–$4,000, reliable quality, 3–4 week turnaround</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Professional studios</strong> — $4,000–$10,000, custom animation, full production pipeline</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Premium agencies</strong> — $10,000–$25,000+, cinematic quality, enterprise standards</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Most growing businesses fall comfortably in the $4,000–$8,000 professional studio range.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1024&q=80" alt="Animation studio team reviewing production deliverables and cost breakdown"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>What Actually Drives the Price Up</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cost is not random. Every dollar in a professional explainer video budget goes somewhere specific.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The biggest cost drivers are:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>video length</strong> — every extra 30 seconds adds $1,000–$3,000</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>animation complexity</strong> — more characters and scenes mean more animator hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>custom character design</strong> — original illustrations vs. stock assets</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>professional voiceover</strong> — studio-recorded talent vs. text-to-speech</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>custom music composition</strong> — original score vs. licensed stock track</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>number of revision rounds</strong> — unlimited vs. 2–3 included</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Understanding these drivers helps you negotiate intelligently and allocate budget where it matters most.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1024&q=80" alt="Professional animation team producing custom 2D character explainer video"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Hidden Costs Most Studios Don't Tell You About</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The quoted price is rarely the final price. Watch out for these common add-ons:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>rush fees</strong> — 25–50% surcharge for delivery under 3 weeks</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>source file fees</strong> — many studios charge $500–$2,000 extra to hand over project files</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>extra revision charges</strong> — anything beyond the included rounds billed per session</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>music license upgrades</strong> — standard licenses may not cover commercial broadcast use</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>multi-format exports</strong> — square, vertical, and widescreen versions sometimes billed separately</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Always ask for a full itemized quote before signing anything.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Cost by Animation Style</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The style you choose has a direct impact on the total production cost:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>2D character animation</strong> — $4,000–$12,000</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>motion graphics</strong> — $2,500–$8,000</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>whiteboard animation</strong> — $1,500–$5,000</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>educational storytelling animation</strong> — $3,500–$9,000</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>3D product animation</strong> — $8,000–$30,000+</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Choosing the right style for your goal prevents overspending on production that doesn't serve your audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Business growth metrics showing ROI from explainer video investment"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>How to Calculate Your Real ROI</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The question is never just "how much does it cost?" The real question is "how much will it return?"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Consider this: if you have 1,000 website visitors per month and your explainer video improves your conversion rate from 2% to 3.6% — that is 16 additional customers every single month.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If your average customer value is $2,000, that's <strong>$32,000 in additional monthly revenue</strong> from a single one-time investment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That is the real cost calculation for an explainer video.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Smart Budget Tips for 2026</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before you commit your budget, keep these principles in mind:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>prioritize scriptwriting — a great script beats great visuals every time</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>start with 60–75 seconds to keep costs manageable</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>always negotiate source file ownership upfront</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>get at least 3 quotes before deciding</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>factor in a distribution budget — a great video with no promotion delivers nothing</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong><em>Transparent Pricing. No Surprises.</em></strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At WREDD, every quote is fully itemized before a single frame is drawn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You know exactly what you're paying for, why it costs what it costs, and what you'll receive at every stage of production.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At WREDD, we produce:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>custom 2D animated explainer videos</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>motion graphics explainers for B2B brands</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>educational animations for YouTube and social media</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>startup and SaaS explainer videos</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>fully custom production at honest, transparent pricing</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><em>If you want a professional explainer video without hidden fees, let's talk.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
+
+<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
+<!-- /wp:social-links -->
