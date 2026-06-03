@@ -1,207 +1,289 @@
-<!-- wp:paragraph -->
-<p>Startups face a problem that established brands do not. Nobody knows who you are.</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
 
-<!-- wp:paragraph -->
-<p>Your product could be genuinely revolutionary. But if you cannot explain it quickly and compellingly, potential customers, investors, and partners will move on before they ever understand the value you offer.</p>
-<!-- /wp:paragraph -->
+<div class="wredd-blog">
 
-<!-- wp:paragraph -->
-<p>An explainer video solves this. It is the single most impactful first marketing investment a startup can make in 2026.</p>
-<!-- /wp:paragraph -->
+<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Why Every Startup Needs an Explainer Video in 2026</h1>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1024&q=80" alt="Startup team launching their product with an animated explainer video on launch day"/></figure>
-<!-- /wp:image -->
+<div class="wb-hero">
+  <div class="wb-hero-grid"></div>
+  <div class="wb-eyebrow">▸ Startup Growth Strategy — 2026</div>
+  <h1>Why Every Startup Needs<span>an Explainer Video in 2026</span></h1>
+  <p class="wb-hero-sub">Startups that invest in explainer videos raise more, convert faster, and grow 49% quicker. Here's why and how to do it right.</p>
+  <div class="wb-hero-meta">
+    <span>✦ WREDD Animation Studio</span>
+    <span>✦ 13 min read</span>
+    <span>✦ Updated 2026</span>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Startup Communication Problem</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-stats">
+  <div class="wb-stat">
+    <div class="wb-stat-num">30%</div>
+    <div class="wb-stat-label">More investment raised by startups with explainer videos</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">76%</div>
+    <div class="wb-stat-label">Of investors watch a startup video before the first meeting</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">80%</div>
+    <div class="wb-stat-label">Lift in landing page conversions from video</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">49%</div>
+    <div class="wb-stat-label">Faster growth for startups using video marketing</div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Website visitors make a decision within 7 seconds of landing on your page. In that time, they ask three silent questions:</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">Startups face a problem that established brands never have to deal with: <strong>nobody knows who you are, nobody trusts you yet, and you have approximately 8 seconds to change that</strong> before the visitor leaves your site, closes your pitch deck, or scrolls past your LinkedIn post.</p>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>What does this company do?</li>
-<!-- /wp:list-item -->
+<p class="wb-p">The most efficient solution that exists — by a significant margin — is a great explainer video. Not a PDF. Not a wall of text. Not a screenshot gallery. A video that takes a stranger from confused to convinced in 60–90 seconds, working for you 24 hours a day, across every channel you need to win.</p>
 
-<!-- wp:list-item -->
-<li>Is this relevant to me?</li>
-<!-- /wp:list-item -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d?w=1024&q=80" alt="Startup team reviewing explainer video strategy for product launch and investor pitch" loading="lazy">
+  <div class="wb-img-caption">Startup video strategy session — aligning product story, audience, and channel before production begins</div>
+</div>
 
-<!-- wp:list-item -->
-<li>Can I trust them?</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<h2 class="wb-h2">The Startup <span>Communication Problem</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:paragraph -->
-<p>Without a video, most startups fail to answer all three in time. An explainer video answers all three simultaneously — before the visitor has read a single word of copy.</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">There are three communication challenges unique to startups that an explainer video directly solves. Understanding them makes the ROI case obvious.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>For Investor Pitches</strong></h5>
-<!-- /wp:heading -->
+<ul class="wb-list">
+  <li><strong>Complex ideas, unfamiliar audience:</strong> Startups by definition are doing something that hasn't been done before — or doing it differently. That means your potential customers, investors, and partners don't have a mental model for what you do yet. You can't borrow context from familiarity. You have to build it from zero, fast.</li>
+  <li><strong>Small team, massive communication surface:</strong> You have a team of 3–15 people trying to communicate to thousands of potential customers, dozens of investors, multiple media contacts, and a hiring pipeline — simultaneously. Every person on the team explaining the product differently creates brand fragmentation. One great explainer video creates one source of truth.</li>
+  <li><strong>No time to explain:</strong> Every startup founder knows the feeling: 30 seconds into explaining the product at a networking event, you've lost them. The human attention span in low-stakes discovery contexts is brutally short. Video compresses your entire value proposition into a format the brain can absorb without effort.</li>
+</ul>
 
-<!-- wp:paragraph -->
-<p>66% of early-stage investors watch video pitches before agreeing to a first meeting.</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">7 Reasons Startups <span>Need Video Now</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:paragraph -->
-<p>A polished animated explainer embedded in your pitch deck communicates something no slide can. It shows that your team understands the product deeply enough to explain it in 90 seconds. That clarity signals execution ability.</p>
-<!-- /wp:paragraph -->
+<div class="wb-cards">
+  <div class="wb-card">
+    <span class="wb-card-icon">💼</span>
+    <div class="wb-card-badge">Fundraising</div>
+    <h3>Investor Pitch Enhancement</h3>
+    <p>76% of investors watch a startup's video before their first meeting. A compelling explainer sets the frame for the entire pitch. Startups with strong video material raise 30% more on average.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">📈</span>
+    <div class="wb-card-badge">Conversion</div>
+    <h3>Landing Page Performance</h3>
+    <p>Video on a landing page increases conversions by an average of 80%. For a startup with limited organic traffic, maximizing conversion of every visitor is existential — not optional.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🖥️</span>
+    <div class="wb-card-badge">Sales</div>
+    <h3>Product Demo Clarity</h3>
+    <p>An animated product demo removes the need for a live sales call in the early discovery phase. Prospects self-qualify faster when they can fully understand the product before reaching out.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🧑‍💻</span>
+    <div class="wb-card-badge">Operations</div>
+    <h3>Team Onboarding</h3>
+    <p>A single explainer video that communicates the product, mission, and value proposition onboards new hires, contractors, and advisors faster and more consistently than any other format.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">📰</span>
+    <div class="wb-card-badge">PR</div>
+    <h3>Media &amp; Press Coverage</h3>
+    <p>Journalists covering a startup story are far more likely to feature companies with clear, professional video assets. A good explainer video does half the journalist's storytelling work for them.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🌟</span>
+    <div class="wb-card-badge">Trust</div>
+    <h3>Social Proof &amp; Credibility</h3>
+    <p>A polished explainer video signals investment and seriousness. In a competitive market where every startup is fighting for credibility, professional video production is a trust signal that static content cannot replicate.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🎓</span>
+    <div class="wb-card-badge">Retention</div>
+    <h3>Customer Education</h3>
+    <p>Customers who understand a product deeply use it more, churn less, and refer more often. An explainer video embedded in the onboarding flow reduces support load and increases activation rates simultaneously.</p>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Investor pitch pages with video generate <strong>3 times more inquiry form completions</strong> than text-only pages.</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">Explainer Video for <span>Fundraising Specifically</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Startup pitch presentation using animated explainer video to communicate product value to investors"/></figure>
-<!-- /wp:image -->
+<p class="wb-p">The fundraising use case deserves special attention because the stakes are the highest — and the return on a good video at this stage can be transformational. <strong>An investor who watches your explainer video before your first meeting is already half-sold on the problem and the product before you open your mouth.</strong></p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>For Product Launches</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1024&q=80" alt="Startup pitch presentation with animated explainer video boosting investor interest" loading="lazy">
+  <div class="wb-img-caption">The investor-facing explainer — your most powerful pre-meeting asset in the fundraising process</div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Product launches succeed on two things: clarity and excitement. A well-produced animated explainer video delivers both simultaneously.</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">When building an explainer video for fundraising, the content priorities shift slightly from a customer-facing video. Investors care about:</p>
 
-<!-- wp:paragraph -->
-<p>Your launch video should:</p>
-<!-- /wp:paragraph -->
+<ul class="wb-list">
+  <li>The size and severity of the problem you're solving — make them feel the pain before presenting the solution.</li>
+  <li>Why now — what has changed in the market, technology, or behavior that makes this the right moment for this company to exist.</li>
+  <li>Why you — what gives your team the unique right to solve this problem better than anyone else.</li>
+  <li>The evidence of traction — early numbers, customer quotes, or market validation that signals this isn't just a hypothesis.</li>
+  <li>The scale of the opportunity — help investors understand the ceiling, not just the floor.</li>
+</ul>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>open with your target customer's most painful daily problem</li>
-<!-- /wp:list-item -->
+<div class="wb-quote">"The best investor explainer videos are not product demos. They are problem-first narratives that make the solution feel inevitable — and make the investor feel like they'd be missing out not to be part of it."</div>
 
-<!-- wp:list-item -->
-<li>demonstrate your solution's core value within the first 20 seconds</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Bootstrap vs Professional <span>Production</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list-item -->
-<li>show the transformation — what life looks like after using your product</li>
-<!-- /wp:list-item -->
+<div class="wb-split">
+  <div class="wb-split-visual">
+    <div class="wb-split-grid"></div>
+    <div class="wb-split-icon">
+      <div class="wb-split-icon-box">⚖️</div>
+      <div class="wb-split-label">The Choice</div>
+    </div>
+  </div>
+  <div class="wb-split-content">
+    <h3>When Bootstrap Makes Sense vs When to Invest</h3>
+    <ul class="wb-list">
+      <li>Pre-MVP validation → Bootstrap with simple tools</li>
+      <li>First investor meetings → Professional production</li>
+      <li>Product hunt launch → Professional production</li>
+      <li>Internal team alignment → Bootstrap</li>
+      <li>Homepage hero video → Professional production</li>
+      <li>Quick social test → Bootstrap or motion graphics</li>
+      <li>Series A fundraising → Professional production</li>
+      <li>PR and media outreach → Professional production</li>
+    </ul>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li>close with a single, urgent call to action</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<p class="wb-p">The critical inflection point is the moment you're asking someone to take a financial or reputational risk on your startup — whether that's an investor writing a check or a customer paying for an unproven product. At that moment, production quality becomes a proxy for company quality in the viewer's mind. <strong>A cheap, poorly produced video actively costs you deals at this stage.</strong></p>
 
-<!-- wp:paragraph -->
-<p>That one video works across Product Hunt, LinkedIn, your homepage, email list, and every investor outreach simultaneously.</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">What to Include in Your <span>Startup Explainer</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>For Customer Acquisition</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-steps">
+  <div class="wb-step">
+    <div class="wb-step-num">01</div>
+    <div class="wb-step-content">
+      <h3>The Problem (0–15 seconds)</h3>
+      <p>Open with the problem your target audience experiences. Make it visceral, specific, and instantly recognizable. If your viewer doesn't say "that's me" within the first 10 seconds, you've already lost them. Avoid industry jargon at this stage — speak in human pain, not technical framing.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">02</div>
+    <div class="wb-step-content">
+      <h3>Your Solution (15–35 seconds)</h3>
+      <p>Introduce your product as the resolution to the problem you just established. Keep it high-level here — don't dive into features yet. The goal is to create a moment of relief: "finally, someone solved this." A clear, confident voiceover line like "Introducing [Product] — the only platform that..." works exceptionally well.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">03</div>
+    <div class="wb-step-content">
+      <h3>How It Works (35–60 seconds)</h3>
+      <p>Show — don't just tell — how the product works. For SaaS, animated UI walkthroughs. For physical products, animated demonstrations. For services, a stylized process flow. Keep this section to 2–3 core benefits or steps. More than three and retention drops sharply.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">04</div>
+    <div class="wb-step-content">
+      <h3>Social Proof (60–75 seconds)</h3>
+      <p>A single data point or customer quote at this stage dramatically increases conversion. "Join 2,000+ teams who..." or "Used by companies like..." creates the validation signal that removes the final psychological barrier to action.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">05</div>
+    <div class="wb-step-content">
+      <h3>Clear CTA (75–90 seconds)</h3>
+      <p>End with a single, unambiguous call to action. One CTA. Not two, not three — one. "Start your free trial." "Book a demo." "Join the waitlist." The viewer has just invested 90 seconds with you. Tell them exactly what to do next and make it frictionless.</p>
+    </div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Before spending on paid advertising, every startup needs a high-converting landing page. And nothing improves landing page conversion more reliably than an explainer video.</p>
-<!-- /wp:paragraph -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Startup growth metrics dashboard showing conversion improvement from explainer video" loading="lazy">
+  <div class="wb-img-caption">Startup growth metrics — the measurable impact of a well-deployed explainer video on conversion and pipeline</div>
+</div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>landing pages with explainer video convert up to <strong>80% better</strong></li>
-<!-- /wp:list-item -->
+<div class="wb-testimonial">
+  <div class="wb-stars">★★★★★</div>
+  <div class="wb-testimonial-text">"We were 6 months away from our Series A and struggling to explain our platform to investors who weren't deep in our space. WREDD built us an explainer that made the problem visceral and the solution feel inevitable. Three investors referenced the video specifically in term sheet conversations. We closed oversubscribed."</div>
+  <div class="wb-author">
+    <div class="wb-avatar">JL</div>
+    <div>
+      <h4>Jamie L.</h4>
+      <span>Founder &amp; CEO, Logistics Tech Startup</span>
+    </div>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li>email sign-up rates increase 4x when video is placed above the fold</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list-item -->
-<li>customer acquisition cost drops by up to 40% when video pre-qualifies visitors</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<div class="wb-faq">
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">When is the right time for a startup to invest in an explainer video? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">The right time is when you have a validated product and a clear target audience — typically post-MVP, pre-Series A. Pre-launch waitlist pages also benefit enormously from a short explainer. The wrong time is pre-validation, before you know what problem you're actually solving and for whom.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How much should a startup budget for their first explainer video? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">For a first professional explainer, budget between $3,000–$8,000 for quality 2D animation from a reputable studio. This is the range where you get professional character design, quality voiceover, and full sound design without enterprise-level pricing. Think of it as the cost of one decent sales hire's first month — but this asset works 24/7 for years.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Should a startup video be focused on the customer or the investor? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Most startups need two slightly different versions. The customer-facing version leads with the user's problem and focuses on emotional resolution. The investor-facing version emphasizes market size, traction, and team right alongside the product narrative. Many startups produce one excellent customer video and simply add investor-specific context in a separate 30-second section or companion slide.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">What's the ideal length for a startup explainer video? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">60–90 seconds for a homepage or investor-facing explainer. Under 60 seconds for social and ad variants. Under 30 seconds for paid social. The rule is: use exactly as much time as you need to tell the story — not a second more. Most startup teams overestimate how much explanation their audience needs.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Can WREDD work with early-stage startups with limited budgets? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Yes. WREDD has a startup-specific production pathway designed for early-stage companies. We work within realistic budgets without compromising on the quality that matters most — script, voiceover, and core animation. We also offer phased production agreements for startups who need to deploy capital carefully as they scale.</div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>The math is simple. More conversions from the same traffic means lower CAC and faster growth.</p>
-<!-- /wp:paragraph -->
+<div class="wb-cta">
+  <h2>Ready to Build Your Startup's Most Powerful Asset?</h2>
+  <p>An explainer video that raises investment, drives conversions, and tells your story with clarity and craft. Let's build it together.</p>
+  <div class="wb-cta-btns">
+    <a href="https://www.wredd.com/contact" class="wb-btn-primary">Start Your Project</a>
+    <a href="https://www.wredd.com/portfolio" class="wb-btn-secondary">View Startup Work</a>
+  </div>
+</div>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1024&q=80" alt="Startup analytics dashboard showing improved customer acquisition from explainer video marketing"/></figure>
-<!-- /wp:image -->
+<div class="wb-tags-wrap">
+  <div class="wb-tags-label">Topics Covered</div>
+  <div class="wb-tags">
+    <span class="wb-tag">Startup Video</span>
+    <span class="wb-tag">Explainer Video</span>
+    <span class="wb-tag">Startup Marketing</span>
+    <span class="wb-tag">Investor Pitch Video</span>
+    <span class="wb-tag">Startup Growth</span>
+    <span class="wb-tag">Landing Page Video</span>
+    <span class="wb-tag">Product Demo Video</span>
+    <span class="wb-tag">WREDD Animation</span>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>For Building Instant Credibility</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-contact">
+  <div class="wb-contact-logo">WR<span>E</span>DD</div>
+  <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+  <div class="wb-contact-divider"></div>
+  <div class="wb-contact-info">
+    📞 <strong>Call us:</strong> +92 316 5471697<br>
+    📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+    🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+  </div>
+  <div class="wb-social">
+    <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+    <a href="https://www.facebook.com/the.wredd">Facebook</a>
+    <a href="https://www.instagram.com/the.wredd">Instagram</a>
+    <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+    <a href="https://www.youtube.com/@theWredd">YouTube</a>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Startups face a credibility gap that established brands do not have.</p>
-<!-- /wp:paragraph -->
+</div>
 
-<!-- wp:paragraph -->
-<p>When a customer considers buying from a brand they have never heard of, trust is the barrier. A professionally produced animated video closes that gap immediately. It signals investment, capability, and legitimacy — before any conversation happens.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Imagine two startups with identical products. One has a polished animated explainer on their homepage. The other has text and stock photos. Which one would you trust with your credit card? The answer is obvious.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>When Should a Startup Get Its First Explainer?</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The best time is before your public launch — ideally 4–6 weeks prior, so the video is live on Day 1.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The second best time is right now, before you spend a single dollar on paid acquisition without a video to land on.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Other critical moments:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>before starting investor outreach</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>before an enterprise sales push or key partnership pitch</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>when you are seeing high bounce rates despite strong ad traffic</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>The First Dollar Best Spent</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>An explainer video is often the first marketing dollar that delivers a measurable, lasting return for a startup.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we work with early-stage companies to create world-class animated explainers at startup-friendly pricing. Our videos punch far above their production budget when it comes to conversions, investor impressions, and brand credibility.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>If you are building something worth explaining, we will help you explain it brilliantly.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->
