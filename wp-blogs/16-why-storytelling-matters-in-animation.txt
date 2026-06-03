@@ -1,211 +1,356 @@
-<!-- wp:paragraph -->
-<p>The difference between an animated video people watch once and one they remember for years is almost always the same thing: story.</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
 
-<!-- wp:paragraph -->
-<p>The most technically polished animation in the world delivers no lasting impact without a compelling narrative. And a simple story told well can outperform a visually stunning video with no emotional core every single time.</p>
-<!-- /wp:paragraph -->
+<div class="wredd-blog">
+<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Why Storytelling Is the Most Powerful Element in Animation</h1>
 
-<!-- wp:paragraph -->
-<p>Here is why storytelling is the most important element in animation — and how to apply it to your brand.</p>
-<!-- /wp:paragraph -->
+  <!-- HERO -->
+  <div class="wb-hero">
+    <div class="wb-hero-grid"></div>
+    <div class="wb-eyebrow">Animation Strategy · 2026</div>
+    <h1>Why Storytelling Is the<span>Most Powerful Element in Animation</span></h1>
+    <div class="wb-hero-sub">Every frame of animation is a wasted frame unless it serves a story. The studios and brands who understand this don't just make videos — they create movements, communities, and unforgettable brand identities.</div>
+    <div class="wb-hero-meta">
+      <span>📖 12 min read</span>
+      <span>🎬 WREDD Animation Studio</span>
+      <span>📅 2026 Edition</span>
+    </div>
+  </div>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1024&q=80" alt="Animation storytelling process showing narrative structure and character development for brand videos"/></figure>
-<!-- /wp:image -->
+  <!-- STATS -->
+  <div class="wb-stats">
+    <div class="wb-stat">
+      <div class="wb-stat-num">22×</div>
+      <div class="wb-stat-label">Stories remembered vs facts alone</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">3×</div>
+      <div class="wb-stat-label">More sharing for emotional brand stories</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">5×</div>
+      <div class="wb-stat-label">Better ROI for story-driven ads</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">92%</div>
+      <div class="wb-stat-label">Of consumers want brands to tell stories</div>
+    </div>
+  </div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Why the Human Brain Is Wired for Story</strong></h5>
-<!-- /wp:heading -->
+  <!-- INTRO -->
+  <p class="wb-p">There is a moment in every great animated video where a viewer stops scrolling and leans in. They're not leaning in because of the color palette, the kinetic typography, or the silky-smooth motion curves. They're leaning in because something in the story just made them feel something — recognized, understood, curious, or hopeful.</p>
+  <p class="wb-p">That moment is not an accident. It is the deliberate result of a story structure that was architected before a single frame was animated. And it is the single most overlooked discipline in the animation industry today.</p>
+  <p class="wb-p">At WREDD, we've produced animated videos for technology startups, global healthcare brands, NGOs, e-commerce operators, and SaaS platforms. Across every category, every budget level, and every platform, the pattern is identical: <strong>the videos that perform best are always the ones built on the strongest story foundations.</strong> Not the prettiest. Not the most technically complex. The ones with the best stories.</p>
+  <p class="wb-p">This guide explores why storytelling is the ultimate competitive advantage in animation — backed by neuroscience, brand research, and real production experience — and gives you a practical framework to apply it to your next video.</p>
 
-<!-- wp:paragraph -->
-<p>Neuroscience has confirmed what every great storyteller has always known: stories activate the brain differently than lists of facts.</p>
-<!-- /wp:paragraph -->
+  <!-- IMAGE 1 -->
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1024&q=80" alt="Storytelling and narrative writing process for animated brand video production" />
+    <div class="wb-img-caption">Story structure begins on paper — long before the animation software opens</div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>When someone hears a fact, only the language-processing areas of the brain activate. When someone hears a story, the sensory cortex, motor cortex, and limbic system all light up simultaneously. The brain physically experiences the story as if it were happening.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 1: NEUROSCIENCE -->
+  <h2 class="wb-h2">The <span>Neuroscience</span> of Storytelling</h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">The reason stories work is not philosophical — it is biological. Your brain is not wired to process information as data points. It is wired to process experience. Stories are the brain's native format for making meaning, and neuroimaging research has revealed exactly how this happens at a chemical level.</p>
 
-<!-- wp:paragraph -->
-<p>This is why:</p>
-<!-- /wp:paragraph -->
+  <p class="wb-p"><strong>Mirror Neurons: The Empathy Engine</strong></p>
+  <p class="wb-p">Mirror neurons are brain cells that fire both when you perform an action and when you observe someone else performing the same action. When a character in an animated story struggles, succeeds, fears, or rejoices, your mirror neuron system activates as if you were experiencing it yourself. This is why well-crafted animated characters don't feel like drawings — they feel like people you know.</p>
+  <p class="wb-p">For brands, this has a profound implication. When your animated character experiences the frustration of the problem your product solves, viewers aren't just watching — they are neurologically reliving their own version of that frustration. You have bypassed the rational filter and created a direct emotional connection to your solution.</p>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>stories are remembered 22 times more often than facts alone</li>
-<!-- /wp:list-item -->
+  <p class="wb-p"><strong>Oxytocin: The Trust Molecule</strong></p>
+  <p class="wb-p">Dr. Paul Zak's research at Claremont Graduate University demonstrated that narratives following a classic tension-and-release arc cause the brain to release oxytocin — the same neurochemical responsible for human bonding and trust. His studies showed that oxytocin-releasing stories made people significantly more likely to donate money, share content, and trust the source of the story. For brands, this is the biological mechanism behind "brand affinity." You are not manufacturing trust through repetition — you are triggering it through emotional narrative.</p>
 
-<!-- wp:list-item -->
-<li>emotional engagement drives purchasing decisions far more powerfully than logic</li>
-<!-- /wp:list-item -->
+  <p class="wb-p"><strong>Cortisol: The Attention Lock</strong></p>
+  <p class="wb-p">Before the oxytocin release, the story needs to create tension — and tension triggers cortisol, the brain's attention-locking hormone. Cortisol is why you can't look away from a movie when the protagonist is in danger. In a 90-second explainer video, this means your opening needs to surface a genuine problem — one your viewer personally feels — so that their brain is chemically compelled to keep watching for the resolution.</p>
 
-<!-- wp:list-item -->
-<li>audiences share content that made them feel something — not content that informed them</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+  <div class="wb-quote">"Your viewers aren't waiting to be impressed by your animation. They're waiting to feel something. Give them a character with a real problem, and they'll follow that story anywhere — including to your product page."</div>
 
-<!-- wp:paragraph -->
-<p>Animation combined with story is the most effective way to trigger this neurological response in a marketing context.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 2: THE 4-PART BRAND STORY FRAMEWORK -->
+  <h2 class="wb-h2">The 4-Part <span>Brand Story Framework</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Every animated brand video that converts — regardless of length, style, or industry — follows some variation of the same four-beat structure. At WREDD, we call this the CPST Framework: <strong>Character → Problem → Solution → Transformation.</strong> Understanding each beat will change the way you think about scripting.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Universal Story Structure That Works Every Time</strong></h5>
-<!-- /wp:heading -->
+  <div class="wb-steps">
+    <div class="wb-step">
+      <div class="wb-step-num">01</div>
+      <div class="wb-step-content">
+        <h3>Character — Create a Person Your Viewer Becomes</h3>
+        <p>The character is not your product. The character is your viewer — or more precisely, the version of your viewer who has the problem you solve. In a 90-second video, you don't need deep character development. You need one recognizable trait that signals identity to your target audience. A small business owner. A stressed HR manager. A first-time parent. That single identity signal tells your viewer: "This story is about someone like me." Once they make that identification, they are emotionally invested.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">02</div>
+      <div class="wb-step-content">
+        <h3>Problem — Make the Pain Vivid and Specific</h3>
+        <p>Vague problems create vague engagement. "Managing a team is hard" is forgettable. "It's 9pm and you're still manually compiling last week's timesheets because your team submitted them in three different formats again" is visceral. The more specific and visual the problem, the more powerfully it activates mirror neurons and cortisol in your viewer. The problem section of your story should make your ideal customer think: "They're describing my exact situation." Specificity is empathy at scale.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">03</div>
+      <div class="wb-step-content">
+        <h3>Solution — Your Product Is the Guide, Not the Hero</h3>
+        <p>Here is where most brands make a critical error. They position their product as the hero of the story. But your customer is the hero. Your product is the guide — the tool or mentor that equips the hero to overcome their problem. This is not just a philosophical distinction. It's a persuasion principle. Customers don't buy products that feel self-centered. They buy products that help them become who they want to be. Frame your solution as the instrument of their transformation, and conversions follow.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">04</div>
+      <div class="wb-step-content">
+        <h3>Transformation — Show the Life After</h3>
+        <p>The final beat is the emotional payoff the viewer's brain has been waiting for since you introduced the problem. But transformation is not about features delivered — it's about identity achieved. Don't show your product's dashboard. Show your character arriving home early, confidently presenting to their board, or finally getting a full night's sleep. You are selling the outcome, the emotion, the identity shift. This is the image your viewer will carry with them — and what will make them remember your brand the next time they're ready to buy.</p>
+      </div>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Every effective animated brand video — regardless of length, style, or industry — uses a version of the same narrative structure:</p>
-<!-- /wp:paragraph -->
+  <!-- IMAGE 2 -->
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1024&q=80" alt="Creative script writing for animation storytelling and brand narrative development" />
+    <div class="wb-img-caption">Script writing is where story architecture is built — before visual design begins</div>
+  </div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>a character</strong> the audience recognizes and identifies with</li>
-<!-- /wp:list-item -->
+  <!-- SECTION 3: STORY VS FEATURES -->
+  <h2 class="wb-h2">Story vs Features — <span>Why Features Bore and Stories Convert</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Every week, we receive briefs from new clients that begin with a list of features. "We want to show the dashboard, the three pricing tiers, the API integration, the mobile app, and our five-star customer support." And every time, we have the same conversation: <em>features tell, but stories sell.</em></p>
+  <p class="wb-p">When a viewer watches a feature list, their neocortex is engaged — the rational, analytical part of the brain. This part of the brain is skeptical, comparison-shopping, and not where purchase decisions are made. Studies in consumer neuroscience consistently show that purchase decisions are made in the limbic system — the emotional brain — and then justified by the neocortex afterward.</p>
+  <p class="wb-p">A feature-driven video is attempting to sell to the wrong part of the brain. A story-driven video activates the emotional brain first, creates desire and identification, and then uses the features as evidence to support what the viewer already wants to feel.</p>
 
-<!-- wp:list-item -->
-<li><strong>a problem</strong> that creates tension and feels personally familiar</li>
-<!-- /wp:list-item -->
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">📋</div>
+        <div class="wb-split-label">Feature-Driven</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>The Feature-First Mistake</h3>
+      <ul class="wb-list">
+        <li>Opens with company name and founding year</li>
+        <li>Lists product capabilities in sequence</li>
+        <li>Uses industry jargon as a trust signal</li>
+        <li>Ends with a generic "learn more" CTA</li>
+        <li>Viewer retention drops below 40% by midpoint</li>
+        <li>Easily forgotten within 24 hours of viewing</li>
+      </ul>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li><strong>a solution</strong> — your product or service — that resolves the tension</li>
-<!-- /wp:list-item -->
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">📖</div>
+        <div class="wb-split-label">Story-First</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>The Story-First Advantage</h3>
+      <ul class="wb-list">
+        <li>Opens with a character in a relatable situation</li>
+        <li>Creates emotional investment before the product appears</li>
+        <li>Features emerge naturally as solutions to story problems</li>
+        <li>Ends with an identity-driven transformation and clear CTA</li>
+        <li>Retention rates 60–80% for well-structured stories</li>
+        <li>Remembered 22× more than fact-based counterparts</li>
+      </ul>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li><strong>a transformation</strong> — what life looks like on the other side of the solution</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+  <!-- SECTION 4: EMOTIONAL HOOKS -->
+  <h2 class="wb-h2">The 4 Emotional Hooks <span>That Drive Sharing</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Jonah Berger's research on viral content identified that social sharing is driven by emotional arousal — but not all emotions create equal sharing behavior. For animation, there are four emotional states that reliably trigger the impulse to share. Understanding these hooks lets you engineer shareability into your script before a frame is animated.</p>
 
-<!-- wp:paragraph -->
-<p>This structure works because it maps directly to how the human brain processes meaning. Problem creates desire for resolution. Resolution delivered by your brand creates association between your brand and positive outcome.</p>
-<!-- /wp:paragraph -->
+  <div class="wb-cards">
+    <div class="wb-card">
+      <span class="wb-card-icon">🪞</span>
+      <div class="wb-card-badge">Hook 01</div>
+      <h3>Feeling Seen</h3>
+      <p>When a story describes a viewer's private frustration with uncanny accuracy, they share it to say: "Someone finally gets it." The more specific and niche the pain point, the more powerful this effect. B2B animations for narrow industries use this hook with exceptional results — a video about a very specific operational pain becomes the most-shared content in that professional community.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">💡</span>
+      <div class="wb-card-badge">Hook 02</div>
+      <h3>Feeling Smart</h3>
+      <p>People share content that makes them look intelligent or well-informed to their peers. An animated explainer that breaks down a genuinely complex topic in an elegant, surprising way gives viewers a gift: they become the person who explains the thing to their network. Educational animations, industry insight videos, and "how it actually works" formats leverage this hook effectively.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🌅</span>
+      <div class="wb-card-badge">Hook 03</div>
+      <h3>Feeling Hopeful</h3>
+      <p>The transformation beat — showing the world as it could be after your solution — triggers a forward-facing emotional state that drives both sharing and action. Hope is one of the highest-arousal positive emotions, and when attached to a specific, credible solution, it converts powerfully. Mission-driven brand animations for NGOs and social enterprises consistently outperform their production budgets in organic reach.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">😲</span>
+      <div class="wb-card-badge">Hook 04</div>
+      <h3>Feeling Surprised</h3>
+      <p>Pattern interruption is one of animation's greatest strengths. An unexpected visual metaphor, a counterintuitive statistic, or a story that zigs where the viewer expected it to zag creates a neurological pause that snaps attention to full alertness. "Wait — what?" is one of the most shareable emotional states. Design at least one genuine surprise into your story structure, and the algorithm will reward you.</p>
+    </div>
+  </div>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1024&q=80" alt="Animated brand storytelling showing character journey from problem to solution in explainer video"/></figure>
-<!-- /wp:image -->
+  <!-- SECTION 5: WREDD'S APPROACH -->
+  <h2 class="wb-h2">How WREDD Approaches <span>Story-First Animation</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">At WREDD, no project enters visual development until the story has been approved. This isn't bureaucratic process — it's the most important quality control discipline we practice. A technically perfect animation built on a weak story is an expensive disappointment. A story-strong animation that's competently executed consistently outperforms expectation.</p>
+  <p class="wb-p">Our story development process begins with a Discovery Session — a structured conversation about not just your product's features, but the emotional journey your customer is on before they find you. What is the last-straw moment? What does winning look like in their life? What language do they actually use when they describe the problem to a colleague? The answers to these questions become the raw material of the script.</p>
+  <p class="wb-p">From there, our script team develops what we call the <strong>Emotional Arc Map</strong> — a scene-by-scene plot of the viewer's emotional state from opening to CTA. We deliberately plan the cortisol peak (problem climax), the oxytocin release (solution revelation), and the dopamine reward (transformation payoff) before a single word of VO is written. The result is animation that doesn't just explain — it moves people.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Story Sells Better Than Features</strong></h5>
-<!-- /wp:heading -->
+  <!-- IMAGE 3 -->
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1024&q=80" alt="Animated character storytelling driving emotional engagement in brand videos" />
+    <div class="wb-img-caption">Character-driven storytelling creates neural engagement that product demos alone cannot achieve</div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Most businesses make the same mistake with their videos. They lead with features.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 6: STORY BY INDUSTRY -->
+  <h2 class="wb-h2">Story Structure <span>by Industry</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">While the CPST framework is universal, the specific story beats that resonate most powerfully differ by industry. Here's how we adapt the framework for six major animation verticals:</p>
 
-<!-- wp:paragraph -->
-<p>"Our platform has 50 integrations, real-time analytics, and automated workflows."</p>
-<!-- /wp:paragraph -->
+  <div class="wb-cards">
+    <div class="wb-card">
+      <span class="wb-card-icon">💻</span>
+      <div class="wb-card-badge">SaaS</div>
+      <h3>Software & Tech</h3>
+      <p>Lead with the operational pain — lost time, human error, missed visibility. The character should be a specific role — not "businesses" but "the operations manager of a 30-person team." Transformation: from reactive firefighting to confident, data-driven leadership.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🏥</span>
+      <div class="wb-card-badge">Healthcare</div>
+      <h3>Healthcare</h3>
+      <p>Lead with the emotional weight of health uncertainty or the complexity of navigating care. Characters must be patients or caregivers — real humans, not abstract "patients." Transformation: from fear and confusion to clarity, control, and peace of mind.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🛒</span>
+      <div class="wb-card-badge">E-Commerce</div>
+      <h3>E-Commerce</h3>
+      <p>Lead with the aspiration — what the customer wants their life to look or feel like. Show the gap between current reality and aspired state. The product bridges that gap with a specific, outcome-focused benefit. Transformation: the aspired identity, achieved.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🏫</span>
+      <div class="wb-card-badge">EdTech</div>
+      <h3>Education</h3>
+      <p>Lead with intellectual curiosity or the frustration of a knowledge gap that's blocking progress. The character wants to level up — professionally or academically. Transformation: competence, confidence, and the doors that capability opens.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">💰</span>
+      <div class="wb-card-badge">Finance</div>
+      <h3>Finance & Fintech</h3>
+      <p>Lead with financial anxiety — the specific, often unspoken fear of making the wrong decision with money. Avoid jargon in the problem beat; use concrete scenarios. Transformation: security, agency, and the freedom that financial clarity provides.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🌍</span>
+      <div class="wb-card-badge">NGO</div>
+      <h3>NGO & Social Impact</h3>
+      <p>Lead with the human consequence — the real face behind the statistic. Scale creates numbness; specificity creates empathy. One person's story will always outperform a global impact summary. Transformation: show the systemic change that a single person's story represents.</p>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Nobody cares about features until they care about the outcome. Story-first animation leads with the outcome.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 7: SCRIPTING AUDIT -->
+  <h2 class="wb-h2">The 5-Minute <span>Story Audit for Your Brief</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Before you brief your animation studio — or before you evaluate an existing script — run through these five questions. They will reveal whether your video has a story engine or just a feature list.</p>
 
-<!-- wp:paragraph -->
-<p>"Meet Sarah. Every Monday morning she spends three hours manually compiling reports that nobody reads. Today that changes."</p>
-<!-- /wp:paragraph -->
+  <ul class="wb-list">
+    <li><strong>Can you describe your main character in one sentence without mentioning your product?</strong> If your first instinct is to describe a company or product type rather than a human being, you haven't found your character yet.</li>
+    <li><strong>What is the specific moment when the problem is at its worst?</strong> Not the general category of the problem — the exact, visual, sensory moment of peak frustration. If you can't describe it, your script team won't be able to animate it.</li>
+    <li><strong>What does your character believe in the opening scene that they no longer believe in the final scene?</strong> Story is the movement from one worldview to another. If nothing has changed in your character's understanding of the world, you've made an ad — not a story.</li>
+    <li><strong>Can you remove your product from the script and still have a coherent story?</strong> Your story should be able to stand on its own — and your product should feel like the inevitable answer to a question the story has raised.</li>
+    <li><strong>What is the single emotion you want your viewer to feel as the video ends?</strong> Not the information you want them to have — the emotion you want them to carry. If you can name that emotion precisely, you can build backward from it to engineer every scene for maximum impact.</li>
+  </ul>
 
-<!-- wp:paragraph -->
-<p>Which version makes you want to keep watching? Story activates desire. Features satisfy it. Get the sequence right and conversions follow.</p>
-<!-- /wp:paragraph -->
+  <!-- TESTIMONIAL -->
+  <div class="wb-testimonial">
+    <div class="wb-stars">★★★★★</div>
+    <div class="wb-testimonial-text">"We had been producing product videos in-house for two years. They were technically fine — good motion, clean design. But nobody shared them and the conversion lift was negligible. WREDD rebuilt our script from scratch around a real story. The new video had a character named Marcus who embodied our exact customer's problem. Within three weeks it had 40,000 organic views and our trial signup rate went up 34%. We didn't change the product. We changed the story."</div>
+    <div class="wb-author">
+      <div class="wb-avatar">DK</div>
+      <div>
+        <h4>Daniyal K.</h4>
+        <span>Head of Growth, B2B SaaS Platform</span>
+      </div>
+    </div>
+  </div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Emotional Hooks That Make Animation Shareable</strong></h5>
-<!-- /wp:heading -->
+  <!-- FAQ -->
+  <h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+  <div class="wb-rule"></div>
+  <div class="wb-faq">
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Does storytelling only work for long-form animations or can it apply to 15-second ads? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Storytelling works at every length — the compression just changes the technique. A 15-second ad cannot walk through all four CPST beats in equal depth, but it can establish an instantly recognizable character situation, create a micro-tension, and deliver a transformation image. The key is to pick one emotional beat and execute it perfectly rather than attempting a compressed version of a longer narrative. The most effective short-form animations tend to anchor on the Problem beat (creating extreme recognition) or the Transformation beat (showing the aspired outcome with vivid specificity).</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Our product is very technical and complex. Can storytelling still work for us? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Especially for you. The more complex the product, the more important the story wrapper is. Technical complexity creates cognitive resistance in viewers — story is the mechanism that lowers that resistance so the information can land. The world's most complex products — enterprise infrastructure, molecular medicine, financial derivatives — have all been successfully explained through animation when the explanation is framed as a character's journey. In fact, highly technical products often produce the most emotionally resonant stories, because the stakes (the consequences of the problem going unsolved) are genuinely high.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">What if we have multiple target audiences — do we need a different story for each? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">For a primary brand video, we recommend choosing your single most important audience and telling their story with complete specificity. A story that tries to speak to everyone speaks to no one. However, if you have distinct segments with meaningfully different problems — say, individual users versus enterprise procurement teams — a campaign approach with two targeted videos will significantly outperform a single generalized video. The cost difference is modest (visual assets are often shared); the performance difference is dramatic.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How long should the story section be before we introduce the product? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">In a 90-second animation, we recommend spending the first 20–25 seconds entirely on character establishment and problem development before the product is mentioned. This feels counterintuitive to many clients — "we're paying for an ad, why isn't our product on screen from the start?" — but the data is clear: viewers who are emotionally invested in a character before the product introduction convert at significantly higher rates than viewers who are shown the product immediately.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Can storytelling work for B2B animation, or is it mainly a B2C technique? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">B2B buyers are humans. They experience frustration, ambition, fear of making wrong decisions, and the desire for recognition within their organizations. B2B purchases are made by people navigating internal politics, managing risk perceptions, and trying to solve real operational problems. Story-first B2B animation that acknowledges these human realities consistently outperforms feature-driven B2B content. Some of our highest-performing animations have been for complex B2B software platforms.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How does WREDD's story development process work in practice? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Every WREDD project begins with a Discovery Session — a structured 60-minute conversation focused on your customer's emotional journey, not your product's feature list. From that session, our script team develops a Story Brief (character, problem, solution, transformation defined), then a full script with an Emotional Arc Map showing the intended emotional state at each scene. The script is client-approved before any visual development begins. This process adds approximately one week to the timeline but has the single greatest impact on final video performance of any step in our process.</div>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>The most-shared animated videos share a specific emotional quality. They make the viewer feel one of these things:</p>
-<!-- /wp:paragraph -->
+  <!-- CTA -->
+  <div class="wb-cta">
+    <h2>Ready to Build a Video<br>Around a Real Story?</h2>
+    <p>WREDD's script team has developed story-first animations for brands across 20+ industries. Start with a free story consultation — no slides, no sales deck, just a conversation about your customer's journey.</p>
+    <div class="wb-cta-btns">
+      <a href="https://www.wredd.com/contact" class="wb-btn-primary">Start Your Story</a>
+      <a href="https://www.wredd.com/portfolio" class="wb-btn-secondary">Watch Our Work</a>
+    </div>
+  </div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>seen</strong> — "that is exactly my problem, finally someone gets it"</li>
-<!-- /wp:list-item -->
+  <!-- TAGS -->
+  <div class="wb-tags-wrap">
+    <div class="wb-tags-label">Tags</div>
+    <div class="wb-tags">
+      <span class="wb-tag">Animation Storytelling</span>
+      <span class="wb-tag">Brand Video Strategy</span>
+      <span class="wb-tag">Explainer Video Script</span>
+      <span class="wb-tag">Story-First Animation</span>
+      <span class="wb-tag">Video Marketing 2026</span>
+      <span class="wb-tag">Emotional Marketing</span>
+      <span class="wb-tag">WREDD Animation</span>
+      <span class="wb-tag">Brand Narrative</span>
+      <span class="wb-tag">Video Conversion</span>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li><strong>smart</strong> — "I just learned something I want to tell other people"</li>
-<!-- /wp:list-item -->
+  <!-- CONTACT FOOTER -->
+  <div class="wb-contact">
+    <div class="wb-contact-logo">WR<span>E</span>DD</div>
+    <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+    <div class="wb-contact-divider"></div>
+    <div class="wb-contact-info">
+      📞 <strong>Call us:</strong> +92 316 5471697<br>
+      📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+      🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+    </div>
+    <div class="wb-social">
+      <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+      <a href="https://www.facebook.com/the.wredd">Facebook</a>
+      <a href="https://www.instagram.com/the.wredd">Instagram</a>
+      <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+      <a href="https://www.youtube.com/@theWredd">YouTube</a>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li><strong>hopeful</strong> — "this is possible, this could work for me"</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>surprised</strong> — "I had no idea, wait until I share this"</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Every share is an endorsement. And endorsements are earned through feeling, not information.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Brand storytelling animation creating emotional connection that drives social sharing and audience loyalty"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>How WREDD Builds Story Into Every Animation</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, storytelling is not a phase of production. It is the foundation that every other decision is built on.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Before a storyboard is drawn or an asset is designed, we answer these questions:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>who is the character your audience sees themselves in?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>what is the most emotionally resonant version of their problem?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>what is the single most compelling transformation your product delivers?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>what should the viewer feel at the end — and what should they do because of it?</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Every visual, every line of script, every music choice flows from the answers to those questions.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>Story Is the Strategy</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>In 2026, the most-watched, most-shared, and most-converting animated videos all have one thing in common: they tell a story that their audience could not look away from.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we do not just animate. We tell brand stories that make your audience feel, remember, and act.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>If your brand has a story worth telling, we will animate it unforgettably.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->

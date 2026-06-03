@@ -1,221 +1,354 @@
-<!-- wp:paragraph -->
-<p>Great YouTube animations are not made by instinct. They are made by following a disciplined production pipeline that ensures quality at every stage.</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
+<div class="wredd-blog">
+<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">The Professional YouTube Animation Workflow — From Script to Upload</h1>
 
-<!-- wp:paragraph -->
-<p>Whether you are producing your own content or commissioning a studio, understanding the workflow is what separates finished, professional videos from projects that stall mid-production.</p>
-<!-- /wp:paragraph -->
+  <!-- HERO -->
+  <div class="wb-hero">
+    <div class="wb-hero-grid"></div>
+    <div class="wb-eyebrow">YouTube Production · 2026 Workflow</div>
+    <h1>The Professional <span>YouTube Animation Workflow</span></h1>
+    <div class="wb-hero-sub">From blank script to fully optimized upload — the complete 8-stage production pipeline WREDD uses to build high-performing animated YouTube channels in 2026.</div>
+    <div class="wb-hero-meta">
+      <span>📅 June 2026</span>
+      <span>⏱ 15 min read</span>
+      <span>✍️ WREDD Animation Studio</span>
+      <span>▶️ YouTube Strategy</span>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Here is the complete YouTube animation workflow used by professional studios in 2026.</p>
-<!-- /wp:paragraph -->
+  <!-- INTRO -->
+  <p class="wb-p">YouTube is not just a video platform. It is the world's second-largest search engine, a subscription-based relationship platform, and — for animated channels — one of the most powerful long-term content distribution systems ever built. An animated YouTube video published today can drive subscribers and views five years from now through search discovery alone.</p>
+  <p class="wb-p">But getting there requires more than just good animation. It requires a <strong>disciplined production workflow</strong> that ensures every element — from script to thumbnail to chapter markers — is optimized for the specific way YouTube's algorithm evaluates and distributes content. Most animated YouTube channels fail not because the animation is poor, but because the workflow is inconsistent and the optimization is absent.</p>
+  <p class="wb-p">This guide walks through the complete 8-stage professional workflow WREDD uses when producing animated content for YouTube channels. Each stage has specific deliverables, quality checkpoints, and YouTube-specific optimization decisions that compound over time into channel growth that scales.</p>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1024&q=80" alt="Animation studio workflow showing storyboards, scripts, and animation software for YouTube video production"/></figure>
-<!-- /wp:image -->
+  <!-- STATS -->
+  <div class="wb-stats">
+    <div class="wb-stat">
+      <div class="wb-stat-num">#2</div>
+      <div class="wb-stat-label">YouTube is the world's second-largest search engine — 500+ hours uploaded every minute</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">3×</div>
+      <div class="wb-stat-label">Faster subscriber growth for animated YouTube channels vs talking-head formats</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">65%</div>
+      <div class="wb-stat-label">Of channel growth driven by a consistent, predictable upload schedule</div>
+    </div>
+    <div class="wb-stat">
+      <div class="wb-stat-num">40%</div>
+      <div class="wb-stat-num" style="font-size:14px;margin-bottom:0">Higher CTR</div>
+      <div class="wb-stat-label">Custom animated thumbnails vs static photo thumbnails</div>
+    </div>
+  </div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 1: Topic Research and Creative Brief</strong></h5>
-<!-- /wp:heading -->
+  <!-- IMAGE 1 -->
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1024&q=80" alt="YouTube animation channel workflow showing content creation process from script to upload" />
+    <div class="wb-img-caption">A professional YouTube animation workflow transforms inconsistent output into a scalable content machine</div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Nothing starts without research. Before a word of script is written, the production team needs to understand:</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 1: YOUTUBE-SPECIFIC CONSIDERATIONS -->
+  <h2 class="wb-h2">YouTube-Specific <span>Animation Considerations</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Before diving into the workflow stages, it is essential to understand how YouTube differs from every other platform as an animation destination. YouTube viewers have different expectations, different behaviors, and YouTube's algorithm rewards different signals than TikTok, Instagram, or LinkedIn. Ignoring these platform-specific factors is the most common reason animated YouTube channels underperform.</p>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>what questions your target audience is actively searching for</li>
-<!-- /wp:list-item -->
+  <div class="wb-cards">
+    <div class="wb-card">
+      <span class="wb-card-icon">📐</span>
+      <div class="wb-card-badge">Format</div>
+      <h3>16:9 Widescreen Optimization</h3>
+      <p>YouTube is still predominantly a widescreen platform for long-form content. Your animation canvas, typography placement, and visual hierarchy must be designed for 16:9. However, design your key graphic elements to also work in the 1:1 square crop used in YouTube's mobile app thumbnail grid. Elements that sit in the outer 10% of the frame may be cut off in some viewing contexts.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🖼️</span>
+      <div class="wb-card-badge">Thumbnails</div>
+      <h3>Animated Thumbnail Design</h3>
+      <p>Your thumbnail is the most important marketing asset you will create for each video — it determines whether someone clicks. Custom animated thumbnails with a consistent visual style, bold typography, and a clear focal point consistently achieve 40% higher CTR than generic photo thumbnails. Develop a reusable thumbnail template that reinforces channel brand identity and makes each video instantly recognizable in a results page.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">📍</span>
+      <div class="wb-card-badge">End Screens</div>
+      <h3>End Screen Zone Planning</h3>
+      <p>YouTube's end screen elements (video cards, subscribe button, channel link) are placed in specific positions that can obstruct animation if not planned for. Reserve the bottom-right quadrant of your final 20 seconds of animation for end screen placement. Design your animation's conclusion to have visual breathing room in that zone, and use the end screen moment as a deliberate call-to-action beat within the animation itself.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🔍</span>
+      <div class="wb-card-badge">Discovery</div>
+      <h3>Search-Driven Title Architecture</h3>
+      <p>Unlike TikTok or Instagram where the algorithm pushes content to new audiences, YouTube heavily weights search intent. Your video titles should be written as search queries, not as creative headlines. "How does X work" outperforms "The truth about X" for long-term search discovery. Balance SEO titles with emotionally compelling framing — the best YouTube titles do both simultaneously.</p>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li>what videos already cover this topic and where the gaps are</li>
-<!-- /wp:list-item -->
+  <!-- IMAGE 2 -->
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Animation production workflow with video editing timeline and YouTube optimization" />
+    <div class="wb-img-caption">Each stage of the production pipeline has specific quality gates — skipping stages creates compounding problems downstream</div>
+  </div>
 
-<!-- wp:list-item -->
-<li>what unique angle or surprising reveal makes your video worth watching</li>
-<!-- /wp:list-item -->
+  <!-- SECTION 2: 8-STAGE WORKFLOW -->
+  <h2 class="wb-h2">The 8-Stage <span>Production Workflow</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">This is the complete production pipeline WREDD uses for every animated YouTube project. Each stage has a defined input, process, output, and quality checkpoint. Rushing through or skipping stages is the most common cause of expensive revisions and missed deadlines. Follow the stages in sequence.</p>
 
-<!-- wp:list-item -->
-<li>the target keyword and search intent behind the video</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+  <div class="wb-steps">
+    <div class="wb-step">
+      <div class="wb-step-num">01</div>
+      <div class="wb-step-content">
+        <h3>Script Development — Research, Outline, Draft, Refine</h3>
+        <p>Begin with keyword research — identify the exact search queries your target audience uses and build your topic around terms with high volume and manageable competition. Write a bullet-point outline before writing a single sentence of prose. The outline should include the hook, three to five major beats, the payoff, and the call-to-action. Write the full script, then cut it by 20% — the discipline of cutting always improves scripts. Time the final script at your target voiceover pace (130–150 wpm). Output: approved final script with timing markers.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">02</div>
+      <div class="wb-step-content">
+        <h3>Voiceover Recording — Tone, Pacing, and Multiple Takes</h3>
+        <p>Record voiceover before animation begins — not after. This is one of the most important process decisions in YouTube animation. Animating to a locked voiceover produces tighter, more natural motion timing than trying to synchronize voice to pre-built animation. Record in a treated acoustic environment. Capture three full takes and multiple isolated retakes of any stumbled lines. Select the best take with the most natural energy and clearest enunciation. Output: approved, edited, noise-cleaned voiceover file at 48kHz WAV.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">03</div>
+      <div class="wb-step-content">
+        <h3>Storyboard and Animatic — Visualize Before Animating</h3>
+        <p>A storyboard forces every creative decision to be made before expensive animation hours are spent. Sketch each major scene — even rough thumbnails are sufficient. Then build an animatic: lay the storyboard frames against the voiceover in your editing timeline to verify scene timing, transition pacing, and visual narrative flow. Problems caught at the animatic stage cost 10 minutes to fix. The same problems caught after full animation cost hours of rework. Never skip this stage. Output: approved animatic at final timing.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">04</div>
+      <div class="wb-step-content">
+        <h3>Asset Creation — Style Guide, Characters, Environments</h3>
+        <p>Build all visual assets before animation begins. This includes character designs (in all required poses and expressions), environmental backgrounds, UI elements, typography systems, icon sets, data visualization templates, and brand elements. Maintaining a consistent style guide across all assets is what makes an animated channel look professional versus homemade. For recurring series, reusable asset libraries dramatically reduce per-episode production time over the life of the channel. Output: complete, organized asset library in production-ready file formats.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">05</div>
+      <div class="wb-step-content">
+        <h3>Animation — Scene by Scene, Checkpoints Throughout</h3>
+        <p>Animate scene by scene in the sequence established by the animatic. Use the voiceover as your timing guide — animate character mouth movements (lip sync), gesture timing, and reveal timing to land precisely on the corresponding audio beats. Build in internal review checkpoints every 30–45 seconds of animation rather than completing the entire video before review. Catching pacing or stylistic issues early saves significant rework time. Maintain consistent frame rate (24fps for cinematic, 30fps for educational) throughout. Output: rough animation cut for review.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">06</div>
+      <div class="wb-step-content">
+        <h3>Sound Design and Music — The Layer Most Channels Skip</h3>
+        <p>Sound design is what separates professional animated YouTube content from amateur work — and it is the layer most independent creators completely skip. Add three layers: (1) a music bed that supports the emotional arc of the script without competing with the voiceover, (2) ambient sound textures that ground visual scenes in a sonic space, and (3) intentional sound effects synchronized to key animation beats. Every major visual reveal should have a corresponding audio event. Mix the final audio to -14 LUFS integrated loudness for YouTube's normalization standard. Output: final mixed audio track.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">07</div>
+      <div class="wb-step-content">
+        <h3>Thumbnail Design — The Most Important Marketing Asset</h3>
+        <p>Design the custom animated thumbnail while the video is in final review — not as an afterthought after upload. Your thumbnail should communicate the core surprise or benefit of the video as a static image, include a consistent branded element (color, logo placement, typography style), and pass the "squint test" — identifiable at the small size it appears in YouTube search results on mobile. A/B test thumbnail variations using YouTube Studio's built-in thumbnail testing feature on videos with established traffic. Output: 2–3 thumbnail options for A/B testing, all at 1280×720px.</p>
+      </div>
+    </div>
+    <div class="wb-step">
+      <div class="wb-step-num">08</div>
+      <div class="wb-step-content">
+        <h3>Upload Optimization — SEO, Chapters, Cards, and Scheduling</h3>
+        <p>Upload optimization is as important as the video itself for YouTube performance. Title: lead with the primary keyword, add compelling emotional modifier (max 60 characters). Description: first two lines visible before "show more" must contain the key search phrase and a compelling reason to watch. Add chapter markers at every natural topic transition (minimum 5 chapters per video). Add 3–5 end screen elements. Use all available tag slots. Schedule uploads for your channel's peak audience time (check YouTube Analytics). Add subtitles/captions — both for accessibility and because YouTube uses them for additional keyword indexing. Output: fully optimized, scheduled upload.</p>
+      </div>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>A clear creative brief takes 2–3 days and makes every subsequent phase faster and sharper.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 3: SEO FOR YOUTUBE ANIMATION -->
+  <h2 class="wb-h2">YouTube SEO for <span>Animated Channels</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">YouTube SEO for animation channels has some important nuances that differ from general YouTube SEO advice. Because animation production cycles are longer than filming talking-head content, your SEO decisions need to be made at script stage — not after upload — to maximize the value of each video you produce.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 2: Script Writing</strong></h5>
-<!-- /wp:heading -->
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">🔑</div>
+        <div class="wb-split-label">Title Strategy</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>Title and Description Architecture</h3>
+      <p class="wb-p" style="font-size:14px;color:#CCCCCC;line-height:1.7;margin:0 0 12px;">Your title should front-load the primary keyword while still compelling a click. The formula: [Primary Keyword] — [Benefit or Surprise Element]. Example: "How Neural Networks Work — Explained in 10 Minutes." Never exceed 60 characters in your title — anything beyond that is cut off in most YouTube viewing contexts.</p>
+      <p class="wb-p" style="font-size:14px;color:#CCCCCC;line-height:1.7;margin:0;">Your description should include: the primary keyword in the first sentence, a 150-word summary paragraph (this is indexed by Google as well as YouTube), timestamps for all chapters, links to related videos, and your channel CTA. YouTube reads your description's first 125 characters as the "snippet" in search results.</p>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>The script is the single most important phase of the entire production. Everything downstream — visuals, timing, music — flows from it.</p>
-<!-- /wp:paragraph -->
+  <div class="wb-split">
+    <div class="wb-split-visual">
+      <div class="wb-split-grid"></div>
+      <div class="wb-split-icon">
+        <div class="wb-split-icon-box">📖</div>
+        <div class="wb-split-label">Chapters</div>
+      </div>
+    </div>
+    <div class="wb-split-content">
+      <h3>Chapters as SEO and Retention Tools</h3>
+      <p class="wb-p" style="font-size:14px;color:#CCCCCC;line-height:1.7;margin:0 0 12px;">Chapter markers serve two functions simultaneously: they improve viewer experience by allowing navigation, and they provide YouTube with additional keyword-rich text that can help your video appear in more searches. Name each chapter using natural language search phrases your audience would actually type.</p>
+      <p class="wb-p" style="font-size:14px;color:#CCCCCC;line-height:1.7;margin:0;">For animated educational content, aim for a new chapter every 90–120 seconds. Each chapter should represent a complete, self-contained visual segment — a "mini-video" within the larger piece. This structure also makes clips for Shorts repurposing much simpler to identify.</p>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Write for the ear, not the eye. Short sentences. Active voice. Conversational rhythm. Aim for 130–150 words per finished minute of video. Include visual direction notes for every paragraph so the storyboard artist knows exactly what to illustrate.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 4: UPLOAD SCHEDULE -->
+  <h2 class="wb-h2">Upload Schedule <span>Strategy</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Consistency is the single most underrated driver of YouTube channel growth. YouTube's algorithm actively rewards channels that maintain predictable upload schedules because they deliver reliable audience return rates — a key signal in the recommendation engine. A channel publishing one high-quality animated video every two weeks consistently will almost always outperform a channel publishing sporadically regardless of individual video quality.</p>
 
-<!-- wp:paragraph -->
-<p>Allow 3–5 days for writing and revision before locking the script.</p>
-<!-- /wp:paragraph -->
+  <ul class="wb-list">
+    <li>Establish your production capacity honestly before committing to a schedule — underdelivering is worse than a slower consistent cadence</li>
+    <li>Build a content buffer of at least 3 completed videos before going public with your upload schedule</li>
+    <li>For animated content, bi-weekly (every two weeks) is a sustainable professional cadence for a solo creator or small team</li>
+    <li>Publish on the same day and time each cycle — YouTube notifies subscribers, and subscriber behavior patterns amplify initial engagement</li>
+    <li>Plan your content calendar 8–12 weeks in advance at minimum — animation production timelines do not allow for reactive content</li>
+    <li>Use "premiere" scheduling for major releases — the live premiere event concentrates chat activity and engagement signals into a single window</li>
+    <li>Communicate your schedule clearly in your channel description and in your videos — "every other Tuesday" sets audience expectations and drives return visits</li>
+    <li>Build seasonal content windows into your planning — certain topics naturally align with calendar events, industry cycles, and search trend spikes</li>
+  </ul>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1551817958-d9d86fb29431?w=1024&q=80" alt="Scriptwriter working on YouTube educational animation script with visual direction notes"/></figure>
-<!-- /wp:image -->
+  <!-- SECTION 5: MONETIZATION -->
+  <h2 class="wb-h2">Monetization Through <span>Animated Content</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">Animated YouTube channels have unique monetization advantages over talking-head formats. The production polish and evergreen content structure of animation commands higher CPM rates, longer watch time, and stronger audience loyalty — all of which translate to better monetization outcomes across multiple revenue streams.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 3: Voiceover Recording</strong></h5>
-<!-- /wp:heading -->
+  <div class="wb-cards">
+    <div class="wb-card">
+      <span class="wb-card-icon">💰</span>
+      <div class="wb-card-badge">AdSense</div>
+      <h3>AdSense Revenue</h3>
+      <p>Animated educational channels in business, finance, technology, and science consistently achieve CPMs of $8–$22 — significantly higher than entertainment or gaming content. The professional polish of animation attracts premium advertising spend. Longer videos (10+ minutes) allow mid-roll ads for additional revenue per view. Enable all ad formats and let YouTube's algorithm optimize placement.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🤝</span>
+      <div class="wb-card-badge">Sponsorships</div>
+      <h3>Brand Sponsorships</h3>
+      <p>Animated channels command premium sponsorship rates because the audience demographic skews toward educated, higher-income professionals — a highly valuable audience for B2B and premium consumer brands. Integrated animated sponsorship segments (where the sponsor message is animated in the channel's style) perform significantly better than static ad reads and allow you to charge a premium for the production work.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">📚</span>
+      <div class="wb-card-badge">Digital Products</div>
+      <h3>Courses and Digital Products</h3>
+      <p>Educational animated channels are positioned perfectly for course sales. Your audience already trusts your ability to explain complex topics clearly — course sales convert at 3–5× the rate of non-educational channels. Bundle your animated channel content into structured paid courses, workbooks, or templates. The animated content acts as perpetual top-of-funnel for your paid products.</p>
+    </div>
+    <div class="wb-card">
+      <span class="wb-card-icon">🏢</span>
+      <div class="wb-card-badge">B2B Services</div>
+      <h3>Studio Client Work</h3>
+      <p>A well-produced animated YouTube channel functions as an always-on portfolio for B2B animation clients. Companies in your niche will reach out for custom animation projects after seeing your public work. This is how WREDD generates a significant portion of its client pipeline — channel visibility drives inbound inquiries from exactly the businesses that need animation services most.</p>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>Record voiceover before storyboarding — not after.</p>
-<!-- /wp:paragraph -->
+  <!-- SECTION 6: REPURPOSING FOR SHORTS -->
+  <h2 class="wb-h2">Repurposing for <span>YouTube Shorts</span></h2>
+  <div class="wb-rule"></div>
+  <p class="wb-p">YouTube Shorts is one of the highest-ROI content strategies available to animated channels in 2026. Shorts consume almost no additional production budget when properly planned — they are extracted from existing long-form animated content — but they dramatically accelerate subscriber growth and channel discovery.</p>
+  <p class="wb-p">The key is planning for Shorts extraction at the storyboard stage, not after the long-form video is completed. Design specific 30–60 second segments in each long-form video that will work as standalone Shorts — complete mini-narratives with their own hook, payoff, and call-to-action that direct viewers to the full video.</p>
 
-<!-- wp:paragraph -->
-<p>The timing, pacing, and emphasis of the spoken narration determines how every scene is animated. Animating to a locked voiceover is far more precise than animating to a script and then fitting audio afterward.</p>
-<!-- /wp:paragraph -->
+  <ul class="wb-list">
+    <li>Plan at least two extractable Shorts segments per long-form video during the storyboard stage</li>
+    <li>Adapt the aspect ratio to 9:16 vertical at export rather than cropping — redesign the layout for vertical at asset creation stage if possible</li>
+    <li>Shorts algorithm is separate from long-form — they grow different audience segments simultaneously</li>
+    <li>Add captions to all Shorts — Shorts are autoplay in the feed and frequently watched muted</li>
+    <li>The first frame of your Short must be compelling as a static image — it appears as a thumbnail in the Shorts shelf</li>
+    <li>Shorts that drive viewers to subscribe perform better than Shorts that try to drive traffic to long-form (the algorithm rewards subscribes more than clicks)</li>
+    <li>Publish Shorts on the same days as long-form to maximize subscriber notification impact</li>
+  </ul>
 
-<!-- wp:paragraph -->
-<p>Always record with a professional voice actor in an acoustically treated space. AI voiceover is immediately detectable in 2026 and damages viewer trust. 2–3 days for professional recording.</p>
-<!-- /wp:paragraph -->
+  <!-- IMAGE 3 -->
+  <div class="wb-img-banner">
+    <img src="https://images.unsplash.com/photo-1535016120720-40c646be5580?w=1024&q=80" alt="YouTube creator setup with animation software and content management workflow" />
+    <div class="wb-img-caption">Professional channel management systems keep production on schedule and quality consistent across every upload</div>
+  </div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 4: Storyboarding</strong></h5>
-<!-- /wp:heading -->
+  <!-- TESTIMONIAL -->
+  <div class="wb-testimonial">
+    <div class="wb-stars">★★★★★</div>
+    <div class="wb-testimonial-text">We launched our animated YouTube channel with WREDD's production workflow from day one. Within 8 months we were at 45,000 subscribers and had been approached by three major sponsors. The workflow discipline — especially recording voiceover before animation and building the Shorts extraction plan into the storyboard — was something we never would have figured out on our own. It made everything downstream significantly easier and faster.</div>
+    <div class="wb-author">
+      <div class="wb-avatar">MK</div>
+      <div>
+        <h4>Marcus K.</h4>
+        <span>Founder, FinanceVisuals — YouTube Channel, 47K Subscribers</span>
+      </div>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>The storyboard translates every sentence of the script into a visual sequence.</p>
-<!-- /wp:paragraph -->
+  <!-- FAQ -->
+  <h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+  <div class="wb-rule"></div>
+  <div class="wb-faq">
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How long does it take to produce one professional animated YouTube video? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">For a professional animated YouTube video of 8–12 minutes, a typical production timeline is 3–5 weeks for a solo creator following this workflow, or 10–15 business days for a professional studio like WREDD with a dedicated team. The biggest variable is revision cycles — clients who approve deliverables quickly at each stage see the fastest turnaround. Building a reusable asset library and style guide dramatically reduces production time for recurring series content.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Should I animate in After Effects or Blender for YouTube content? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">After Effects with Motion Bro or standard plugins remains the industry standard for 2D motion graphics and educational animation on YouTube in 2026. It offers the best balance of production speed, visual polish, and compatibility with other Adobe tools in the workflow. Blender is excellent for 3D product visualization or stylized 3D animation but has a significantly steeper learning curve and longer render times. For educational channels, 2D in After Effects will produce professional results faster at lower cost than 3D for most content types.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How important is the thumbnail compared to the video quality? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Critically important — and almost always underinvested. The thumbnail determines whether someone clicks on your video in the first place. No matter how good the animation is, a weak thumbnail means zero views. Invest serious design effort into your thumbnail system. Develop a reusable template with your brand colors and typography style, and spend at least 30–60 minutes designing the thumbnail for each video. Use YouTube Studio's thumbnail A/B testing to continuously improve your click-through rates based on real data.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">What frame rate should I use for YouTube animation? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Export at 24fps for cinematic feel (common for documentary-style educational animation) or 30fps for a cleaner, more technical look (common for UI/product/explainer animation). YouTube supports both. Do not produce at 60fps unless you are specifically producing gaming or sports content — it looks hyperreal and undermines the storytelling quality of most educational animation. Always match your export frame rate to your project frame rate to avoid any motion artifacts.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">Do I need to record voiceover before animating, or can I animate first? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">Always record voiceover before animating. This is one of the most important workflow decisions you can make. Animating to a locked voiceover produces naturally timed motion that feels synchronized and intentional. Trying to add voiceover to pre-built animation almost always results in awkward pacing — either the animation is too slow and feels padded, or too fast and feels rushed. The few minutes saved by skipping ahead create hours of rework in the animation stage.</div>
+    </div>
+    <div class="wb-faq-item">
+      <div class="wb-faq-q">How do I grow an animated YouTube channel faster in 2026? <span class="wb-faq-arrow">+</span></div>
+      <div class="wb-faq-a">The three highest-impact actions for growing an animated YouTube channel in 2026 are: (1) Publish Shorts consistently from extracted long-form content — Shorts drive disproportionate subscriber growth. (2) Optimize every upload for YouTube search by targeting specific keyword phrases with dedicated videos. (3) Collaborate with other channels in adjacent niches — animated channels have high credibility and collaboration views convert to subscribers at an excellent rate. Consistency and patience are the underlying drivers of all three strategies.</div>
+    </div>
+  </div>
 
-<!-- wp:paragraph -->
-<p>For each paragraph, the storyboard defines:</p>
-<!-- /wp:paragraph -->
+  <!-- CTA -->
+  <div class="wb-cta">
+    <h2>Ready to Build a Professional Animated YouTube Channel?</h2>
+    <p>WREDD handles the complete YouTube animation workflow — from script research to SEO-optimized upload — so you can focus on growing your audience, not managing production.</p>
+    <div class="wb-cta-btns">
+      <a href="https://www.wredd.com" class="wb-btn-primary">Start Your YouTube Channel</a>
+      <a href="https://www.wredd.com" class="wb-btn-secondary">See YouTube Portfolio</a>
+    </div>
+  </div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>what is on screen at each moment</li>
-<!-- /wp:list-item -->
+  <!-- TAGS -->
+  <div class="wb-tags-wrap">
+    <div class="wb-tags-label">Topics Covered</div>
+    <div class="wb-tags">
+      <span class="wb-tag">YouTube Animation</span>
+      <span class="wb-tag">Animation Workflow</span>
+      <span class="wb-tag">YouTube SEO</span>
+      <span class="wb-tag">Video Production</span>
+      <span class="wb-tag">YouTube Strategy</span>
+      <span class="wb-tag">Animated Channel</span>
+      <span class="wb-tag">Motion Graphics</span>
+      <span class="wb-tag">YouTube Shorts</span>
+      <span class="wb-tag">WREDD Studio</span>
+      <span class="wb-tag">Content Creation 2026</span>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li>camera angle and framing</li>
-<!-- /wp:list-item -->
+  <!-- CONTACT FOOTER -->
+  <div class="wb-contact">
+    <div class="wb-contact-logo">WR<span>E</span>DD</div>
+    <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+    <div class="wb-contact-divider"></div>
+    <div class="wb-contact-info">
+      📞 <strong>Call us:</strong> +92 316 5471697<br>
+      📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+      🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+    </div>
+    <div class="wb-social">
+      <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+      <a href="https://www.facebook.com/the.wredd">Facebook</a>
+      <a href="https://www.instagram.com/the.wredd">Instagram</a>
+      <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+      <a href="https://www.youtube.com/@theWredd">YouTube</a>
+    </div>
+  </div>
 
-<!-- wp:list-item -->
-<li>character positions and expressions</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>any text overlays or data visualizations</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Storyboards do not need to be polished. They need to communicate intent clearly. Allow 4–5 days.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1613235788139-4be3b09c3b8d?w=1024&q=80" alt="Animation storyboard panels showing scene-by-scene visual blueprint for YouTube video"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 5: Style Frame Design</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Before a single frame of animation begins, the visual look of the entire video is designed and approved.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This includes character designs, color palette, background styles, icon set, and typography system. Three to five fully polished style frames are created showing key moments at final quality. Changes at this stage are inexpensive. Changes at the animation stage are not.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 6: Animation</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The longest and most intensive phase. Every scene is animated in sequence, synced to the locked voiceover.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Work scene-by-scene: complete and approve each scene before advancing. This prevents cascading revision work that can double production timelines. Most 90-second YouTube animations take 10–15 business days in this phase.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 7: Sound Design and Music</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Sound design is what separates amateur animations from professional ones.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This phase adds:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>background music matched to the video's emotional arc</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>sound effects that punctuate key visual moments</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>audio mastering for consistent levels across all platforms</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Phase 8 and 9: Review, Revisions, and Publishing</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>One complete review pass with fresh eyes. Implement consolidated notes. Final export in H.264 1080p or 4K.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Publishing requires its own optimization: a 60-character YouTube title, keyword-rich description with chapters, custom thumbnail, and end screens. This is what ensures the algorithm finds and promotes your video.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Total workflow: <strong>32–48 business days</strong> from brief to published video.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>The Workflow Is the Quality</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Every studio that consistently produces great YouTube animations follows a version of this pipeline. Skipping phases — especially pre-production — is the most common cause of disappointing final results.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we manage the entire workflow for you. From topic research and script to final published video — every phase is handled by specialists who have run this pipeline hundreds of times.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>If you want a YouTube animation that is ready to perform, let's start the brief today.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->
