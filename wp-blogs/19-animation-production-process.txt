@@ -1,239 +1,252 @@
-<!-- wp:paragraph -->
-<p>Most clients arrive at an animation studio with a great idea and a vague understanding of what happens next.</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
 
-<!-- wp:paragraph -->
-<p>The production process is where great ideas either become exceptional videos or disappointing deliverables. The difference is almost always the process — not the talent.</p>
-<!-- /wp:paragraph -->
+<div class="wredd-blog">
 
-<!-- wp:paragraph -->
-<p>Here is exactly how professional animation is produced from concept to final delivery in 2026.</p>
-<!-- /wp:paragraph -->
+<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">The Complete Animation Production Process — From Brief to Delivery in 2026</h1>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Professional animation production process showing all stages from script to final video delivery"/></figure>
-<!-- /wp:image -->
+<div class="wb-hero">
+  <div class="wb-hero-grid"></div>
+  <div class="wb-eyebrow">▸ Animation Production Guide — 2026</div>
+  <h1>The Complete Animation<span>Production Process</span></h1>
+  <div class="wb-hero-sub">From discovery call to final delivery — a complete guide to every stage of professional animation production and what to expect at each step.</div>
+  <div class="wb-hero-meta">
+    <span>📅 Updated June 2026</span>
+    <span>⏱ 12 min read</span>
+    <span>🎬 Production Guide</span>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 1: Discovery and Strategy</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-stats">
+  <div class="wb-stat">
+    <div class="wb-stat-num">4–6</div>
+    <div class="wb-stat-label">Weeks average for a 90-second animation</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">10×</div>
+    <div class="wb-stat-label">More expensive to change script at animation stage vs script stage</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">40%</div>
+    <div class="wb-stat-label">More on-time delivery from studios with defined processes</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">94%</div>
+    <div class="wb-stat-label">Of client issues stem from skipped approval stages</div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Every professional animation project begins with a discovery session before any creative work starts.</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">Most clients commissioning animation for the first time have the same experience: they know the outcome they want but have no visibility into how it gets created. Understanding the production process — what happens at each stage, what you need to provide, and where decisions become expensive to change — transforms a stressful experience into a collaborative one.</p>
 
-<!-- wp:paragraph -->
-<p>This stage establishes:</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">This guide walks through every stage of professional animation production from first contact to final delivery, with honest guidance on client responsibilities and the timeline decisions that most commonly determine whether a project ends on time and on budget.</p>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>the specific audience the video needs to connect with</li>
-<!-- /wp:list-item -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Animation production process overview showing all 8 stages from brief to final delivery" />
+  <div class="wb-img-caption">A professional animation production follows 8 defined stages — each with a clear deliverable and approval checkpoint</div>
+</div>
 
-<!-- wp:list-item -->
-<li>the single action the video should drive viewers toward</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">The 8-Stage <span>Professional Animation Production Workflow</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list-item -->
-<li>the tone, personality, and visual language that fits the brand</li>
-<!-- /wp:list-item -->
+<div class="wb-steps">
+  <div class="wb-step">
+    <div class="wb-step-num">01</div>
+    <div class="wb-step-content">
+      <h3>Discovery &amp; Strategy — 2–3 Days</h3>
+      <p>The studio conducts a discovery call or questionnaire to understand your objective, audience, key message, tone, and existing brand assets. A creative brief is produced and agreed upon. This stage prevents misalignment that would be expensive to correct later. Client deliverable: approved creative brief. Most common skip mistake: clients who bypass this stage consistently encounter scope issues mid-production.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">02</div>
+    <div class="wb-step-content">
+      <h3>Script Writing — 3–5 Days</h3>
+      <p>The scriptwriter produces a draft based on the agreed creative brief. For a 60-second animation, this is approximately 130–150 words of voiceover script plus scene direction notes. Clients review and provide feedback; typically two revision rounds are included. This is the cheapest and most important stage to get right — changes at script stage cost almost nothing. Changes at animation stage cost 5–10× more and delay delivery by days or weeks.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">03</div>
+    <div class="wb-step-content">
+      <h3>Voiceover Recording — 2–3 Days</h3>
+      <p>Once the script is approved, professional voiceover is recorded. The studio presents voice options — typically 3–5 voice talent selections — for client approval. After talent selection, recording and initial edit take 1–2 days. The voiceover recording becomes the timing backbone for all subsequent animation work, making script approval before this stage non-negotiable.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">04</div>
+    <div class="wb-step-content">
+      <h3>Storyboarding — 4–6 Days</h3>
+      <p>The storyboard maps every scene of the animation as static sketches, showing what will be on screen at each moment of the voiceover. Think of it as a comic-strip version of the final video. Client approval of the storyboard confirms the narrative structure, scene sequence, and visual direction before any animated frames are created. Requesting scene additions or structural changes after storyboard approval is the most common cause of timeline overruns.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">05</div>
+    <div class="wb-step-content">
+      <h3>Visual Design &amp; Style Frames — 5–7 Days</h3>
+      <p>The art director creates 3–5 fully designed static frames showing the visual style: color palette, character design, typography, illustration style, and overall aesthetic. This is the visual identity of your animation. Client approval here locks the design direction. Changes to visual style after this stage require rework of all completed assets.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">06</div>
+    <div class="wb-step-content">
+      <h3>Animation — 10–15 Days</h3>
+      <p>All approved design assets are animated against the approved storyboard and voiceover. This is the most time-intensive stage and the most expensive to revise. Animators work scene by scene, typically delivering a work-in-progress (WIP) edit at 50% and 90% completion for client review. Feedback at WIP stages should focus on pacing, flow, and critical corrections — not script changes or visual style revisions, which at this stage incur full rework cost.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">07</div>
+    <div class="wb-step-content">
+      <h3>Sound Design &amp; Music — 2–3 Days</h3>
+      <p>The final animated cut receives a full sound design pass: background music selection or composition, sound effects, audio mixing, and voiceover equalization. Music licensing is handled by the studio, typically from a licensed library. Client approval of the final audio mix is the last creative approval before final render.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">08</div>
+    <div class="wb-step-content">
+      <h3>Review &amp; Final Delivery — 2–4 Days</h3>
+      <p>The finished animation is rendered in full quality and delivered for final client review. Minor timing or audio adjustments are handled in this stage. Final delivery includes all contracted file formats: typically MP4 (H.264) for web, MOV for broadcast, and any platform-specific exports agreed in the brief. Source files are provided if contracted. The project is closed and archived.</p>
+    </div>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li>the distribution channels and format requirements</li>
-<!-- /wp:list-item -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1024&q=80" alt="Script writing stage of animation production with document review and approval" />
+  <div class="wb-img-caption">The script stage is the single highest-leverage point in production — get it right here and every subsequent stage flows</div>
+</div>
 
-<!-- wp:list-item -->
-<li>the competitive landscape and what differentiates this brand</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<h2 class="wb-h2">Your Responsibilities <span>as a Client at Each Stage</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">The most common misconception first-time animation clients have is that commissioning a studio means handing over responsibility entirely. In reality, a successful animation requires active client participation at defined checkpoints. Here is exactly what you are responsible for at each stage.</p>
 
-<!-- wp:paragraph -->
-<p>Skipping discovery is the most common cause of animated videos that look beautiful but do not convert. Strategy takes 2–3 days and shapes every decision that follows.</p>
-<!-- /wp:paragraph -->
+<div class="wb-split">
+  <div class="wb-split-visual">
+    <div class="wb-split-grid"></div>
+    <div class="wb-split-icon">
+      <div class="wb-split-icon-box">✅</div>
+      <div class="wb-split-label">Your Role</div>
+    </div>
+  </div>
+  <div class="wb-split-content">
+    <h3>Client Responsibilities by Stage</h3>
+    <ul class="wb-list">
+      <li><strong>Discovery:</strong> Provide a clear brief, brand assets, and reference examples. Assign one decision-maker to own approvals</li>
+      <li><strong>Script:</strong> Review and approve within 48 hours. Consolidate all internal feedback before sending — multiple contradictory rounds delay production</li>
+      <li><strong>Voiceover:</strong> Select voice talent from options provided. Approve recorded audio promptly</li>
+      <li><strong>Storyboard:</strong> Review scene structure carefully — this is your last free opportunity to request sequence changes</li>
+      <li><strong>Style frames:</strong> Approve visual direction decisively. Changing style after this stage has significant cost implications</li>
+      <li><strong>Animation WIP:</strong> Focus feedback on pacing and flow. Avoid reopening script or style decisions</li>
+      <li><strong>Final review:</strong> Confirm all contracted deliverables are received and technically correct for your use case</li>
+    </ul>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 2: Script Writing</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?w=1024&q=80" alt="Animation team storyboard review showing client approval checkpoint in production" />
+  <div class="wb-img-caption">The storyboard approval stage is a critical client checkpoint — changes requested after this point significantly increase cost and timeline</div>
+</div>
 
-<!-- wp:paragraph -->
-<p>The script is the most important deliverable in the entire production. Everything — visuals, timing, performance — flows from it.</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">Timeline Killers — <span>What Delays Projects</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">94% of animation project delays trace back to client-side issues, not studio issues. Understanding the patterns that cause delays helps you avoid them before they affect your launch date.</p>
 
-<!-- wp:paragraph -->
-<p>A professional animation script is written for the ear, not the page. Short sentences. Active voice. Conversational rhythm. The viewer should never notice the script — they should only feel the story.</p>
-<!-- /wp:paragraph -->
+<ul class="wb-list">
+  <li><strong>Slow approvals:</strong> The single biggest delay factor. Each approval stage that takes 5 days instead of 48 hours adds 1–2 weeks to the total timeline</li>
+  <li><strong>Approval by committee:</strong> Multiple stakeholders providing contradictory feedback stalls production and requires rework. Assign one approver</li>
+  <li><strong>Script changes after voiceover recording:</strong> Requires re-recording and re-animating — typically adds 5–10 business days to the timeline</li>
+  <li><strong>Style changes after style frame approval:</strong> All completed assets must be reworked — typically adds 7–14 days</li>
+  <li><strong>Unclear or changing briefs:</strong> Scope creep mid-production is both costly and disruptive — time invested in a clear upfront brief pays back in full</li>
+  <li><strong>Missing assets:</strong> Logo files, brand guidelines, product screenshots, or legal copy not provided at brief stage causes stalls throughout production</li>
+</ul>
 
-<!-- wp:paragraph -->
-<p>The script is revised and approved before any visual work begins. Changes made after animation starts cost 5–10x more than changes made at the script stage.</p>
-<!-- /wp:paragraph -->
+<div class="wb-quote">The animation is the easy part. The process discipline is what determines whether a project finishes on time, on budget, and as good as it can be.</div>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1024&q=80" alt="Scriptwriting stage of animation production showing script document and revision process"/></figure>
-<!-- /wp:image -->
+<h2 class="wb-h2">Your Pre-Signing <span>Checklist</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">Before signing with any animation studio, confirm the following to avoid the most common post-signing surprises.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 3: Voiceover Recording</strong></h5>
-<!-- /wp:heading -->
+<ul class="wb-list">
+  <li>Number of script revision rounds included in the quoted price</li>
+  <li>Number of animation revision rounds included — and the cost of additional rounds</li>
+  <li>Whether voiceover talent and licensing are included or billed separately</li>
+  <li>Whether background music licensing is included or billed separately</li>
+  <li>The file formats included in delivery — and whether source files are provided</li>
+  <li>Ownership of completed animation — confirm you receive full IP ownership on final payment</li>
+  <li>What happens if deadlines are missed — does the contract include any delivery guarantees?</li>
+  <li>Point of contact and communication cadence throughout production</li>
+  <li>Payment schedule — avoid studios requiring 100% payment upfront</li>
+</ul>
 
-<!-- wp:paragraph -->
-<p>Voiceover is recorded from the approved final script before storyboarding begins.</p>
-<!-- /wp:paragraph -->
+<div class="wb-cta">
+  <h2>Start Your Animation Project the Right Way</h2>
+  <p>WREDD follows a transparent, stage-gated production process with defined approvals, clear timelines, and no hidden costs. Get a detailed production plan with your quote.</p>
+  <div class="wb-cta-btns">
+    <a href="https://www.wredd.com/contact" class="wb-btn-primary">Start Your Project</a>
+    <a href="https://www.wredd.com/portfolio" class="wb-btn-secondary">View Our Work</a>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Professional voice talent is non-negotiable for customer-facing videos. A human voice communicates warmth, credibility, and emotional nuance that no AI voice replication currently achieves. The locked voiceover file becomes the timing track for every subsequent production stage.</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 4: Storyboarding</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-faq">
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How long does a 60-second animation take to produce? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">A 60-second professional animation typically takes 3–5 weeks from creative brief approval to final delivery. This assumes a responsive client who provides approvals within 48 hours at each stage. If approvals are delayed, or if structural changes are requested after the storyboard or style frame stages, the timeline extends accordingly. Rush delivery options exist at most studios but typically incur a 20–35% premium on the base production cost.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">What do I need to provide to start an animation project? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">To start an animation project effectively, you should provide: your brand guidelines (or logo files and approved color palette at minimum), a clear written brief covering your objective, target audience, key message, and desired tone, any reference videos that represent the style you are looking for, any specific technical or legal copy that must appear in the video, and your delivery deadline. The more clearly you communicate your objective at the start, the less revision time is consumed later.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Can I request changes during animation production? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Yes, but the cost and timeline impact depend entirely on which stage the change is requested and what the change involves. Minor corrections — a name change, a color adjustment, a timing tweak — are typically absorbed within standard revision rounds. Structural changes — a new scene, a script revision, a style direction change — after those stages are approved carry rework costs and timeline implications. The golden rule: get every approval stage right the first time. That is what the approval process exists for.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Do I own the animation once it is delivered? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">In any professionally structured contract, yes — full IP ownership transfers to the client upon final payment. Confirm this explicitly before signing. Some studios retain licensing rights that restrict how or where you can use the animation. At WREDD, clients receive full ownership of all delivered files upon final payment, with no usage restrictions. Source files can be included as an optional addition to the standard deliverable package.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">What is the most expensive mistake clients make during production? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Requesting script changes after voiceover recording has begun. This requires the voiceover to be re-recorded, which delays the storyboard stage, which delays the animation stage — a cascade effect that typically adds 1–2 weeks to delivery and proportional cost. The fix is straightforward: treat script approval as the most important decision in the entire process. Do not approve the script until every stakeholder has signed off on every word. Changes at script stage cost nothing; changes later cost significantly.</div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>The storyboard is the visual blueprint of the video — a sequence of rough panels showing what will appear on screen for each section of the script.</p>
-<!-- /wp:paragraph -->
+<div class="wb-tags-wrap">
+  <div class="wb-tags-label">Topics Covered</div>
+  <div class="wb-tags">
+    <span class="wb-tag">Animation Production</span>
+    <span class="wb-tag">Production Process</span>
+    <span class="wb-tag">Explainer Video</span>
+    <span class="wb-tag">Video Production Timeline</span>
+    <span class="wb-tag">Script Writing</span>
+    <span class="wb-tag">Storyboard</span>
+    <span class="wb-tag">Animation Stages</span>
+    <span class="wb-tag">Client Guide</span>
+    <span class="wb-tag">Video Production</span>
+    <span class="wb-tag">2026 Guide</span>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>It defines every key visual decision before a single asset is designed:</p>
-<!-- /wp:paragraph -->
+<div class="wb-contact">
+  <div class="wb-contact-logo">WR<span>E</span>DD</div>
+  <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+  <div class="wb-contact-divider"></div>
+  <div class="wb-contact-info">
+    📞 <strong>Call us:</strong> +92 316 5471697<br>
+    📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+    🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+  </div>
+  <div class="wb-social">
+    <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+    <a href="https://www.facebook.com/the.wredd">Facebook</a>
+    <a href="https://www.instagram.com/the.wredd">Instagram</a>
+    <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+    <a href="https://www.youtube.com/@theWredd">YouTube</a>
+  </div>
+</div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>camera framing and movement</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>character placement and action</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>on-screen text and data visualization timing</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>scene transitions and pacing</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Storyboard approval is a critical checkpoint. Once passed, visual design begins.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 5: Visual Design and Style Frames</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The visual identity of the video is fully designed before animation begins.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This stage produces character designs, color palette, background style, typography system, and 3–5 fully polished still frames showing key moments at final quality. The client approves the visual direction completely before a single scene is animated.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This approval stage exists to protect both parties. Visual changes at this stage take hours. Visual changes at the animation stage take days.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1613235788139-4be3b09c3b8d?w=1024&q=80" alt="Style frame design stage showing character design and visual direction for animation production"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 6: Animation</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The animation stage is the longest phase — typically 10–15 business days for a 90-second video.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Animators work scene-by-scene, syncing every movement to the locked voiceover. Professional animation at this stage involves thousands of individual keyframe decisions. The difference between amateur and professional animation is visible in the fluidity, timing, and expressiveness of these movements.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 7: Sound Design and Music</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>A completed animation without sound design feels unfinished. Sound design adds the final layer of professional polish:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>background music matched to the video's emotional arc</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>sound effects that reinforce key visual moments</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>audio mastering for consistent playback across all devices and platforms</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Stage 8: Review, Revisions, and Delivery</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The completed video is reviewed in full, feedback is consolidated, and revisions are implemented. Final delivery includes:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>MP4 master file in 1080p or 4K</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>web-optimized version for fast loading</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>square and vertical format versions for social media</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>source project files (when included in the package)</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Total production timeline for a 90-second animated explainer: <strong>4–6 weeks</strong> from brief to delivery.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>Process Is What Protects Quality</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Every great animated video you have ever watched is the product of a disciplined process followed by professionals who refused to skip steps.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, this pipeline is not a suggestion. It is how every project runs — because it is the only reliable way to consistently deliver animation that meets the quality standard our clients' brands deserve.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>If you want to experience this process firsthand, let's start with a brief.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->

@@ -1,211 +1,287 @@
-<!-- wp:paragraph -->
-<p>Whiteboard animation is one of the most underestimated formats in the animated video landscape.</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
 
-<!-- wp:paragraph -->
-<p>While 2D character animation and motion graphics get most of the attention, whiteboard animation quietly delivers some of the highest comprehension rates and completion rates of any video format in specific use cases.</p>
-<!-- /wp:paragraph -->
+<div class="wredd-blog">
 
-<!-- wp:paragraph -->
-<p>Here is why whiteboard animation still belongs in the modern marketing toolkit in 2026.</p>
-<!-- /wp:paragraph -->
+<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Whiteboard Animation — Benefits, Use Cases and When to Use It in 2026</h1>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1551817958-d9d86fb29431?w=1024&q=80" alt="Whiteboard animation production showing hand-drawn illustration style for educational content"/></figure>
-<!-- /wp:image -->
+<div class="wb-hero">
+  <div class="wb-hero-grid"></div>
+  <div class="wb-eyebrow">▸ Whiteboard Animation Guide — 2026</div>
+  <h1>Whiteboard Animation<span>Benefits, Use Cases &amp; When to Use It</span></h1>
+  <div class="wb-hero-sub">Whiteboard animation delivers 28% higher completion rates and 40% better comprehension for complex topics. Here's when and why to choose it.</div>
+  <div class="wb-hero-meta">
+    <span>📅 Updated June 2026</span>
+    <span>⏱ 10 min read</span>
+    <span>✏️ Animation Styles</span>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>What Is Whiteboard Animation?</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-stats">
+  <div class="wb-stat">
+    <div class="wb-stat-num">28%</div>
+    <div class="wb-stat-label">Higher completion rate than standard video</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">40%</div>
+    <div class="wb-stat-label">Improvement in patient comprehension — healthcare whiteboard</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">35%</div>
+    <div class="wb-stat-label">Higher training completion with whiteboard animation</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">60%</div>
+    <div class="wb-stat-label">Lower cost than comparable 2D character animation</div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Whiteboard animation is a video format where a drawing hand illustrates concepts in real time on a white background as a narrator explains them.</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">Whiteboard animation has a deceptively simple visual language — black or colored line drawings appearing progressively on a white background, often with the suggestion of a hand drawing them. This apparent simplicity is what makes it so effective. By removing visual distraction, whiteboard animation focuses viewer attention entirely on the information being communicated — a quality that makes it particularly powerful for complex, data-heavy, or process-oriented content.</p>
 
-<!-- wp:paragraph -->
-<p>The visual simplicity is the point. By removing background complexity, color distractions, and environmental detail, whiteboard animation directs 100% of the viewer's focus onto the idea being communicated.</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">In 2026, whiteboard animation remains one of the most cost-effective formats in the professional animator's toolkit, delivering measurably superior comprehension outcomes for the right content types. This guide explains exactly when to choose it — and when not to.</p>
 
-<!-- wp:paragraph -->
-<p>It is the visual equivalent of sitting with an expert who draws while they explain. And that format has proven remarkably effective for specific types of content.</p>
-<!-- /wp:paragraph -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1024&q=80" alt="Whiteboard animation production showing hand-drawn illustration style for education" />
+  <div class="wb-img-caption">The progressive reveal of whiteboard animation creates a storytelling rhythm that holds viewer attention through complex information</div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Core Benefits of Whiteboard Animation</strong></h5>
-<!-- /wp:heading -->
+<h2 class="wb-h2">6 Industries Where <span>Whiteboard Animation Excels</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:paragraph -->
-<p>Whiteboard animation's unique characteristics create specific advantages:</p>
-<!-- /wp:paragraph -->
+<div class="wb-cards">
+  <div class="wb-card">
+    <span class="wb-card-icon">📚</span>
+    <div class="wb-card-badge">Education</div>
+    <h3>Education</h3>
+    <p>Whiteboard's progressive reveal mirrors the natural pacing of teaching — concepts build on each other visually. E-learning platforms using whiteboard animation report 35% higher lesson completion rates and significantly improved knowledge assessment scores compared to slide-based content.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🏥</span>
+    <div class="wb-card-badge">Healthcare</div>
+    <h3>Healthcare</h3>
+    <p>Patient education, procedure explanations, and public health campaigns consistently perform better in whiteboard format. The clinical simplicity of the style aligns with the clear, trustworthy communication healthcare messaging demands. Comprehension improvements of 40% are documented in NHS and WHO research.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">⚖️</span>
+    <div class="wb-card-badge">Legal & Finance</div>
+    <h3>Legal &amp; Finance</h3>
+    <p>Legal processes, financial planning concepts, and compliance explanations are complex by nature. Whiteboard animation's sequential, diagram-friendly format makes it ideal for visualizing timelines, procedures, and regulatory frameworks in a way that builds understanding rather than overwhelming viewers.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">💻</span>
+    <div class="wb-card-badge">B2B Technology</div>
+    <h3>B2B Technology</h3>
+    <p>Technical product explanations, API documentation videos, and system architecture overviews benefit from whiteboard's diagram-native format. When your product requires a technical explanation, whiteboard allows you to build complexity step by step — literally drawing the architecture as you explain it.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🌍</span>
+    <div class="wb-card-badge">NGO & Nonprofit</div>
+    <h3>NGO &amp; Nonprofit</h3>
+    <p>The accessible, hand-drawn quality of whiteboard animation resonates with the values communication typical of NGOs and nonprofit campaigns. It feels human, approachable, and unpolished in the right way — removing the corporate distance that can undermine cause-based messaging.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🎓</span>
+    <div class="wb-card-badge">Corporate Training</div>
+    <h3>Corporate Training</h3>
+    <p>Process training, safety procedures, compliance modules, and change management communications all benefit from whiteboard's clarity-first approach. It is also the most cost-effective animation style for internal training where budget constraints and volume requirements are often in tension.</p>
+  </div>
+</div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>maximum cognitive focus</strong> — no visual distractions mean the brain processes the information with full attention</li>
-<!-- /wp:list-item -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1024&q=80" alt="Whiteboard presentation style for complex business concept explanation" />
+  <div class="wb-img-caption">Whiteboard animation transforms dense process documentation into clear visual narratives that stick</div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>natural pacing for complex topics</strong> — illustrations appear progressively, matching the speed at which the narrator introduces each concept</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Whiteboard vs. 2D Character Animation — <span>The Decision Framework</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list-item -->
-<li><strong>high completion rates</strong> — the anticipation of what will be drawn next keeps viewers watching</li>
-<!-- /wp:list-item -->
+<div class="wb-split">
+  <div class="wb-split-visual">
+    <div class="wb-split-grid"></div>
+    <div class="wb-split-icon">
+      <div class="wb-split-icon-box">✏️</div>
+      <div class="wb-split-label">Choose Whiteboard</div>
+    </div>
+  </div>
+  <div class="wb-split-content">
+    <h3>When Whiteboard Is the Right Choice</h3>
+    <ul class="wb-list">
+      <li>The content is complex, process-heavy, or data-driven</li>
+      <li>The primary goal is comprehension and retention — not brand awareness</li>
+      <li>Budget is a significant constraint — whiteboard costs 40–60% less than 2D character</li>
+      <li>The audience is professional or technical — whiteboard feels authoritative, not juvenile</li>
+      <li>Content needs to be produced at volume — internal training suites, module libraries</li>
+      <li>Emotional engagement is secondary to information transfer</li>
+    </ul>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>approachable visual style</strong> — feels like a personal explanation rather than a corporate broadcast</li>
-<!-- /wp:list-item -->
+<div class="wb-split">
+  <div class="wb-split-visual">
+    <div class="wb-split-grid"></div>
+    <div class="wb-split-icon">
+      <div class="wb-split-icon-box">🎨</div>
+      <div class="wb-split-label">Choose 2D Character</div>
+    </div>
+  </div>
+  <div class="wb-split-content">
+    <h3>When 2D Character Animation Wins</h3>
+    <ul class="wb-list">
+      <li>Brand storytelling and emotional engagement are primary objectives</li>
+      <li>The content features relatable human scenarios — customers, journeys, narratives</li>
+      <li>You need a distinctive visual identity — whiteboard is generic, character animation can be unique</li>
+      <li>The content is consumer-facing and competes for attention on social platforms</li>
+      <li>You want to build brand affinity, not just convey information</li>
+      <li>The content will be used externally as a brand marketing asset</li>
+    </ul>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>lower production cost</strong> — simpler visual pipeline means more budget available for script quality and voiceover</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<h2 class="wb-h2">The Whiteboard Animation <span>Production Process</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">Understanding the production process helps you plan timelines, prepare for feedback stages, and avoid the delays that most commonly push projects past their deadlines.</p>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1024&q=80" alt="Whiteboard animation showing step-by-step educational concept illustration for business training"/></figure>
-<!-- /wp:image -->
+<div class="wb-steps">
+  <div class="wb-step">
+    <div class="wb-step-num">01</div>
+    <div class="wb-step-content">
+      <h3>Script &amp; Voiceover Direction — Days 1–5</h3>
+      <p>The script is the foundation. For whiteboard specifically, the script must be structured to support progressive visual revelation — each sentence or concept needs a corresponding visual element. Voiceover is typically recorded from the approved script before animation begins.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">02</div>
+    <div class="wb-step-content">
+      <h3>Illustration &amp; Character Design — Days 6–10</h3>
+      <p>The illustrator creates the full set of visual elements that will appear in the video. For whiteboard, this means linework optimized for the drawing-on effect — typically cleaner and more diagrammatic than general illustration. Client approval at this stage prevents costly changes later.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">03</div>
+    <div class="wb-step-content">
+      <h3>Storyboard &amp; Timing — Days 11–14</h3>
+      <p>The storyboard maps each visual element to the corresponding voiceover segment. Timing is critical in whiteboard animation — the reveal speed must match the natural cognitive processing pace of the viewer. Too fast loses comprehension; too slow loses attention.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">04</div>
+    <div class="wb-step-content">
+      <h3>Animation — Days 15–22</h3>
+      <p>The animation stage creates the drawing-on effect, syncs all visual elements to voiceover timing, and applies any color or emphasis effects. Professional whiteboard animation uses custom illustration animated frame-by-frame — not stock hand or template overlays, which are visually inconsistent and brand-unsafe.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">05</div>
+    <div class="wb-step-content">
+      <h3>Review, Sound Design &amp; Delivery — Days 23–28</h3>
+      <p>Client review with revision rounds. Sound design adds subtle audio cues that enhance the drawing effect. Final delivery in all required formats: MP4 for web, MOV for broadcast, and platform-specific exports as needed. Subtitles and localized voiceover versions completed in this stage.</p>
+    </div>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Where Whiteboard Animation Performs Best</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1024&q=80" alt="Educational whiteboard animation for e-learning platform and corporate training" />
+  <div class="wb-img-caption">Whiteboard animation produced for e-learning platforms must balance visual pacing with the natural cognitive load of learners</div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Whiteboard animation is not the right choice for every use case. But in the right context, it consistently outperforms more visually complex formats.</p>
-<!-- /wp:paragraph -->
+<div class="wb-quote">The best whiteboard animation does not look like anyone drew it quickly. It looks like it was drawn precisely for your audience — one concept revealed at exactly the right moment to build understanding.</div>
 
-<!-- wp:paragraph -->
-<p>It excels in:</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">Whiteboard Animation <span>Pricing Guide 2026</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">Whiteboard animation is consistently 40–60% more cost-effective than equivalent 2D character animation. Here is what to expect at each production tier in 2026.</p>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>educational content</strong> — explaining concepts, theories, and processes in online courses and tutorials</li>
-<!-- /wp:list-item -->
+<ul class="wb-list">
+  <li><strong>60-second whiteboard (professional studio):</strong> $1,800–$3,500 — custom illustration, professional voiceover, sound design</li>
+  <li><strong>90-second whiteboard (professional studio):</strong> $2,500–$5,000 — same spec, expanded content and visual complexity</li>
+  <li><strong>2-minute whiteboard (professional studio):</strong> $3,500–$7,000 — full narrative arc, multiple scene transitions, comprehensive illustration set</li>
+  <li><strong>Template-based whiteboard (DIY platforms):</strong> $50–$300/month — limited customization, stock hands, recognizable template aesthetic</li>
+  <li><strong>Training module suite (per module):</strong> $1,500–$3,000 per 3–5 minute module, with volume discounts for multi-module commissions</li>
+</ul>
 
-<!-- wp:list-item -->
-<li><strong>employee training</strong> — compliance, policy, and process training where clarity matters more than visual entertainment</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Common Whiteboard Animation <span>Mistakes to Avoid</span></h2>
+<div class="wb-rule"></div>
+<ul class="wb-list">
+  <li>Using stock hand overlays instead of custom illustration — creates visual inconsistency and generic output</li>
+  <li>Drawing too fast — the progressive reveal needs to allow cognitive processing time; rushing defeats the purpose</li>
+  <li>Overloading the screen — whiteboard's power is in focused simplicity; cluttered scenes eliminate the comprehension advantage</li>
+  <li>Ignoring voiceover quality — poor voiceover quality undermines even excellent animation; invest in professional talent</li>
+  <li>Choosing whiteboard for the wrong content — high-emotion brand storytelling needs color and character, not monochrome line art</li>
+  <li>Skipping the storyboard approval stage — misalignment between visual and voiceover is almost always caught at storyboard; finding it in final animation is expensive</li>
+</ul>
 
-<!-- wp:list-item -->
-<li><strong>healthcare and medical</strong> — explaining medical procedures, diagnoses, and treatment options to patients</li>
-<!-- /wp:list-item -->
+<div class="wb-cta">
+  <h2>Need a Whiteboard Animation That Actually Teaches?</h2>
+  <p>WREDD produces custom-illustrated whiteboard animations for education, healthcare, training, and B2B technology — built for comprehension, not just completion.</p>
+  <div class="wb-cta-btns">
+    <a href="https://www.wredd.com/contact" class="wb-btn-primary">Get a Whiteboard Quote</a>
+    <a href="https://www.wredd.com/portfolio" class="wb-btn-secondary">View Whiteboard Work</a>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>complex B2B explanations</strong> — multi-step processes, technical integrations, and systems explanations</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list-item -->
-<li><strong>NGO and nonprofit communication</strong> — making complex social, environmental, or economic issues accessible</li>
-<!-- /wp:list-item -->
+<div class="wb-faq">
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Is whiteboard animation still effective in 2026 or is it outdated? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Whiteboard animation remains highly effective in 2026 for its primary purpose: communicating complex information clearly. The format has evolved — modern whiteboard uses custom illustration, selective color, and sophisticated timing rather than the generic black-and-white stock-hand style of the early 2010s. The underlying cognitive principle — that progressive visual revelation aids comprehension — has not changed. For the right content types, no other format consistently matches its performance on comprehension and retention metrics.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How long should a whiteboard animation be? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">For marketing and awareness content: 60–90 seconds. For product or service explanation: 90–120 seconds. For training and e-learning modules: 3–7 minutes is standard, with learners able to pause and rewind. The cognitive engagement created by whiteboard's progressive reveal sustains attention longer than comparable formats — average completion rates at 5 minutes are higher than most animated styles at 3 minutes.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Can whiteboard animation include color? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Yes, and modern whiteboard animation frequently uses color strategically. A selective color approach — drawing in black linework but using brand colors to highlight key elements, data points, or emphasis moments — combines the comprehension benefits of whiteboard with brand recognition. Full-color whiteboard, where all illustration uses color but retains the drawing-on reveal mechanic, is an increasingly popular hybrid that blends the strengths of both approaches.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">What is the difference between professional whiteboard animation and cheap DIY whiteboard? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">The most visible difference is in the illustration quality. Professional whiteboard uses custom-drawn characters and diagrams specific to your content and brand. DIY platforms use stock illustration libraries where every video looks the same — recognizable templates that signal low production investment. Beyond visuals, professional whiteboard includes strategic scripting, professional voiceover, precise timing calibration, and custom sound design. These elements compound to produce measurably better comprehension outcomes.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How quickly can a whiteboard animation be produced? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">A standard 60–90 second professional whiteboard animation takes 3–4 weeks from approved script to final delivery. Rush timelines of 2 weeks are possible with priority scheduling but typically incur a 20–30% premium. Training module suites or longer-form content takes 4–6 weeks. The critical path item is always client approvals — studios working with responsive clients consistently deliver on or before schedule; delayed approvals are the primary cause of timeline overruns.</div>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>legal and financial services</strong> — explaining policies, contracts, and financial products in a non-intimidating way</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<div class="wb-tags-wrap">
+  <div class="wb-tags-label">Topics Covered</div>
+  <div class="wb-tags">
+    <span class="wb-tag">Whiteboard Animation</span>
+    <span class="wb-tag">Educational Video</span>
+    <span class="wb-tag">Corporate Training Video</span>
+    <span class="wb-tag">Healthcare Animation</span>
+    <span class="wb-tag">E-Learning</span>
+    <span class="wb-tag">Animation Styles</span>
+    <span class="wb-tag">Explainer Video</span>
+    <span class="wb-tag">B2B Animation</span>
+    <span class="wb-tag">Video Production Cost</span>
+    <span class="wb-tag">2026 Guide</span>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Whiteboard vs 2D Character Animation: When to Choose Which</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-contact">
+  <div class="wb-contact-logo">WR<span>E</span>DD</div>
+  <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+  <div class="wb-contact-divider"></div>
+  <div class="wb-contact-info">
+    📞 <strong>Call us:</strong> +92 316 5471697<br>
+    📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+    🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+  </div>
+  <div class="wb-social">
+    <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+    <a href="https://www.facebook.com/the.wredd">Facebook</a>
+    <a href="https://www.instagram.com/the.wredd">Instagram</a>
+    <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+    <a href="https://www.youtube.com/@theWredd">YouTube</a>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>The decision between whiteboard and 2D character animation comes down to two questions:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>Is step-by-step clarity the priority, or emotional connection?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Is this for a formal educational or training context, or a consumer marketing context?</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Clarity for training → whiteboard animation. Emotional engagement for marketing → 2D character animation. Both priorities present → consider motion graphics with illustrated elements as a hybrid.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1024&q=80" alt="Whiteboard animation versus character animation decision guide for business video production"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Whiteboard Animation Production Process</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Whiteboard animation follows the same core production pipeline as other styles but with a simpler visual asset development phase:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>script writing and approval — typically 3–5 days</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>voiceover recording — 2–3 days</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>illustration and storyboard creation — 5–7 days</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>animation and reveal timing — 7–10 days</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>music, sound design, and delivery — 2–3 days</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Total: 3–4 weeks for a 90-second whiteboard animation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Cost Range for Whiteboard Animation in 2026</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Professional whiteboard animation ranges from $1,500 to $5,000 for a 60–90 second video — making it one of the most accessible entry points into professional animated video production.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The lower cost does not mean lower impact. In the right context, a $2,500 whiteboard animation outperforms a $10,000 character animation because the format is doing exactly what the content requires.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>Simple Is Not Unsophisticated</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The visual simplicity of whiteboard animation is a deliberate strategic choice — not a budget compromise. When the goal is maximum clarity, simplicity is the most sophisticated approach available.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we produce whiteboard animations with the same script quality, voiceover excellence, and visual craft that goes into every format we offer. The style is simpler. The standards are not.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>If clarity is your priority, whiteboard animation is your format. Let's make it exceptional.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->
