@@ -1,197 +1,266 @@
-<!-- wp:paragraph -->
-<p>A product explainer video is one of the most focused, highest-converting marketing assets a business can own.</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap');
+.wredd-blog*{box-sizing:border-box}.wredd-blog{font-family:'Satoshi','Segoe UI',sans-serif;color:#F5F5F5;background:#1B1B1B;max-width:860px;margin:0 auto}.wb-hero{background:#000;border:1px solid rgba(143,64,67,0.4);border-radius:4px;padding:64px 40px;text-align:center;position:relative;overflow:hidden;margin-bottom:48px}.wb-hero::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:#8F4043}.wb-hero::after{content:'';position:absolute;bottom:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:rgba(143,64,67,0.15);filter:blur(60px);pointer-events:none}.wb-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.05) 1px,transparent 1px);background-size:44px 44px}.wb-eyebrow{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);color:#8F4043;font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:6px 18px;border-radius:2px;margin-bottom:24px;position:relative;z-index:2}.wb-hero h1{font-family:'Cinzel Decorative',serif!important;font-size:clamp(22px,3.5vw,40px)!important;font-weight:900!important;color:#F5F5F5!important;line-height:1.2!important;margin:0 0 12px!important;position:relative;z-index:2}.wb-hero h1 span{color:#8F4043;display:block}.wb-hero-sub{font-size:17px;color:#CCCCCC;font-weight:300;max-width:580px;margin:0 auto 28px;line-height:1.75;position:relative;z-index:2}.wb-hero-meta{display:flex;justify-content:center;gap:24px;font-size:12px;color:#999;flex-wrap:wrap;position:relative;z-index:2}.wb-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin:40px 0}.wb-stat{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);border-top:2px solid #8F4043;border-radius:4px;padding:20px 16px;text-align:center}.wb-stat-num{font-family:'Cinzel Decorative',serif;font-size:28px;font-weight:900;color:#8F4043;line-height:1;margin-bottom:6px}.wb-stat-label{font-size:12px;color:#CCCCCC;line-height:1.4}.wb-h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:56px 0 8px!important;line-height:1.25!important}.wb-h2 span{color:#8F4043}.wb-rule{width:56px;height:2px;background:#8F4043;margin:0 0 24px}.wb-p{font-size:16px;color:#CCCCCC;line-height:1.8;margin-bottom:18px;font-weight:400}.wb-p strong{color:#F5F5F5;font-weight:700}.wb-p em{font-style:italic;color:#F5F5F5}.wb-list{list-style:none;margin:16px 0 24px;padding:0}.wb-list li{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid rgba(204,204,204,0.08);font-size:15px;color:#CCCCCC;line-height:1.65}.wb-list li:last-child{border-bottom:none}.wb-list li::before{content:'→';color:#8F4043;font-weight:700;flex-shrink:0;margin-top:2px}.wb-img-banner{margin:36px 0;border-radius:4px;overflow:hidden;border:1px solid rgba(143,64,67,0.25);position:relative}.wb-img-banner img{width:100%;height:auto;display:block}.wb-img-caption{background:#000;padding:10px 18px;font-size:12px;color:#999;letter-spacing:.5px;text-transform:uppercase;font-weight:600;border-top:1px solid rgba(143,64,67,0.2)}.wb-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}.wb-card{background:#2B2B2B;border:1px solid rgba(204,204,204,0.08);border-radius:4px;padding:22px;position:relative;overflow:hidden;transition:border-color .2s}.wb-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:#8F4043;transform:scaleX(0);transform-origin:left;transition:transform .3s}.wb-card:hover{border-color:rgba(143,64,67,0.4)}.wb-card:hover::before{transform:scaleX(1)}.wb-card-icon{font-size:26px;margin-bottom:12px;display:block}.wb-card-badge{display:inline-block;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.3);color:#8F4043;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;margin-bottom:10px}.wb-card h3{font-family:'Satoshi',sans-serif!important;font-size:15px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 8px!important}.wb-card p{font-size:13px;color:#999;line-height:1.6;margin:0}.wb-split{display:grid;grid-template-columns:1fr 1fr;border:1px solid rgba(143,64,67,0.25);border-radius:4px;overflow:hidden;margin:36px 0}@media(max-width:600px){.wb-split{grid-template-columns:1fr}}.wb-split-visual{background:#000;display:flex;align-items:center;justify-content:center;padding:40px 30px;position:relative;overflow:hidden;min-height:240px}.wb-split-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(143,64,67,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(143,64,67,0.06) 1px,transparent 1px);background-size:36px 36px}.wb-split-icon{position:relative;z-index:2;text-align:center}.wb-split-icon-box{width:80px;height:80px;border-radius:4px;background:rgba(143,64,67,0.12);border:1px solid rgba(143,64,67,0.35);display:flex;align-items:center;justify-content:center;font-size:34px;margin:0 auto 14px}.wb-split-label{font-size:11px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#8F4043}.wb-split-content{background:#2B2B2B;padding:36px 30px;display:flex;flex-direction:column;justify-content:center}.wb-split-content h3{font-family:'Satoshi',sans-serif!important;font-size:18px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 16px!important}.wb-quote{border-left:3px solid #8F4043;background:rgba(143,64,67,0.06);padding:22px 28px;border-radius:0 4px 4px 0;margin:36px 0;font-size:18px;font-style:italic;color:#F5F5F5;font-weight:300;line-height:1.65}.wb-steps{margin:28px 0}.wb-step{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid rgba(204,204,204,0.08);align-items:start}.wb-step:last-child{border-bottom:none}.wb-step-num{width:50px;height:50px;background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;display:flex;align-items:center;justify-content:center;font-family:'Cinzel Decorative',serif;font-size:15px;font-weight:900;color:#8F4043;flex-shrink:0}.wb-step-content h3{font-family:'Satoshi',sans-serif!important;font-size:16px!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 6px!important}.wb-step-content p{font-size:14px;color:#CCCCCC;margin:0;line-height:1.7}.wb-testimonial{background:#000;border:1px solid rgba(143,64,67,0.35);border-radius:4px;padding:36px;margin:36px 0;position:relative}.wb-testimonial::before{content:'"';position:absolute;top:10px;left:22px;font-size:80px;font-family:'Cinzel Decorative',serif;color:rgba(143,64,67,0.18);line-height:1}.wb-stars{color:#8F4043;font-size:14px;letter-spacing:3px;margin-bottom:16px}.wb-testimonial-text{font-size:16px;font-style:italic;color:#F5F5F5;line-height:1.75;margin-bottom:20px;padding-top:20px;font-weight:300}.wb-author{display:flex;align-items:center;gap:14px}.wb-avatar{width:42px;height:42px;background:#8F4043;border-radius:4px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;color:#fff;flex-shrink:0}.wb-author h4{font-size:14px;font-weight:700;color:#F5F5F5;margin:0 0 3px}.wb-author span{font-size:12px;color:#999}.wb-cta{background:#000;border:1px solid rgba(143,64,67,0.4);border-top:3px solid #8F4043;border-radius:4px;padding:48px 36px;text-align:center;margin:48px 0;position:relative;overflow:hidden}.wb-cta::after{content:'';position:absolute;bottom:-60px;right:-60px;width:220px;height:220px;border-radius:50%;background:rgba(143,64,67,0.12);filter:blur(50px);pointer-events:none}.wb-cta h2{font-family:'Cinzel Decorative',serif!important;font-size:clamp(18px,2.5vw,26px)!important;font-weight:700!important;color:#F5F5F5!important;margin:0 0 12px!important;position:relative;z-index:1}.wb-cta p{font-size:16px;color:#CCCCCC;max-width:480px;margin:0 auto 28px;line-height:1.7;position:relative;z-index:1}.wb-cta-btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;position:relative;z-index:1}.wb-btn-primary{background:#8F4043;color:#fff!important;padding:13px 30px;border-radius:4px;font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:background .2s}.wb-btn-primary:hover{background:#6e2e31}.wb-btn-secondary{background:transparent;color:#F5F5F5!important;padding:13px 30px;border-radius:4px;border:1px solid rgba(204,204,204,0.25);font-weight:700;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none!important;display:inline-block;transition:border-color .2s}.wb-btn-secondary:hover{border-color:#8F4043}.wb-faq{margin:28px 0}.wb-faq-item{border:1px solid rgba(204,204,204,0.08);border-radius:4px;margin-bottom:10px;overflow:hidden;transition:border-color .2s}.wb-faq-item.open{border-color:rgba(143,64,67,0.4)}.wb-faq-q{padding:18px 22px;font-weight:700;font-size:15px;color:#F5F5F5;cursor:pointer;display:flex;justify-content:space-between;align-items:center;background:#2B2B2B;user-select:none;gap:12px}.wb-faq-q:hover{background:#000}.wb-faq-arrow{color:#8F4043;font-size:20px;flex-shrink:0;transition:transform .2s}.wb-faq-item.open .wb-faq-arrow{transform:rotate(45deg)}.wb-faq-a{display:none;padding:0 22px 18px;font-size:14px;color:#CCCCCC;background:#2B2B2B;line-height:1.75}.wb-faq-item.open .wb-faq-a{display:block}.wb-tags-wrap{padding-top:32px;border-top:1px solid rgba(143,64,67,0.25);margin-top:48px}.wb-tags-label{font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#999;margin-bottom:14px}.wb-tags{display:flex;flex-wrap:wrap;gap:8px}.wb-tag{background:rgba(143,64,67,0.1);border:1px solid rgba(143,64,67,0.25);color:#CCCCCC;padding:5px 13px;border-radius:2px;font-size:12px}.wb-contact{background:#000;border:1px solid rgba(143,64,67,0.3);border-top:2px solid #8F4043;border-radius:4px;padding:36px;margin-top:40px;text-align:center}.wb-contact-logo{font-family:'Cinzel Decorative',serif;font-size:18px;font-weight:900;letter-spacing:4px;color:#F5F5F5;text-transform:uppercase;margin-bottom:6px}.wb-contact-logo span{color:#8F4043}.wb-contact-tagline{font-size:12px;color:#999;letter-spacing:1px;text-transform:uppercase;margin-bottom:24px}.wb-contact-divider{width:40px;height:1px;background:#8F4043;margin:0 auto 24px}.wb-contact-info{font-size:15px;color:#CCCCCC;line-height:2;margin-bottom:24px}.wb-contact-info a{color:#8F4043;text-decoration:none}.wb-social{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}.wb-social a{background:#2B2B2B;border:1px solid rgba(143,64,67,0.25);color:#CCCCCC!important;padding:8px 18px;border-radius:2px;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;text-decoration:none!important;transition:border-color .2s,color .2s}.wb-social a:hover{border-color:#8F4043;color:#8F4043!important}
+</style>
 
-<!-- wp:paragraph -->
-<p>Unlike a brand video that tells your company's story, or an educational animation that teaches a concept, a product explainer has one specific job: show exactly what your product does and make viewers want it immediately.</p>
-<!-- /wp:paragraph -->
+<div class="wredd-blog">
 
-<!-- wp:paragraph -->
-<p>Here is the complete guide to creating product explainer videos that actually drive sales in 2026.</p>
-<!-- /wp:paragraph -->
+<h1 style="font-family:'Cinzel Decorative',serif;font-size:clamp(20px,2.8vw,32px);font-weight:700;color:#F5F5F5;line-height:1.3;margin:0 0 32px;padding:0;">Product Explainer Videos That Actually Drive Sales — The 2026 Guide</h1>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1024&q=80" alt="Product explainer video production showing animated product demonstration and feature showcase"/></figure>
-<!-- /wp:image -->
+<div class="wb-hero">
+  <div class="wb-hero-grid"></div>
+  <div class="wb-eyebrow">▸ Product Video Strategy — 2026</div>
+  <h1>Product Explainer Videos<span>That Actually Drive Sales</span></h1>
+  <div class="wb-hero-sub">Product pages with video see 80% higher conversion. Here's the exact framework for creating product explainer videos that turn viewers into buyers.</div>
+  <div class="wb-hero-meta">
+    <span>📅 Updated June 2026</span>
+    <span>⏱ 11 min read</span>
+    <span>🛒 Conversion Optimization</span>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>What Makes a Product Explainer Different</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-stats">
+  <div class="wb-stat">
+    <div class="wb-stat-num">80%</div>
+    <div class="wb-stat-label">Higher conversion on product pages with video</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">2.6×</div>
+    <div class="wb-stat-label">Longer time on page when product video is present</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">74%</div>
+    <div class="wb-stat-label">Of users who watched a product explainer bought the product</div>
+  </div>
+  <div class="wb-stat">
+    <div class="wb-stat-num">25%</div>
+    <div class="wb-stat-label">Reduction in product returns with explainer video</div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>A product explainer is laser-focused on a single objective: communicate the value of one specific product to one specific audience segment.</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">A product explainer video is the most focused, highest-converting marketing asset a business can own. When done correctly, it functions as a 24/7 sales representative — answering objections, demonstrating value, and building the confidence a buyer needs to act. When done poorly, it is an expensive liability that fails to move the needle on any measurable outcome.</p>
 
-<!-- wp:paragraph -->
-<p>It is not about your company's history. It is not about your entire product suite. It answers one question for one person:</p>
-<!-- /wp:paragraph -->
+<p class="wb-p">The difference between a product video that converts and one that doesn't comes down to structure, specificity, and where it is deployed. This guide covers all three.</p>
 
-<!-- wp:paragraph -->
-<p><strong>"Will this solve my problem?"</strong></p>
-<!-- /wp:paragraph -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1024&q=80" alt="Product explainer video production with animated product demonstration for e-commerce" />
+  <div class="wb-img-caption">High-converting product explainer videos follow a proven five-part structure — deviation from it costs conversion rate</div>
+</div>
 
-<!-- wp:paragraph -->
-<p>When that question is answered clearly and compellingly in under 90 seconds, conversion rates increase dramatically.</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">The 5-Part Product Explainer <span>Formula That Converts</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">Every high-converting product video follows this structure. Each stage has a specific job. Skip or reorder any stage and the video loses conversion effectiveness.</p>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Product Explainer Video Formula</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-steps">
+  <div class="wb-step">
+    <div class="wb-step-num">01</div>
+    <div class="wb-step-content">
+      <h3>Hook With the Problem — First 5 Seconds</h3>
+      <p>You have five seconds to earn the next 60. Open with the problem your product solves — stated as a scene, a situation, or a pain the viewer immediately recognizes. Do not open with your logo, company name, or product name. The viewer's first question is "is this relevant to me?" Answer it immediately.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">02</div>
+    <div class="wb-step-content">
+      <h3>Make the Pain Real — Seconds 6–15</h3>
+      <p>Amplify the problem. Show the consequences: the wasted time, the cost, the frustration, the missed opportunity. The more vividly you can depict the world without your product, the more relief the solution will provide when you introduce it. This is where empathy creates urgency.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">03</div>
+    <div class="wb-step-content">
+      <h3>Introduce the Product as the Solution — Seconds 16–25</h3>
+      <p>Bring in your product as the answer to the pain you have just established. Name it clearly, state what it does in one sentence, and let the emotional shift from problem to solution happen visually. This is the pivot point — everything before was setup, everything after is evidence.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">04</div>
+    <div class="wb-step-content">
+      <h3>Demo Key Benefits — Outcomes, Not Features — Seconds 26–75</h3>
+      <p>This is where most product videos fail. Features describe what the product does. Benefits describe what the viewer gains. "Automated reporting" is a feature. "Get your Monday morning back" is a benefit. Show two to three key benefits with visual demonstrations. Prioritize outcomes over specifications — buyers buy results, not functions.</p>
+    </div>
+  </div>
+  <div class="wb-step">
+    <div class="wb-step-num">05</div>
+    <div class="wb-step-content">
+      <h3>Single, Clear Call to Action — Final 10 Seconds</h3>
+      <p>End with one CTA. Not two. One. "Start your free trial," "Get a demo," "Shop now." Multiple CTAs create decision paralysis and reduce conversion. The CTA should repeat once on screen and once in the voiceover for maximum retention. Make the next step feel easy and low-risk.</p>
+    </div>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>The highest-converting product explainer videos consistently follow this five-part structure:</p>
-<!-- /wp:paragraph -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1024&q=80" alt="Animated product demo video showing outcome-focused feature showcase for SaaS" />
+  <div class="wb-img-caption">Outcome-focused product demos outperform feature lists — show the result, not the mechanism</div>
+</div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>hook with the problem</strong> — open with the exact frustration your target customer experiences. Do not mention the product yet.</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Animation vs. Live Action — <span>Which Is Right for Your Product?</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list-item -->
-<li><strong>make the pain real</strong> — show the consequences. What does this problem cost in time, money, or stress?</li>
-<!-- /wp:list-item -->
+<div class="wb-split">
+  <div class="wb-split-visual">
+    <div class="wb-split-grid"></div>
+    <div class="wb-split-icon">
+      <div class="wb-split-icon-box">🎨</div>
+      <div class="wb-split-label">Animation</div>
+    </div>
+  </div>
+  <div class="wb-split-content">
+    <h3>When Animation Wins</h3>
+    <ul class="wb-list">
+      <li><strong>Digital products and SaaS:</strong> Animation can show inside any interface, workflow, or system — live action cannot compete</li>
+      <li><strong>Technical or industrial products:</strong> 3D animation shows mechanisms, internal components, and invisible processes with complete clarity</li>
+      <li><strong>Abstract services:</strong> If the product is intangible, animation gives it a visual form that live action cannot</li>
+      <li><strong>Global deployment:</strong> Animation is easier to localize — swap voiceover and on-screen text without reshooting</li>
+      <li><strong>Evergreen content:</strong> No actors aging, no sets to rebuild — animation stays fresh for years</li>
+    </ul>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>introduce the product</strong> — present it as the solution. Name it. What does it do in one sentence?</li>
-<!-- /wp:list-item -->
+<div class="wb-split">
+  <div class="wb-split-visual">
+    <div class="wb-split-grid"></div>
+    <div class="wb-split-icon">
+      <div class="wb-split-icon-box">📷</div>
+      <div class="wb-split-label">Live Action / Hybrid</div>
+    </div>
+  </div>
+  <div class="wb-split-content">
+    <h3>When Live Action or Hybrid Wins</h3>
+    <ul class="wb-list">
+      <li><strong>Physical consumer products:</strong> Tangible objects benefit from being shown in real use contexts — food, fashion, beauty, lifestyle goods</li>
+      <li><strong>Trust-building content:</strong> Human faces build emotional connection that pure animation cannot replicate</li>
+      <li><strong>Testimonial integration:</strong> Real customers speaking on camera carry persuasive weight that animation cannot match</li>
+      <li><strong>Hybrid approach:</strong> Combine live-action product shots with animated diagrams and callouts for maximum impact</li>
+    </ul>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>demonstrate the key benefits</strong> — show 2–3 specific moments of the product working. Focus on outcomes, not features.</li>
-<!-- /wp:list-item -->
+<h2 class="wb-h2">Where to Deploy Your <span>Product Explainer Video</span></h2>
+<div class="wb-rule"></div>
+<p class="wb-p">A product explainer video built to a single-use brief is a missed opportunity. The same core asset — adapted for each deployment context — can work across your entire funnel simultaneously. Here are the five highest-impact deployment locations.</p>
 
-<!-- wp:list-item -->
-<li><strong>close with a clear CTA</strong> — one single call to action. Buy now. Start free trial. Book a demo.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<div class="wb-cards">
+  <div class="wb-card">
+    <span class="wb-card-icon">🛒</span>
+    <div class="wb-card-badge">Primary Deploy</div>
+    <h3>Product Page</h3>
+    <p>Above the fold on your product page is the single highest-impact placement. A video here replaces 500 words of copy and speaks to buyers at the exact moment of purchase consideration. Expected conversion lift: 80%.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">🏠</span>
+    <div class="wb-card-badge">Homepage</div>
+    <h3>Homepage Hero</h3>
+    <p>A 60-second product overview embedded in the homepage hero significantly reduces bounce rate and increases time-on-site. Ensures every visitor understands your value proposition within the first 90 seconds of arrival.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">📣</span>
+    <div class="wb-card-badge">Paid Media</div>
+    <h3>Paid Advertising</h3>
+    <p>Product explainers adapted to 15–30 second cuts for paid social, YouTube pre-roll, and display consistently outperform static image ads for considered purchases. Lower CPL and higher ROAS versus non-video creative.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">📧</span>
+    <div class="wb-card-badge">Email</div>
+    <h3>Email Campaigns</h3>
+    <p>Including the word "video" in an email subject line increases open rates by 19%. A GIF thumbnail linking to your product video in nurture sequences dramatically improves click-through from email to purchase page.</p>
+  </div>
+  <div class="wb-card">
+    <span class="wb-card-icon">💼</span>
+    <div class="wb-card-badge">Sales</div>
+    <h3>Sales Outreach</h3>
+    <p>Sales teams using product explainer videos in outbound sequences report 35% higher reply rates. A personalized video loom alongside the core product explainer creates a two-layer engagement approach that outperforms text-only outreach significantly.</p>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>Every second of the video serves this structure. Nothing else belongs.</p>
-<!-- /wp:paragraph -->
+<div class="wb-img-banner">
+  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Product video ROI analytics showing increased conversion rate and reduced returns" />
+  <div class="wb-img-caption">Multi-channel deployment maximizes ROI — one production investment, five or more conversion points across the funnel</div>
+</div>
 
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1024&q=80" alt="Product explainer video conversion funnel showing improved sales results from animated product demo"/></figure>
-<!-- /wp:image -->
+<div class="wb-testimonial">
+  <div class="wb-stars">★★★★★</div>
+  <div class="wb-testimonial-text">WREDD produced our SaaS product explainer and the results were immediate. Conversion on our pricing page increased by 67% in the first month. More importantly, the video dramatically reduced the number of support queries we received — customers understood what they were buying before they bought it. The ROI was clear within 60 days.</div>
+  <div class="wb-author">
+    <div class="wb-avatar">KA</div>
+    <div>
+      <h4>Kamran Ahsan</h4>
+      <span>Head of Growth, SaaS Platform — Karachi</span>
+    </div>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Animation vs Live Action for Product Videos</strong></h5>
-<!-- /wp:heading -->
+<div class="wb-cta">
+  <h2>Ready to Build a Product Video That Converts?</h2>
+  <p>WREDD specializes in product explainer videos for SaaS, e-commerce, and B2B brands — built to the conversion framework that actually drives sales.</p>
+  <div class="wb-cta-btns">
+    <a href="https://www.wredd.com/contact" class="wb-btn-primary">Get a Product Video Quote</a>
+    <a href="https://www.wredd.com/portfolio" class="wb-btn-secondary">View Product Work</a>
+  </div>
+</div>
 
-<!-- wp:paragraph -->
-<p>The format choice depends entirely on what the product is:</p>
-<!-- /wp:paragraph -->
+<h2 class="wb-h2">Frequently Asked <span>Questions</span></h2>
+<div class="wb-rule"></div>
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>digital products, apps, and SaaS</strong> — animation is almost always superior. It can show invisible processes, user interfaces, and data flows that cameras cannot capture.</li>
-<!-- /wp:list-item -->
+<div class="wb-faq">
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How long should a product explainer video be? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">For website product pages: 60–90 seconds is the established sweet spot. Long enough to cover the full five-part formula, short enough to hold attention through to the CTA. For paid social ads: 15–30 seconds. For YouTube: up to 3 minutes if the product is complex or high-consideration. The guiding rule is that every second must serve the conversion goal — add no time without adding value.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Should my product video have a voiceover? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Yes, for website deployment. Voiceover adds warmth, pacing, and information density that on-screen text alone cannot achieve. For social media distribution, design for silent viewing first — many viewers watch without audio — and add voiceover as an enhancement. Subtitles or on-screen kinetic text are essential for social deployment regardless of whether voiceover is included.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How much does a product explainer video cost? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">A professional 60–90 second animated product explainer from a specialized studio typically ranges from $3,500 to $8,000 depending on visual complexity, voiceover requirements, and style. 3D product visualization for physical or industrial products starts higher — typically $6,000–$15,000. When assessed against the conversion uplift a quality product video delivers, this investment typically pays back within 60–90 days for businesses with consistent traffic.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">Do product explainer videos work for B2B? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Absolutely. B2B buyers are still human beings responding to the same cognitive principles. However, B2B product videos need to address both emotional and rational decision-making: the personal benefit to the user and the business case for the economic buyer. B2B product videos are typically slightly longer (90–120 seconds) to accommodate the additional stakeholder considerations and often include ROI framing that pure B2C videos omit.</div>
+  </div>
+  <div class="wb-faq-item">
+    <div class="wb-faq-q">How quickly will a product video improve my conversion rate? <span class="wb-faq-arrow">+</span></div>
+    <div class="wb-faq-a">Most businesses see measurable conversion improvement within the first 30 days of deployment — assuming there is meaningful traffic to the product page. The magnitude depends on your current baseline, industry, and product complexity. Simple consumer products with clear use cases often see conversion improvements of 40–60%. Complex SaaS or B2B products — where the video also addresses comprehension barriers — often see larger improvements of 60–100% or more.</div>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>physical consumer products</strong> — 3D animation or hybrid live action. 3D allows perfect lighting and impossible camera angles. Live action shows the real texture and tactile qualities.</li>
-<!-- /wp:list-item -->
+<div class="wb-tags-wrap">
+  <div class="wb-tags-label">Topics Covered</div>
+  <div class="wb-tags">
+    <span class="wb-tag">Product Explainer Video</span>
+    <span class="wb-tag">Conversion Rate Optimization</span>
+    <span class="wb-tag">Product Demo</span>
+    <span class="wb-tag">SaaS Video</span>
+    <span class="wb-tag">E-commerce Video</span>
+    <span class="wb-tag">Video Marketing</span>
+    <span class="wb-tag">Product Animation</span>
+    <span class="wb-tag">Sales Video</span>
+    <span class="wb-tag">Landing Page Video</span>
+    <span class="wb-tag">2026 Strategy</span>
+  </div>
+</div>
 
-<!-- wp:list-item -->
-<li><strong>technical and industrial products</strong> — 3D animation. Exploded views, internal mechanism demonstrations, and assembly sequences are only possible in 3D.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<div class="wb-contact">
+  <div class="wb-contact-logo">WR<span>E</span>DD</div>
+  <div class="wb-contact-tagline">World-Class Animation & Video Production — Delivered Globally</div>
+  <div class="wb-contact-divider"></div>
+  <div class="wb-contact-info">
+    📞 <strong>Call us:</strong> +92 316 5471697<br>
+    📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>
+    🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a>
+  </div>
+  <div class="wb-social">
+    <a href="https://pk.linkedin.com/company/wredd">LinkedIn</a>
+    <a href="https://www.facebook.com/the.wredd">Facebook</a>
+    <a href="https://www.instagram.com/the.wredd">Instagram</a>
+    <a href="https://www.tiktok.com/@the.wredd">TikTok</a>
+    <a href="https://www.youtube.com/@theWredd">YouTube</a>
+  </div>
+</div>
 
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>The Critical Role of the Demo</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The product demonstration section of an explainer video is where most productions succeed or fail.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>A common mistake is showing features. The right approach is showing outcomes.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Do not show the dashboard. Show what the user feels when they see the result the dashboard delivers. Do not show the button. Show what happens after the button is clicked.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The demo should make watching it feel like using the product. That emotional simulation is what converts viewers into buyers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1024&q=80" alt="Animated product demonstration showing outcome-focused feature display in explainer video"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>Where to Deploy Your Product Explainer Video</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Product explainer videos work hardest when placed at the moment of maximum buyer consideration:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>product page — immediately above the Add to Cart or Sign Up button</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>homepage hero — as the primary content for first-time visitors</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>paid social ads — particularly effective as 30–60 second cuts for retargeting campaigns</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>email drip campaigns — at the moment of first purchase consideration</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>sales team outreach — sent to prospects before or after a discovery call</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong>How Long Should a Product Explainer Be?</strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>60 to 90 seconds for homepage and ad placement. Up to 2 minutes for complex products that require more demonstration. Every second beyond 90 costs completion rate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If you cannot explain your product's core value in 90 seconds, the problem is usually in the script — not in the product.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5 class="wp-block-heading"><strong><em>Show. Don't Tell. Convert.</em></strong></h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The brands with the highest product page conversion rates in 2026 have one thing in common: they show their product in action rather than describing it in words.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At WREDD, we produce product explainer videos that are built around the conversion framework above — not just beautiful animation. Every production decision is made in service of moving the viewer from interest to action.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>If your product deserves to be seen at its best, we will show it that way.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong><em>Follow us to see more of our work and ongoing projects.</em></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>📞 <strong>Call us:</strong> +92 316 5471697<br>📧 <strong>Email:</strong> <a href="mailto:hello@wredd.com">hello@wredd.com</a><br>🌐 <strong>Visit:</strong> <a href="https://www.wredd.com">www.wredd.com</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://pk.linkedin.com/company/wredd","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://www.facebook.com/the.wredd","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://www.instagram.com/the.wredd","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://www.tiktok.com/@the.wredd","service":"tiktok"} /-->
-
-<!-- wp:social-link {"url":"https://www.youtube.com/@theWredd","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
+</div>
+<script>document.querySelectorAll('.wb-faq-q').forEach(function(q){q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});});</script>
+<!-- /wp:html -->
